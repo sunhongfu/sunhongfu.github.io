@@ -1,1 +1,23 @@
 /* Customize colors or widths here if desired */
+/* Publication cards */
+.pub-card {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .6rem;
+  padding: 1rem 1.2rem;
+  margin: 1rem 0;
+  background: var(--md-default-bg-color);
+  box-shadow: var(--md-shadow-z1);
+}
+.pub-authors { font-size: .95rem; color: var(--md-default-fg-color--light); margin-bottom: .35rem; }
+.pub-title { font-weight: 800; font-size: 1.1rem; margin: .15rem 0 .35rem; }
+.pub-venue { font-style: italic; color: var(--md-default-fg-color--lighter); }
+.pub-badges { display: inline-flex; gap: .4rem; margin-left: .6rem; vertical-align: middle; }
+.pub-badge {
+  background: var(--md-primary-fg-color);
+  color: white; border-radius: .4rem; padding: .08rem .45rem; font-size: .72rem;
+}
+.pub-links { margin-top: .5rem; display: flex; flex-wrap: wrap; gap: .8rem; }
+.pub-links a { text-decoration: underline; }
+.pub-tags { margin-top: .35rem; font-size: .9rem; color: var(--md-default-fg-color--light); }
+.pub-tags a { color: var(--md-accent-fg-color); }
+details.pub-abs { margin-top: .5rem; }
