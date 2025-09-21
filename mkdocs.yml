@@ -42,8 +42,7 @@ extra:
 
 plugins:
   - search
-  - bibtex:
-      bib_file: docs/bib/dummy.bib
+  - bibtex
   - rss:
       match_path: "news/.*"
       date_from_meta:
