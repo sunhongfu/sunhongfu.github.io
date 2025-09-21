@@ -51,9 +51,9 @@ plugins:
         as_creation: "date"
   - minify:
       minify_html: true
-  - sitemap:
-      changefreq: monthly
-      priority: 0.5
+  # - sitemap:
+  #     changefreq: monthly
+  #     priority: 0.5
 
 nav:
   - Home: index.md
