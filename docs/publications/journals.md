@@ -7,8 +7,6 @@
 - Add year and optional DOI/URL links
 -->
 
-# Journal Articles
-
 43. Zhu, X., Gao, Y., Xiong, Z., Jiang, W., Liu, F., & **Sun, H.** (2025). **DIP-UP: Deep Image Prior for Unwrapping Phase**. *Information*, 16(7), 592. DOI: [10.3390/info16070592](https://doi.org/10.3390/info16070592)  
 42. Li, M., Chen, C., Xiong, Z., Liu, Y., Rong, P., Shan, S., Liu, F., **Sun, H.**, & Gao, Y. (2025). **Quantitative susceptibility mapping via deep neural networks with iterative reverse concatenations and recurrent modules**. *Medical Physics*. DOI: [10.1002/mp.17726](https://doi.org/10.1002/mp.17726)  
 41. Xiong, Z., Gao, Y., Liu, Y., Fazlollahi, A., Nestor, P., Liu, F., & **Sun, H.** (2023). **Quantitative Susceptibility Mapping through Model-based Deep Image Prior (MoDIP)**. *NeuroImage*. DOI: [10.1016/j.neuroimage.2023.119958](https://doi.org/10.1016/j.neuroimage.2023.119958)  
