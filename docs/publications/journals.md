@@ -1,40 +1,40 @@
 # Conference Proceedings
 
-[49]. X. Zhu, Y. Gao, Z. Xiong, W. Jiang, F. Liu, <u>**H. Sun**</u>*; DIP-UP: Deep Image Prior for Unwrapping Phase; Information. 2025; 16 (7):592.
+[49]. X. Zhu, Y. Gao, Z. Xiong, W. Jiang, F. Liu, <u>**H. Sun**</u>*; DIP-UP: Deep Image Prior for Unwrapping Phase; Information. 2025; 16 (7):592. doi: 10.3390/info16070592  
 
-[48]. M. Li, C. Chen, Z. Xiong, Y. Liu, P. Rong, S. Shan, F. Liu, <u>**H. Sun**</u>, Y. Gao; Quantitative susceptibility mapping via deep neural networks with iterative reverse concatenations and recurrent modules; Med Phys. 2025.
+[48]. M. Li, C. Chen, Z. Xiong, Y. Liu, P. Rong, S. Shan, F. Liu, <u>**H. Sun**</u>, Y. Gao; Quantitative susceptibility mapping via deep neural networks with iterative reverse concatenations and recurrent modules; Med Phys. 2025. doi: 10.1002/mp.17726  
 
-[47]. T. Ding, Y. Gao, Z. Xiong, F. Liu, M.A. Cloos, <u>**H. Sun**</u>*; MRF-Mixer: A simulation-based deep learning framework for accelerated and accurate magnetic resonance fingerprinting reconstruction; Information. 2023;16(3):218.
+[47]. T. Ding, Y. Gao, Z. Xiong, F. Liu, M.A. Cloos, <u>**H. Sun**</u>*; MRF-Mixer: A simulation-based deep learning framework for accelerated and accurate magnetic resonance fingerprinting reconstruction; Information. 2023;16(3):218. doi: 10.3390/info16030218  
 
 [46]. H. Askari, F. Roosta, <u>**H. Sun**</u>*; Training-free medical image inverses via bi-level guided diffusion models; Proc IEEE/CVF Winter Conf Appl Comput Vis (WACV). 2025;75–84.
 
 [45]. W. Jiang, Z. Xiong, F. Liu, N. Ye, <u>**H. Sun**</u>*; Fast Controllable Diffusion Models for Undersampled MRI Reconstruction; 2024 IEEE International Symposium on Biomedical Imaging (ISBI); doi: 10.1109/ISBI56570.2024.10635891.
 
-[44]. Y. Gao, Z. Xiong, S. Shan, Y. Liu, P. Rong, M. Li, A.H. Wilman, G.B. Pike, F. Liu, <u>**H. Sun**</u>*; Plug-and-Play Latent Feature Editing for Orientation-Adaptive Quantitative Susceptibility Mapping Neural Networks; Medical Imaging Analysis. 2023.
+[44]. Y. Gao, Z. Xiong, S. Shan, Y. Liu, P. Rong, M. Li, A.H. Wilman, G.B. Pike, F. Liu, <u>**H. Sun**</u>*; Plug-and-Play Latent Feature Editing for Orientation-Adaptive Quantitative Susceptibility Mapping Neural Networks; Medical Imaging Analysis. 2023. doi: 10.1016/j.media.2023.102985  
 
-[43]. Z. Xiong, Y. Gao, Y. Liu, A. Fazlollahi, P. Nestor, F. Liu, <u>**H. Sun**</u>*; Quantitative Susceptibility Mapping through Model-based Deep Image Prior (MoDIP); NeuroImage. 2023.
+[43]. Z. Xiong, Y. Gao, Y. Liu, A. Fazlollahi, P. Nestor, F. Liu, <u>**H. Sun**</u>*; Quantitative Susceptibility Mapping through Model-based Deep Image Prior (MoDIP); NeuroImage. 2023. doi: 10.1016/j.neuroimage.2023.119958  
 
-[42]. W. Zheng, Z. Dai, R. Wu, <u>**H. Sun**</u>*; Editorial: Imaging of neurometabolism; Front Neurosci. 2023; 17: 1286361.
+[42]. W. Zheng, Z. Dai, R. Wu, <u>**H. Sun**</u>*; Editorial: Imaging of neurometabolism; Front Neurosci. 2023; 17: 1286361. doi: 10.3389/fnins.2023.1286361  
 
-[41]. H. Askari, Y. Latif, <u>**H. Sun**</u>*; MapFlow: Latent Transition Via Normalizing Flow for Unsupervised Domain Adaptation; Machine Learning; 2023.
+[41]. H. Askari, Y. Latif, <u>**H. Sun**</u>*; MapFlow: Latent Transition Via Normalizing Flow for Unsupervised Domain Adaptation; Machine Learning; 2023. doi: 10.1007/s10994-023-06399-6  
 
-[40]. Z. Dai, Z. Yang, Z. Li, M. Li, <u>**H. Sun**</u>, Z. Zhuang, W. Yang, Z. Hu, X. Chen, D. Lin, X. Wu; Increased glymphatic system activity in patients with mild traumatic brain injury; Front. Neurol. [Ap]plied Neuroimaging; 2023.
+[40]. Z. Dai, Z. Yang, Z. Li, M. Li, <u>**H. Sun**</u>, Z. Zhuang, W. Yang, Z. Hu, X. Chen, D. Lin, X. Wu; Increased glymphatic system activity in patients with mild traumatic brain injury; Front. Neurol. [Ap]plied Neuroimaging; 2023. doi: 10.3389/fneur.2023.1121096  
 
-[39]. S. Shan, Y. Gao, P.Z.Y. Liu, B. Whelan, <u>**H. Sun**</u>, B. Dong, F. Liu, D.E.J. Waddington; Distortion-Corrected Image Reconstruction with Deep Learning on an MRI-Linac; Magn. Reson. Med. 2023.
+[39]. S. Shan, Y. Gao, P.Z.Y. Liu, B. Whelan, <u>**H. Sun**</u>, B. Dong, F. Liu, D.E.J. Waddington; Distortion-Corrected Image Reconstruction with Deep Learning on an MRI-Linac; Magn. Reson. Med. 2023. doi: 10.1002/mrm.29749  
 
-[38]. Z. Xiong, Y. Gao, F. Liu, <u>**H. Sun**</u>*; Affine Transformation Edited and Refined Deep Neural Network for Quantitative Susceptibility Mapping; NeuroImage; 2022.
+[38]. Z. Xiong, Y. Gao, F. Liu, <u>**H. Sun**</u>*; Affine Transformation Edited and Refined Deep Neural Network for Quantitative Susceptibility Mapping; NeuroImage; 2022. doi: 10.1016/j.neuroimage.2022.119058  
 
 [37]. N. Nathoo, M. Gee, K. Nelles, J. Burt, <u>**H. Sun**</u>, P. Seres, A.H. Wilman, C. Beaulieu, F. Ba, R. Camicioli; Quantitative susceptibility mapping changes relate to gait issues in Parkinson’s Disease; Can J Neurol Sci. 2022 Nov 10:1-22. doi: 10.1017/cjn.2022.316.
 
-[36]. R. Yang, M. Hamilton, <u>**H. Sun**</u>, K. Rawji, S. Sarkar, R. Mirzaei, G.B. Pike, W. Yong, J.F. Dunn; Detecting monocyte trafficking in an animal model of glioblastoma using R2* and quantitative susceptibility mapping; Cancer Immunology, Immunotherapy; 2022.
+[36]. R. Yang, M. Hamilton, <u>**H. Sun**</u>, K. Rawji, S. Sarkar, R. Mirzaei, G.B. Pike, W. Yong, J.F. Dunn; Detecting monocyte trafficking in an animal model of glioblastoma using R2* and quantitative susceptibility mapping; Cancer Immunology, Immunotherapy; 2022. doi: 10.1007/s00262-022-03138-1  
 
-[35]. D. Nakhid, C.  McMorris, <u>**H. Sun**</u>, W.B. Gibbard, C. Tortorelli, C.  Lebel; Brain Volume and Magnetic Susceptibility Differences in Children and Adolescents with Prenatal Alcohol Exposure; Alcoholism: Clinical and Experimental Research; 2022.
+[35]. D. Nakhid, C.  McMorris, <u>**H. Sun**</u>, W.B. Gibbard, C. Tortorelli, C.  Lebel; Brain Volume and Magnetic Susceptibility Differences in Children and Adolescents with Prenatal Alcohol Exposure; Alcoholism: Clinical and Experimental Research; 2022. doi: 10.1111/acer.14811  
 
-[34]. A. De, <u>**H. Sun**</u>, D.J. Emery, K.C. Butcher, A.H. Wilman; Quantitative susceptibility-weighted imaging in presence of strong susceptibility sources: Application to hemorrhage; Magn. Reson Imaging 2022.
+[34]. A. De, <u>**H. Sun**</u>, D.J. Emery, K.C. Butcher, A.H. Wilman; Quantitative susceptibility-weighted imaging in presence of strong susceptibility sources: Application to hemorrhage; Magn. Reson Imaging 2022. doi: 10.1016/j.mri.2022.02.001  
 
-[33]. Y. Gao, Z. Xiong, A. Fazlollahi, P.J. Nestor, V. Vegh, F. Nasrallah, C. Winter, G.B. Pike, S. Crozier, F. Liu, <u>**H. Sun**</u>*; Instant tissue field and magnetic susceptibility mapping from MRI raw phase using Laplacian enhanced deep neural networks; NeuroImage. 2022.
+[33]. Y. Gao, Z. Xiong, A. Fazlollahi, P.J. Nestor, V. Vegh, F. Nasrallah, C. Winter, G.B. Pike, S. Crozier, F. Liu, <u>**H. Sun**</u>*; Instant tissue field and magnetic susceptibility mapping from MRI raw phase using Laplacian enhanced deep neural networks; NeuroImage. 2022. doi: 10.1016/j.neuroimage.2022.119330  
 
-[32]. X. Zhu, Y. Gao, F. Liu, S. Crozier, <u>**H. Sun**</u>*; BFRnet: A deep learning-based MR background field removal method for QSM of the brain containing significant pathological susceptibility sources. Z Med Phys. 2022.
+[32]. X. Zhu, Y. Gao, F. Liu, S. Crozier, <u>**H. Sun**</u>*; BFRnet: A deep learning-based MR background field removal method for QSM of the brain containing significant pathological susceptibility sources. Z Med Phys. 2022. doi: 10.1016/j.zemedi.2022.01.006  
 
 [31]. D. Nakhid, C.  McMorris, <u>**H. Sun**</u>, B. Gibbard, C. Tortorelli, C.  Lebel; Brain iron and mental health symptoms in youth with and without prenatal alcohol exposure; Nutrients; 2022.
 
