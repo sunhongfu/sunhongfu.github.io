@@ -44,7 +44,6 @@ plugins:
   - bibtex:
       bib_file: docs/bib/papers.bib
       csl_file: null
-      cite_inline: false
   - rss:
       match_path: "news/.*"
       date_from_meta:
