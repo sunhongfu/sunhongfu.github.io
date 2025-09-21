@@ -42,7 +42,7 @@ extra:
 plugins:
   - search
   - bibtex:
-      bib_file: docs/bib/papers.bib
+      bib_file: []
       csl_file: null
   - rss:
       match_path: "news/.*"
@@ -58,7 +58,10 @@ nav:
   - Home: index.md
   - CV: cv.md
   - Research: research.md
-  - Publications: publications.md
+  - Publications:
+      - Journals: publications/journals.md
+      - Conferences: publications/conferences.md
+      - Editorials / Book Chapters: publications/editorials.md
   - Awards: awards.md
   - Teaching:
       - Overview: teaching.md
