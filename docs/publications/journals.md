@@ -1,7 +1,7 @@
 ---
-bibliography: bib/editorials.bib
+bibliography: bib/journals.bib
 ---
 
-# Editorials / Book Chapters
+# Journal Articles
 
 \full_bibliography

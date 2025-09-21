@@ -82,5 +82,3 @@ markdown_extensions:
 
 extra_css:
   - assets/extra.css
-
-docs_dir: docs   # <-- add this if you had changed it
