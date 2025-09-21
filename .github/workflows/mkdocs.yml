@@ -23,7 +23,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install mkdocs-material mkdocs-bibtex mkdocs-minify-plugin mkdocs-rss-plugin
       - name: Build
-        run: mkdocs build --clean --strict
+        run: mkdocs build --strict
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
