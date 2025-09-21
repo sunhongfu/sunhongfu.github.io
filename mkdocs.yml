@@ -44,10 +44,6 @@ plugins:
   - search
   - bibtex:
       bib_file: docs/bib/journals.bib
-  - bibtex:
-      bib_file: docs/bib/conferences.bib
-  - bibtex:
-      bib_file: docs/bib/editorials.bib
   - rss:
       match_path: "news/.*"
       date_from_meta:
