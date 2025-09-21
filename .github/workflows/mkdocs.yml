@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install mkdocs-material "mkdocs-bibtex>=2.14.0" mkdocs-minify-plugin mkdocs-rss-plugin
+          pip install mkdocs-material mkdocs-minify-plugin mkdocs-rss-plugin
       - name: Build
         run: mkdocs build --strict
       - name: Deploy to GitHub Pages

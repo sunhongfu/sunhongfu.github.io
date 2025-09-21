@@ -42,7 +42,6 @@ extra:
 
 plugins:
   - search
-  - bibtex
   - rss:
       match_path: "news/.*"
       date_from_meta:

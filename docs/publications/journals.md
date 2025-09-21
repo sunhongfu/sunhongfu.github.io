@@ -1,7 +1,55 @@
----
-bibliography: docs/bib/journals.bib
----
-
 # Journal Articles
 
-\full_bibliography
+<!-- Formatting guide (delete this block if you like):
+- Bold your name (**Sun, Hongfu**) inside the author list
+- Bold the paper title
+- Italicize the journal name
+- Add year and optional DOI/URL links
+-->
+
+
+* **Zhu, X. et al. (2025).** DIP-UP: Deep Image Prior for Unwrapping Phase. *Information*, 16(7), 592. DOI: [10.3390/info16070592](https://doi.org/10.3390/info16070592)
+* **Li, M. et al. (2025).** Quantitative susceptibility mapping via deep neural networks with iterative reverse concatenations and recurrent modules. *Medical Physics*. DOI: [10.1002/mp.17726](https://doi.org/10.1002/mp.17726)
+* **Ding, T. et al. (2023).** MRF-Mixer: A simulation-based deep learning framework for accelerated and accurate magnetic resonance fingerprinting reconstruction. *Information*, 16(3), 218. DOI: [10.3390/info14030218](https://doi.org/10.3390/info14030218)
+* **Gao, Y. et al. (2023).** Plug-and-Play Latent Feature Editing for Orientation-Adaptive Quantitative Susceptibility Mapping Neural Networks. *Medical Image Analysis*. DOI: [10.1016/j.media.2023.102985](https://doi.org/10.1016/j.media.2023.102985)
+* **Xiong, Z. et al. (2023).** Quantitative Susceptibility Mapping through Model-based Deep Image Prior (MoDIP). *NeuroImage*. DOI: [10.1016/j.neuroimage.2023.119958](https://doi.org/10.1016/j.neuroimage.2023.119958)
+* **Askari, H. et al. (2023).** MapFlow: Latent Transition Via Normalizing Flow for Unsupervised Domain Adaptation. *Machine Learning*. DOI: [10.1007/s10994-023-06399-6](https://doi.org/10.1007/s10994-023-06399-6)
+* **Dai, Z. et al. (2023).** Increased glymphatic system activity in patients with mild traumatic brain injury. *Frontiers in Neurology: Applied Neuroimaging*. DOI: [10.3389/fneur.2023.1121096](https://doi.org/10.3389/fneur.2023.1121096)
+* **Shan, S. et al. (2023).** Distortion-Corrected Image Reconstruction with Deep Learning on an MRI-Linac. *Magnetic Resonance in Medicine*. DOI: [10.1002/mrm.29749](https://doi.org/10.1002/mrm.29749)
+* **Xiong, Z. et al. (2022).** Affine Transformation Edited and Refined Deep Neural Network for Quantitative Susceptibility Mapping. *NeuroImage*. DOI: [10.1016/j.neuroimage.2022.119058](https://doi.org/10.1016/j.neuroimage.2022.119058)
+* **Nathoo, N. et al. (2022).** Quantitative susceptibility mapping changes relate to gait issues in Parkinson’s Disease. *Canadian Journal of Neurological Sciences*, 1–22. DOI: [10.1017/cjn.2022.316](https://doi.org/10.1017/cjn.2022.316)
+* **Yang, R. et al. (2022).** Detecting monocyte trafficking in an animal model of glioblastoma using R2* and quantitative susceptibility mapping. *Cancer Immunology, Immunotherapy*. DOI: [10.1007/s00262-022-03138-1](https://doi.org/10.1007/s00262-022-03138-1)
+* **Nakhid, D. et al. (2022).** Brain Volume and Magnetic Susceptibility Differences in Children and Adolescents with Prenatal Alcohol Exposure. *Alcoholism: Clinical and Experimental Research*. DOI: [10.1111/acer.14811](https://doi.org/10.1111/acer.14811)
+* **De, A. et al. (2022).** Quantitative susceptibility-weighted imaging in presence of strong susceptibility sources: Application to hemorrhage. *Magnetic Resonance Imaging*. DOI: [10.1016/j.mri.2022.02.001](https://doi.org/10.1016/j.mri.2022.02.001)
+* **Gao, Y. et al. (2022).** Instant tissue field and magnetic susceptibility mapping from MRI raw phase using Laplacian enhanced deep neural networks. *NeuroImage*. DOI: [10.1016/j.neuroimage.2022.119330](https://doi.org/10.1016/j.neuroimage.2022.119330)
+* **Zhu, X. et al. (2022).** BFRnet: A deep learning-based MR background field removal method for QSM of the brain containing significant pathological susceptibility sources. *Zeitschrift f{\"u}r Medizinische Physik*. DOI: [10.1016/j.zemedi.2022.01.006](https://doi.org/10.1016/j.zemedi.2022.01.006)
+* **Nakhid, D. et al. (2022).** Brain iron and mental health symptoms in youth with and without prenatal alcohol exposure. *Nutrients*. DOI: [10.3390/nu14142858](https://doi.org/10.3390/nu14142858)
+* **Yang, Z. et al. (2022).** Distinguishing COVID-19 from influenza pneumonia in the early stage through CT imaging and clinical features. *Frontiers in Microbiology*. DOI: [10.3389/fmicb.2022.956799](https://doi.org/10.3389/fmicb.2022.956799)
+* **Gao, Y. et al. (2021).** Accelerating quantitative susceptibility and R2* mapping using incoherent undersampling and deep neural network reconstruction. *NeuroImage*. DOI: [10.1016/j.neuroimage.2021.118023](https://doi.org/10.1016/j.neuroimage.2021.118023)
+* **Zhu, X. et al. (2021).** Deep grey matter quantitative susceptibility mapping from small spatial coverages using deep learning. *Zeitschrift f{\"u}r Medizinische Physik*. DOI: [10.1016/j.zemedi.2021.05.003](https://doi.org/10.1016/j.zemedi.2021.05.003)
+* **Yang, Z. et al. (2021).** Atypical presentations of coronavirus disease 2019 (COVID-19) from onset to readmission. *BMC Infectious Diseases*, 21(1), 127. DOI: [10.1186/s12879-021-05822-2](https://doi.org/10.1186/s12879-021-05822-2)
+* **Liu, X. et al. (2021).** On the regularization of feature fusion and mapping for fast MR multi-contrast imaging via iterative networks. *Magnetic Resonance Imaging*, 77, 159–168. DOI: [10.1016/j.mri.2020.12.013](https://doi.org/10.1016/j.mri.2020.12.013)
+* **Gao, Y. et al. (2020).** xQSM: Quantitative Susceptibility Mapping with Octave Convolutional and Noise Regularized Neural Networks. *NMR in Biomedicine*. DOI: [10.1002/nbm.4374](https://doi.org/10.1002/nbm.4374)
+* **Dai, Z. et al. (2020).** Amide signal intensities may be reduced in the motor cortex and the corticospinal tract of ALS patients. *European Radiology*. DOI: [10.1007/s00330-020-06835-x](https://doi.org/10.1007/s00330-020-06835-x)
+* **MacDonald, M. E. et al. (2020).** Age-related differences in cerebral blood flow and cortical thickness with an application to age prediction. *Neurobiology of Aging*, 95, 131–142. DOI: [10.1016/j.neurobiolaging.2020.07.009](https://doi.org/10.1016/j.neurobiolaging.2020.07.009)
+* **Ma, Y. et al. (2020).** Quantification of brain oxygen extraction fraction using QSM and a hyperoxic challenge. *Magnetic Resonance in Medicine*. DOI: [10.1002/mrm.28390](https://doi.org/10.1002/mrm.28390)
+* **Chen, X. et al. (2020).** A diagnostic model for COVID-19 based on radiological semantic and clinical features: a multi-center study. *European Radiology*. DOI: [10.1007/s00330-020-07086-4](https://doi.org/10.1007/s00330-020-07086-4)
+* **Naji, N. et al. (2020).** On the value of QSM from MPRAGE for segmenting and quantifying iron-rich deep gray matter. *Magnetic Resonance in Medicine*. DOI: [10.1002/mrm.28226](https://doi.org/10.1002/mrm.28226)
+* **Sun, H. et al. (2020).** Extracting more for less: Multi-echo MP2RAGE for simultaneous T1-weighted imaging, T1 mapping, R2* mapping, SWI, and QSM from a single acquisition. *Magnetic Resonance in Medicine*, 83(4), 1178–1191. DOI: [10.1002/mrm.28014](https://doi.org/10.1002/mrm.28014)
+* **Ma, Y. et al. (2020).** Cerebral OEF quantification: A comparison study between quantitative susceptibility mapping and dual-gas calibrated BOLD imaging. *Magnetic Resonance in Medicine*, 83(1), 68–82. DOI: [10.1002/mrm.27926](https://doi.org/10.1002/mrm.27926)
+* **De, A. et al. (2020).** Rapid quantitative susceptibility mapping of intracerebral hemorrhage. *Journal of Magnetic Resonance Imaging*, 51(3), 712–718. DOI: [10.1002/jmri.26876](https://doi.org/10.1002/jmri.26876)
+* **Elkady, A. M. et al. (2019).** Five Year Iron Changes in Relapsing-Remitting Multiple Sclerosis Deep Gray Matter Compared to Healthy Controls. *Multiple Sclerosis and Related Disorders*, 33, 107–115. DOI: [10.1016/j.msard.2019.05.024](https://doi.org/10.1016/j.msard.2019.05.024)
+* **Walsh, A. J. et al. (2018).** Hematocrit Measurement with R2* and Quantitative Susceptibility Mapping in Postmortem Brain. *American Journal of Neuroradiology*, 39(7), 1260–1266. DOI: [10.3174/ajnr.A5671](https://doi.org/10.3174/ajnr.A5671)
+* **Sun, H. et al. (2018).** Whole Head Quantitative Susceptibility Mapping Using a Least-norm Direct Dipole Inversion Method. *NeuroImage*, 179, 166–175. DOI: [10.1016/j.neuroimage.2018.06.025](https://doi.org/10.1016/j.neuroimage.2018.06.025)
+* **Sun, H. et al. (2018).** Quantitative Susceptibility Mapping for Following of Intracranial Hemorrhage. *Radiology*, 288(3), 830–839. DOI: [10.1148/radiol.2018172087](https://doi.org/10.1148/radiol.2018172087)
+* **Elkady, A. M. et al. (2018).** Discriminative Analysis of Regional Evolution of Iron and Myelin/Calcium in Deep Gray Matter of Relapsing-Remitting Multiple Sclerosis and Healthy Subjects. *Journal of Magnetic Resonance Imaging*, 48(3), 652–668. DOI: [10.1002/jmri.25992](https://doi.org/10.1002/jmri.25992)
+* **Kmech, J. et al. (2017).** Cognitive Implications of Deep Gray Matter Iron in Multiple Sclerosis. *American Journal of Neuroradiology*, 38(5), 942–948. DOI: [10.3174/ajnr.A5129](https://doi.org/10.3174/ajnr.A5129)
+* **Elkady, A. M. et al. (2017).** Progressive Iron Accumulation Across Multiple Sclerosis Phenotypes Revealed by Sparse Classification of Deep Gray Matter. *Journal of Magnetic Resonance Imaging*, 46(5), 1464–1473. DOI: [10.1002/jmri.25624](https://doi.org/10.1002/jmri.25624)
+* **Juh{\'a}s, M. et al. (2017).** Deep Grey Matter Iron Accumulation in Alcohol Use Disorder. *NeuroImage*, 148, 115–122. DOI: [10.1016/j.neuroimage.2017.01.002](https://doi.org/10.1016/j.neuroimage.2017.01.002)
+* **Sun, H. et al. (2016).** Structural and Functional Quantitative Susceptibility Mapping from Standard fMRI Studies. *NMR in Biomedicine*. DOI: [10.1002/nbm.3619](https://doi.org/10.1002/nbm.3619)
+* **Elkady, A. M. et al. (2016).** Importance of extended spatial coverage for quantitative susceptibility mapping of iron-rich deep grey matter. *Journal of Magnetic Resonance Imaging*, 34(4), 574–578. DOI: [10.1002/jmri.25206](https://doi.org/10.1002/jmri.25206)
+* **Sun, H. et al. (2016).** Quantitative susceptibility mapping using a superposed dipole inversion method: application to intracranial hemorrhage. *Magnetic Resonance in Medicine*, 76(3), 781–791. DOI: [10.1002/mrm.25919](https://doi.org/10.1002/mrm.25919)
+* **Cobzas, D. et al. (2015).** Voxel-based analysis of subcortical grey matter using transverse relaxation and quantitative susceptibility mapping with application to multiple sclerosis. *Journal of Magnetic Resonance Imaging*, 42, 1601–1610. DOI: [10.1002/jmri.24951](https://doi.org/10.1002/jmri.24951)
+* **Sun, H. et al. (2015).** Validation of quantitative susceptibility mapping with Perls' iron staining for subcortical gray matter. *NeuroImage*, 105, 486–492. DOI: [10.1016/j.neuroimage.2014.11.010](https://doi.org/10.1016/j.neuroimage.2014.11.010)
+* **Sun, H. et al. (2015).** Quantitative susceptibility mapping using single-shot echo-planar imaging. *Magnetic Resonance in Medicine*, 73, 1932–1938. DOI: [10.1002/mrm.25316](https://doi.org/10.1002/mrm.25316)
+* **Sun, H. et al. (2014).** Background field removal using spherical mean value filtering and Tikhonov regularization. *Magnetic Resonance in Medicine*, 71, 1151–1157. DOI: [10.1002/mrm.24765](https://doi.org/10.1002/mrm.24765)
