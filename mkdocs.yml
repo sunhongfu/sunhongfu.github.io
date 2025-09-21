@@ -1,0 +1,84 @@
+site_name: Hongfu Sun
+site_description: "Senior Lecturer · Medical Imaging & AI"
+site_url: https://sunhongfu.github.io/sunhongfu.github.io/
+repo_url: https://github.com/sunhongfu/sunhongfu.github.io
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.footer
+    - content.code.copy
+    - search.highlight
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: pink
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: pink
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+
+extra:
+  social:
+    - icon: fontawesome/brands/google-scholar
+      link: https://scholar.google.com/
+    - icon: fontawesome/brands/github
+      link: https://github.com/sunhongfu
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/
+  generator: false
+
+plugins:
+  - search
+  - bibtex:
+      bib_file: docs/bib/papers.bib
+      csl_file: null
+      cite_inline: false
+  - rss:
+      match_path: "news/.*"
+      date_from_meta:
+        as_creation: "date"
+  - minify:
+      minify_html: true
+  - sitemap:
+      changefreq: monthly
+      priority: 0.5
+
+nav:
+  - Home: index.md
+  - CV: cv.md
+  - Research: research.md
+  - Publications: publications.md
+  - Awards: awards.md
+  - Teaching:
+      - Overview: teaching.md
+  - Software: software.md
+  - Students: students.md
+  - Talks: talks.md
+  - News: news/index.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - md_in_html
+  - pymdownx.arithmatex
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+
+extra_css:
+  - assets/extra.css

@@ -1,0 +1,6 @@
+# Students
+
+I enjoy mentoring undergraduate and PhD students on MRI + AI topics.
+
+- **Current:** …  
+- **Alumni:** …
