@@ -1,5 +1,5 @@
 ---
-bibliography: bib/editorials.bib
+bibliography: docs/bib/editorials.bib
 ---
 
 # Editorials / Book Chapters

@@ -1,5 +1,5 @@
 ---
-bibliography: bib/journals.bib
+bibliography: docs/bib/journals.bib
 ---
 
 # Journal Articles
