@@ -1,9 +1,8 @@
 # Publications
 
-- [Journal Articles](journals.md)
-- [Conference Proceedings](conferences.md)
-- [Editorials / Book Chapters](editorials.md)
-
+- [Journal Articles](publications/journals.md)
+- [Conference Proceedings](publications/conferences.md)
+- [Editorials / Book Chapters](publications/editorials.md)
 ---
 
 ## Preprints
