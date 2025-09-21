@@ -1,37 +1,8 @@
 # Publications
 
-This page is generated from BibTeX using the **mkdocs-bibtex** plugin.  
-Entries are grouped by type via the `keywords` field.
-
----
-
-## Journal Articles
-
-::: {#pubs-journals}
-```bibtex
-!bibliography --filter keywords=journal
-```
-:::
-
----
-
-## Conference Proceedings
-
-::: {#pubs-conferences}
-```bibtex
-!bibliography --filter keywords=conference
-```
-:::
-
----
-
-## Editorials / Book Chapters
-
-::: {#pubs-editorials}
-```bibtex
-!bibliography --filter keywords=editorial
-```
-:::
+- [Journal Articles](journals.md)
+- [Conference Proceedings](conferences.md)
+- [Editorials / Book Chapters](editorials.md)
 
 ---
 
