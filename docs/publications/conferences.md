@@ -1,5 +1,5 @@
 ---
-bibliography: docs/bib/conferences.bib
+bibliography: bib/conferences.bib
 ---
 
 # Conference Proceedings
