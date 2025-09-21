@@ -41,9 +41,7 @@ extra:
 
 plugins:
   - search
-  - bibtex:
-      bib_file: []
-      csl_file: null
+  - bibtex
   - rss:
       match_path: "news/.*"
       date_from_meta:
