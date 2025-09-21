@@ -42,7 +42,7 @@ extra:
 plugins:
   - search
   - bibtex:
-      bib_file: bib/journals.bib   # default; pages above override this
+      bib_file: docs/bib/journals.bib   # default; pages above override this
   - rss:
       match_path: "news/.*"
       date_from_meta:
