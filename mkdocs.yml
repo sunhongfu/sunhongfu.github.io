@@ -41,8 +41,7 @@ extra:
 
 plugins:
   - search
-  - bibtex:
-      bib_file: docs/bib/journals.bib   # default; pages above override this
+  - bibtex
   - rss:
       match_path: "news/.*"
       date_from_meta:
@@ -58,7 +57,6 @@ nav:
   - CV: cv.md
   - Research: research.md
   - Publications:
-      - Overview: publications.md          # optional landing page
       - Journals: publications/journals.md
       - Conferences: publications/conferences.md
       - Editorials / Book Chapters: publications/editorials.md
