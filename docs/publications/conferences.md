@@ -190,20 +190,20 @@
 
 [10]. <u>**H. Sun**</u>, A.J. Walsh, G. Blevins, J-Q. Lu, E.S. Johnson, K.G. Warren, A.H. Wilman; Susceptibility mapping development and application to brain iron in multiple sclerosis using postmortem studies; QSM workshop; Cornell University, Ithaca; 2013.
 
-[9.] <u>**H. Sun**</u>, A.H. Wilman; Susceptibility imaging of the brain at high field; 2013 Alberta Imaging Symposium; Foothills Medical Centre, Calgary; 2013.
+[9]. <u>**H. Sun**</u>, A.H. Wilman; Susceptibility imaging of the brain at high field; 2013 Alberta Imaging Symposium; Foothills Medical Centre, Calgary; 2013.
 
-[8.] <u>**H. Sun**</u>, A.J. Walsh, K.G. Warren, G. Blevins, E.S. Johnson, J-Q. Lu, A.H. Wilman; Validation of QSM for brain iron mapping in multiple sclerosis using postmortem studies; QSM workshop; Cornell University, Ithaca; 2013.
+[8]. <u>**H. Sun**</u>, A.J. Walsh, K.G. Warren, G. Blevins, E.S. Johnson, J-Q. Lu, A.H. Wilman; Validation of QSM for brain iron mapping in multiple sclerosis using postmortem studies; QSM workshop; Cornell University, Ithaca; 2013.
 
-[7.] R. Topfer, <u>**H. Sun**</u>, A.H. Wilman; Edge-Extended Harmonic Phase Processing Incorporating Priors; QSM workshop; Cornell University, Ithaca; 2013.
+[7]. R. Topfer, <u>**H. Sun**</u>, A.H. Wilman; Edge-Extended Harmonic Phase Processing Incorporating Priors; QSM workshop; Cornell University, Ithaca; 2013.
 
-[6.] <u>**H. Sun**</u>, A.J. Walsh, R.M. Lebel, G. Blevins, I. Catz, J-Q. Lu, E.S. Johnson, D.J. Emery, K.G. Warren, A.H. Wilman; Validation of susceptibility mapping for quantification of iron in subcortical grey matter in multiple sclerosis; ISMRM; Salt Lake City; 2013.
+[6]. <u>**H. Sun**</u>, A.J. Walsh, R.M. Lebel, G. Blevins, I. Catz, J-Q. Lu, E.S. Johnson, D.J. Emery, K.G. Warren, A.H. Wilman; Validation of susceptibility mapping for quantification of iron in subcortical grey matter in multiple sclerosis; ISMRM; Salt Lake City; 2013.
 
-[5.] <u>**H. Sun**</u>, A.H. Wilman; Susceptibility Mapping Using Regularization Enabled Harmonic Artifact Removal; ISMRM; Salt Lake City; 2013.
+[5]. <u>**H. Sun**</u>, A.H. Wilman; Susceptibility Mapping Using Regularization Enabled Harmonic Artifact Removal; ISMRM; Salt Lake City; 2013.
 
-[4.] <u>**H. Sun**</u>, A.J. Walsh, K.G. Warren, G. Blevins, E.S. Johnson, J-Q. Lu, A.H. Wilman; Quantitative susceptibility mapping for multiple sclerosis using MRI; 4th Annual Graduate Research Symposium; University of Alberta, Edmonton; 2013.
+[4]. <u>**H. Sun**</u>, A.J. Walsh, K.G. Warren, G. Blevins, E.S. Johnson, J-Q. Lu, A.H. Wilman; Quantitative susceptibility mapping for multiple sclerosis using MRI; 4th Annual Graduate Research Symposium; University of Alberta, Edmonton; 2013.
 
-[3.] <u>**H. Sun**</u>, A.H. Wilman; Development of Quantitative susceptibility mapping; Canadian Graduate Engineering Consortium Recruiting Event; University of Alberta, Edmonton; 2013.
+[3]. <u>**H. Sun**</u>, A.H. Wilman; Development of Quantitative susceptibility mapping; Canadian Graduate Engineering Consortium Recruiting Event; University of Alberta, Edmonton; 2013.
 
-[2.] <u>**H. Sun**</u>, A.H. Wilman; Quantitative Susceptibility Mapping at 4.7T MRI; 3rd Annual Graduate Research Symposium; University of Alberta, Edmonton; 2012.
+[2]. <u>**H. Sun**</u>, A.H. Wilman; Quantitative Susceptibility Mapping at 4.7T MRI; 3rd Annual Graduate Research Symposium; University of Alberta, Edmonton; 2012.
 
-[1.] <u>**H. Sun**</u>, A.H. Wilman; Quantitative Susceptibility Mapping from Multi-echo Gradient-echo Sequence at 4.7 T; Alberta Imaging Symposium; Foothills Medical Centre, Calgary; 2012.
+[1]. <u>**H. Sun**</u>, A.H. Wilman; Quantitative Susceptibility Mapping from Multi-echo Gradient-echo Sequence at 4.7 T; Alberta Imaging Symposium; Foothills Medical Centre, Calgary; 2012.
