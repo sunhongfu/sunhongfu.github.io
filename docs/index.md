@@ -1,5 +1,7 @@
 # Hongfu Sun
 
+![Profile picture](assets/profile.jpg){ width="200" style="border-radius: 50%;" }
+
 Senior Lecturer · Medical Imaging & AI · University of Newcastle
 
 [Email](mailto:hongfu.sun@newcastle.edu.au) · [Google Scholar](https://scholar.google.com/citations?user=aY5eZ54AAAAJ&hl=en) · [GitHub](https://github.com/sunhongfu) · [ORCID](https://orcid.org/0000-0003-3436-7831)
