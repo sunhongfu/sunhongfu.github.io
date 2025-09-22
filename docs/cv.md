@@ -1,10 +1,10 @@
 # Curriculum Vitae  
 
 <div class="cv-buttons">
-  <a class="cv-btn open" href="docs/assets/Hongfu_Sun_CV.pdf" target="_blank" rel="noopener">
+  <a class="cv-btn open" href="/assets/Hongfu_Sun_CV.pdf" target="_blank" rel="noopener">
     📄 Open Full CV (PDF)
   </a>
-  <a class="cv-btn download" href="docs/assets/Hongfu_Sun_CV.pdf" download>
+  <a class="cv-btn download" href="/assets/Hongfu_Sun_CV.pdf" download>
     ⬇️ Download CV (PDF)
   </a>
 </div>
@@ -79,14 +79,6 @@ Honorary Senior Research Fellow | University of Queensland | Australia
     <div class="cv-title">
       Discipline Lead, Centre for Medical Engineering Research
       <div class="cv-sub">University of Newcastle & HMRI</div>
-    </div>
-    <span class="cv-year">2024</span>
-  </div>
-
-  <div class="cv-card">
-    <div class="cv-title">
-      Medical Engineering Program Convenor
-      <div class="cv-sub">University of Newcastle</div>
     </div>
     <span class="cv-year">2024</span>
   </div>
