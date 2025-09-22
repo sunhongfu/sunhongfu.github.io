@@ -108,7 +108,9 @@
   border-radius: 20px;
   white-space: nowrap;
 }
-/* ===== Awards cards ===== */
+
+
+/* ===== Awards cards (fixed right-aligned year) ===== */
 .awards-list {
   display: grid;
   grid-template-columns: 1fr;
@@ -116,20 +118,20 @@
 }
 
 .award-card {
-  display: flex;
-  justify-content: space-between; /* pushes title left, year right */
-  align-items: center;
+  display: flex;                 /* row layout */
+  align-items: flex-start;       /* top-align text + badge */
+  gap: 1rem;                     /* space between text and badge */
   padding: 1rem 1.25rem;
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 14px;
   background: var(--md-default-bg-color);
-  margin-bottom: .75rem;
   box-shadow: 0 1px 2px rgba(0,0,0,.04);
 }
 
 .award-title {
+  flex: 1 1 auto;                /* take remaining width */
   display: flex;
-  flex-direction: column; /* stack award name + sub */
+  flex-direction: column;        /* title on top, subtitle under */
   margin: 0;
   font-weight: 700;
 }
@@ -141,18 +143,22 @@
   font-weight: 400;
 }
 
+/* The year badge: don't allow it to stretch; pin to the right */
 .award-year {
-  background-color: #3f51b5; /* indigo */
-  color: white;
+  flex: 0 0 auto;                /* never grow or shrink */
+  margin-left: auto;             /* push it to the right edge */
+  display: inline-flex;          /* keep pill size to content */
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;           /* never wrap */
+  background-color: #3f51b5;     /* indigo */
+  color: #fff;
   font-size: 0.75em;
-  font-weight: bold;
+  font-weight: 700;
   padding: 4px 10px;
-  border-radius: 20px;
-  margin-left: 1rem;
-  white-space: nowrap; /* prevent wrapping */
+  border-radius: 999px;
 }
 
-/* optional: tighter on mobile, roomier on wide screens */
 @media (min-width: 900px) {
   .awards-list { gap: 1.25rem; }
 }
