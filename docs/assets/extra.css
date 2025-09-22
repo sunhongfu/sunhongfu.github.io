@@ -169,73 +169,88 @@
   transition: box-shadow .2s ease, transform .05s ease;
 }
 
-.software-card:hover {
-  box-shadow: 0 6px 18px rgba(0,0,0,.06);
+.software-card:hover { box-shadow: 0 6px 18px rgba(0,0,0,.06); }
+
+/* ---- title row with actions on the right ---- */
+.software-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: .75rem;
+  margin-bottom: .35rem;
+  flex-wrap: wrap;  /* actions wrap under title on narrow screens */
 }
 
 .software-title {
   font-weight: 700;
   font-size: 1.1rem;
-  margin-bottom: 0.25rem;
+  margin: 0; /* no extra spacing; header controls it */
 }
 
+/* subtitle line under the header */
 .software-authors {
   color: var(--md-default-fg-color--light);
   font-size: 0.9rem;
-  margin-bottom: 0.5rem;
+  margin: 0 0 0.5rem 0;
 }
 
 .software-venue {
   color: var(--md-default-fg-color);
-  margin-bottom: 0.75rem;
+  margin: 0 0 .75rem 0;
   line-height: 1.4;
 }
 
+/* ---- actions live in the header now ---- */
 .software-actions {
   display: flex;
-  gap: .5rem;
+  align-items: center;
+  gap: .4rem;
   flex-wrap: wrap;
-  margin-top: auto;
+  margin: 0;       /* no push-down spacing */
 }
 
 /* ===== Buttons vs Tags ===== */
 
-/* Base anchor reset */
+/* reset */
 .software-btn {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
   text-decoration: none;
-  line-height: 1.2;
+  line-height: 1.1;
+  white-space: nowrap;
 }
 
-/* Action buttons (Paper, GitHub) */
+/* Action buttons (Paper, GitHub) – small, distinct from tags */
 .software-btn.action {
   border: 1px solid var(--md-default-fg-color--lightest);
   background: transparent;
   color: var(--md-typeset-a-color);
-  border-radius: 6px;           /* square-ish corners */
-  padding: .35rem .75rem;
-  font-size: .85rem;
-  font-weight: 500;
+  border-radius: 6px;
+  padding: .28rem .55rem;
+  font-size: .82rem;
+  font-weight: 600;
 }
-
-.software-btn.action:hover {
-  background: var(--md-default-fg-color--lightest);
-}
+.software-btn.action:hover { background: var(--md-default-fg-color--lightest); }
 
 /* Small colored tech tags */
-/* Smaller tech tags */
 .software-tag {
-  font-size: 0.7rem;
-  font-weight: 600;
-  padding: 0.1rem 0.35rem;
+  font-size: .68rem;
+  font-weight: 700;
+  padding: .14rem .42rem;
   border-radius: 999px;
   color: #fff;
+  vertical-align: middle;
 }
 
 .software-tag.matlab { background: #e67e22; } /* orange */
-.software-tag.python { background: #3572A5; } /* python-ish blue */
+.software-tag.python { background: #3572A5; } /* blue */
 .software-tag.dl     { background: #8e44ad; } /* purple */
 
-.software-actions .software-tag:first-of-type {
-  margin-left: 0.35rem;
+/* a touch of spacing before the first tag if it follows a button */
+.software-actions .software-tag:first-of-type { margin-left: .25rem; }
+
+/* slight title size bump on wide screens */
+@media (min-width: 900px) {
+  .software-title { font-size: 1.15rem; }
 }
