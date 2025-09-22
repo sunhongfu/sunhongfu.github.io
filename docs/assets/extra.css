@@ -51,7 +51,7 @@
 .pub-title {
   display: block;
   font-weight: 500;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   color: var(--md-primary-fg-color);       /* accent color for title */
   margin: .1rem 0 .15rem 0;
 }
@@ -77,11 +77,11 @@
 }
 .pub-doi a:hover { text-decoration: underline; }
 
-/* Highlight your name consistently */
+/* Subtle highlight for your name, same grey tone as co-authors */
 .me, .pub-authors .me {
-  color: var(--md-primary-fg-color);
-  font-weight: 800;
-  text-decoration: underline;
+  color: var(--md-default-fg-color--light);  /* same grey as other authors */
+  font-weight: 800;                          /* still bold */
+  text-decoration: underline;                /* subtle emphasis */
 }
 
 /* Right-aligned year badge */
