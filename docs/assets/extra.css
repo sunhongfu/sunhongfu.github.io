@@ -12,8 +12,8 @@
 
 .pub-card {
   display: grid;
-  grid-template-columns: auto 1fr;
-  align-items: start;
+  grid-template-columns: auto 1fr auto; /* number | details | year */
+  align-items: center;
   gap: 1rem 1.25rem;
   padding: 1rem 1.25rem;
   border: 1px solid var(--md-default-fg-color--lightest);
@@ -97,13 +97,14 @@
   text-decoration: underline;
 }
 
+/* year badge, always right aligned */
 .pub-year {
-  float: right;
+  justify-self: end;
   background-color: #3f51b5;  /* indigo */
   color: white;
   font-size: 0.75em;
   font-weight: bold;
   padding: 4px 10px;
   border-radius: 20px;
-  margin-left: 10px;
+  white-space: nowrap;
 }
