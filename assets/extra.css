@@ -1,3 +1,74 @@
+/* ===== CV cards ===== */
+.cv-list {
+  display: grid;
+  gap: 1rem;
+  margin-top: .75rem;
+}
+
+.cv-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: .75rem 1rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 10px;
+  background: var(--md-default-bg-color);
+  box-shadow: 0 1px 2px rgba(0,0,0,.05);
+}
+
+.cv-title {
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.cv-sub {
+  font-size: .9rem;
+  color: var(--md-default-fg-color--light);
+  margin-left: .75rem;
+  flex: 1;
+}
+
+.cv-year {
+  font-size: .85rem;
+  font-weight: bold;
+  color: #3f51b5; /* indigo accent */
+}
+
+/* ===== CV buttons ===== */
+.cv-buttons {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.cv-btn {
+  display: inline-block;
+  font-weight: 600;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: background 0.2s ease;
+}
+
+.cv-btn.open {
+  background: #3f51b5;   /* indigo */
+  color: white;
+}
+
+.cv-btn.open:hover {
+  background: #303f9f;   /* darker indigo */
+}
+
+.cv-btn.download {
+  background: #4caf50;   /* green */
+  color: white;
+}
+
+.cv-btn.download:hover {
+  background: #388e3c;   /* darker green */
+}
+
 /* ===== Publications: clean card layout (separated lines) ===== */
 .pub-list {
   display: grid;
