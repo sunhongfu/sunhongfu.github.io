@@ -225,20 +225,20 @@
 /* Small colored tech tags */
 .software-tag {
   display: inline-block;
-  font-size: .65rem;
+  font-size: 0.65rem;       /* small text */
   font-weight: 600;
-  padding: .1rem .4rem;
+  padding: 0.05rem 0.35rem; /* very small vertical + narrower width */
   border-radius: 999px;
   color: #fff;
-  margin-left: .25rem;
-  line-height: 1.2;         /* keeps text vertically centered */
+  margin-left: 0.25rem;
+  line-height: 1;           /* force tighter vertical size */
+  vertical-align: middle;   /* centers text inside the pill */
 }
 
 .software-tag.matlab { background: #e67e22; } /* orange */
 .software-tag.python { background: #3572A5; } /* python-ish blue */
 .software-tag.dl     { background: #8e44ad; } /* purple */
 
-/* Optional: space before first tag group so actions don't crowd */
 .software-actions .software-tag:first-of-type {
-  margin-left: .35rem;
+  margin-left: 0.35rem;
 }
