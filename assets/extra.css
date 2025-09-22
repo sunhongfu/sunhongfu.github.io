@@ -1,67 +1,54 @@
-/* ===== CV cards ===== */
+/* ===== CV cards (same style as Awards) ===== */
+.cv-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+
 .cv-card {
   display: flex;
-  flex-direction: column;   /* stack children vertically */
-  padding: 0.75rem 1rem;
+  align-items: center;           /* center vertically */
+  gap: 1rem;
+  padding: 1rem 1.25rem;
   border: 1px solid var(--md-default-fg-color--lightest);
-  border-radius: 10px;
+  border-radius: 14px;
   background: var(--md-default-bg-color);
-  margin-bottom: 0.75rem;
   box-shadow: 0 1px 2px rgba(0,0,0,.04);
 }
 
 .cv-title {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;        /* title on top, sub under */
+  margin: 0;
   font-weight: 700;
-  font-size: 1rem;
-  margin-bottom: 0.25rem;   /* spacing before sub */
 }
 
 .cv-sub {
-  font-size: 0.9rem;
+  font-size: 0.85em;
   color: var(--md-default-fg-color--light);
-  margin-bottom: 0.25rem;
+  margin-top: 0.2rem;
+  font-weight: 400;
 }
 
+/* Year badge pinned right */
 .cv-year {
-  align-self: flex-end;     /* keep years right aligned */
-  font-size: 0.85rem;
-  font-weight: 600;
-  color: var(--md-default-fg-color--lighter);
+  flex: 0 0 auto;
+  margin-left: auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  background-color: #3f51b5;
+  color: #fff;
+  font-size: 0.75em;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: 999px;
 }
 
-/* ===== CV buttons ===== */
-.cv-buttons {
-  display: flex;
-  gap: 0.75rem;
-  margin-bottom: 1rem;
-}
-
-.cv-btn {
-  display: inline-block;
-  font-weight: 600;
-  padding: 0.4rem 0.8rem;
-  border-radius: 6px;
-  text-decoration: none;
-  font-size: 0.9rem;
-  transition: background 0.2s ease;
-}
-
-.cv-btn.open {
-  background: #3f51b5;   /* indigo */
-  color: white;
-}
-
-.cv-btn.open:hover {
-  background: #303f9f;   /* darker indigo */
-}
-
-.cv-btn.download {
-  background: #4caf50;   /* green */
-  color: white;
-}
-
-.cv-btn.download:hover {
-  background: #388e3c;   /* darker green */
+@media (min-width: 900px) {
+  .cv-list { gap: 1.25rem; }
 }
 
 /* ===== Publications: clean card layout (separated lines) ===== */
