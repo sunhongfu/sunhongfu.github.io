@@ -30,7 +30,7 @@
 
 </div>
 
-## Deep Learning Methods
+## Deep Learning Methods (<a class="software-btn action" href="https://github.com/sunhongfu/deepMRI" target="_blank" rel="noopener">💻 GitHub</a>)
 
 <div class="software-list">
 

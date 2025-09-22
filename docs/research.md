@@ -1,6 +1,6 @@
 # Research
 
-## Themes
+## Themes & Impact
 - Smart MRI, AI-guided acquisition, physics-aware reconstruction  
 - Portable/low-field MRI for stroke triage  
 - QSM, R2* relaxometry, generative diffusion models  

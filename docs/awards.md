@@ -206,3 +206,13 @@
 </div>
 
 </div>
+
+
+## Major Competitive Fellowships
+ARC DECRA, Postdoctoral Fellowships, etc.
+
+## Institutional Awards
+UQ Knowledge Exchange, Teaching Awards, etc.
+
+## Service & Community
+ISMRM chair roles, reviewer awards, community leadership.

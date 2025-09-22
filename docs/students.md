@@ -1,6 +1,13 @@
 # Students
 
-I enjoy mentoring undergraduate and PhD students on MRI + AI topics.
+## Current PhD Students
+List names, projects, expected completion.
 
-- **Current:** …  
-- **Alumni:** …
+## Current Masters / Honours
+List names, projects.
+
+## Alumni & Destinations
+Where past students have gone (academia, industry).
+
+## Opportunities
+Open projects or supervision opportunities.

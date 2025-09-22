@@ -3,8 +3,6 @@
 ## Journal Articles
 
 <div class="pub-list">
-
-<div class="pub-list">
 <div class="pub-card">
   <div class="pub-num">49</div>
   <div class="pub-details">
@@ -398,6 +396,7 @@
     </div>
 </div>
 </div>
+
 
 
 ## Conference Proceedings
