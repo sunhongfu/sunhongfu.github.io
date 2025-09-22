@@ -226,7 +226,9 @@
 <div class="pub-card">
   <div class="pub-num">29</div>
   <div class="pub-details">
-    <div class="pub-authors">Y. Gao, M. Cloos, F. Liu, S. Crozier, G.B. Pike, <span class="me">H. Sun</span>* Accelerating quantitative susceptibility and R2* mapping using incoherent undersampling and deep neural network reconstruction. Neuroimage. 2021. DOI: <a href="https://doi.org/10.1016/j.neuroimage.2021.118404" target="_blank">10.1016/j.neuroimage.2021.118404</a></div>
+    <div class="pub-authors">Y. Gao, M. Cloos, F. Liu, S. Crozier, G.B. Pike, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>Accelerating quantitative susceptibility and R2* mapping using incoherent undersampling and deep neural network reconstruction</i></div>
+    <div class="pub-venue">Neuroimage. 2021.</div>
     <div class="pub-actions">
       <a class="pub-btn" href="https://doi.org/10.1016/j.neuroimage.2021.118404" target="_blank" rel="noopener">DOI: 10.1016/j.neuroimage.2021.118404</a>
     </div>
@@ -235,7 +237,9 @@
 <div class="pub-card">
   <div class="pub-num">28</div>
   <div class="pub-details">
-    <div class="pub-authors">X. Zhu, Y. Gao, F. Liu, S. Crozier, <span class="me">H. Sun</span>* Deep grey matter quantitative susceptibility mapping from small spatial coverages using deep learning. Z Med Phys. 2021. DOI: <a href="https://doi.org/10.1016/j.zemedi.2021.06.004" target="_blank">10.1016/j.zemedi.2021.06.004</a></div>
+    <div class="pub-authors">X. Zhu, Y. Gao, F. Liu, S. Crozier, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>Deep grey matter quantitative susceptibility mapping from small spatial coverages using deep learning</i></div>
+    <div class="pub-venue">Z Med Phys. 2021.</div>
     <div class="pub-actions">
       <a class="pub-btn" href="https://doi.org/10.1016/j.zemedi.2021.06.004" target="_blank" rel="noopener">DOI: 10.1016/j.zemedi.2021.06.004</a>
     </div>
@@ -244,7 +248,9 @@
 <div class="pub-card">
   <div class="pub-num">27</div>
   <div class="pub-details">
-    <div class="pub-authors">Z. Yang, X. Chen, R. Huang, S. Li, D. Lin, Z. Yang, <span class="me">H. Sun</span>, G. Liu, J. Qiu, Y. Tang, J. Xiao, Y. Liao, X. Wu, R. Wu, X. Chen, Z. Dai. Atypical presentations of coronavirus disease 2019 (COVID-19) from onset to readmission. BMC Infect Dis. 2021 Jan 2921(1):127. DOI: <a href="https://doi.org/10.1186/s12879-020-05751-8" target="_blank">10.1186/s12879-020-05751-8</a></div>
+    <div class="pub-authors">Z. Yang, X. Chen, R. Huang, S. Li, D. Lin, Z. Yang, <span class="me">H. Sun</span>, G. Liu, J. Qiu, Y. Tang, J. Xiao, Y. Liao, X. Wu, R. Wu, X. Chen, Z. Dai</div>
+    <div class="pub-title"><i>Atypical presentations of coronavirus disease 2019 (COVID-19) from onset to readmission</i></div>
+    <div class="pub-venue">BMC Infect Dis. 2021 Jan 29;21(1):127.</div>
     <div class="pub-actions">
       <a class="pub-btn" href="https://doi.org/10.1186/s12879-020-05751-8" target="_blank" rel="noopener">DOI: 10.1186/s12879-020-05751-8</a>
     </div>
