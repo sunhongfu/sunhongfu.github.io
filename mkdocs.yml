@@ -55,7 +55,7 @@ nav:
   - CV: cv.md
   - Research: research.md
   - Publications:
-      - Journals: publications/journals_cards.md
+      - Journals: publications/journals.md
       - Conferences: publications/conferences.md
   - Awards: awards.md
   - Teaching:

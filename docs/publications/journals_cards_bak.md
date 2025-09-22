@@ -107,7 +107,7 @@
   <div class="pub-details">
     <div class="pub-authors">Z. Dai, Z. Yang, Z. Li, M. Li, <span class="me">H. Sun</span>, Z. Zhuang, W. Yang, Z. Hu, X. Chen, D. Lin, X. Wu</div>
     <div class="pub-title"><i>Increased glymphatic system activity in patients with mild traumatic brain injury</i></div>
-    <div class="pub-venue">Front. Neurol. [Ap]plied Neuroimaging; 2023.</div>
+    <div class="pub-venue">Front. Neurol. Applied Neuroimaging; 2023.</div>
     <div class="pub-actions">
       <a class="pub-btn" href="https://doi.org/10.3389/fneur.2023.1148878" target="_blank" rel="noopener">DOI: 10.3389/fneur.2023.1148878</a>
     </div>
