@@ -118,9 +118,9 @@
 }
 
 .award-card {
-  display: flex;                 /* row layout */
-  align-items: flex-start;       /* top-align text + badge */
-  gap: 1rem;                     /* space between text and badge */
+  display: flex;                 
+  align-items: center;           /* <-- center everything vertically */
+  gap: 1rem;                     
   padding: 1rem 1.25rem;
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 14px;
