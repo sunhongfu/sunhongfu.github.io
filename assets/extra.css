@@ -225,12 +225,13 @@
 /* Small colored tech tags */
 .software-tag {
   display: inline-block;
-  font-size: .7rem;
-  font-weight: 700;
-  padding: .15rem .5rem;
+  font-size: .65rem;
+  font-weight: 600;
+  padding: .1rem .4rem;
   border-radius: 999px;
   color: #fff;
   margin-left: .25rem;
+  line-height: 1.2;         /* keeps text vertically centered */
 }
 
 .software-tag.matlab { background: #e67e22; } /* orange */
