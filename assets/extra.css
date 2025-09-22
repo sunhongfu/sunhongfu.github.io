@@ -50,8 +50,8 @@
 
 .pub-title {
   display: block;
-  font-weight: 700;
-  font-size: 1.02rem;
+  font-weight: 500;
+  font-size: 0.95rem;
   color: var(--md-primary-fg-color);       /* accent color for title */
   margin: .1rem 0 .15rem 0;
 }
