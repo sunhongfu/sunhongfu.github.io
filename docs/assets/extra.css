@@ -222,28 +222,22 @@
   background: var(--md-default-fg-color--lightest);
 }
 
-/* language / requirement tags — make them more compact */
-.software-btn.matlab,
-.software-btn.python,
-.software-btn.dl {
-  padding: .15rem .5rem;    /* smaller height */
-  font-size: .7rem;         /* smaller font */
-  font-weight: 600;         /* keep strong text */
-  border: none;
+/* Small colored tech tags */
+.software-tag {
+  display: inline-block;
+  font-size: .7rem;
+  font-weight: 700;
+  padding: .15rem .5rem;
+  border-radius: 999px;
+  color: #fff;
+  margin-left: .25rem;
 }
 
-/* distinct colors */
-.software-btn.matlab {
-  background: #e67e22;
-  color: white;
-}
+.software-tag.matlab { background: #e67e22; } /* orange */
+.software-tag.python { background: #3572A5; } /* python-ish blue */
+.software-tag.dl     { background: #8e44ad; } /* purple */
 
-.software-btn.python {
-  background: #3572A5;
-  color: white;
-}
-
-.software-btn.dl {
-  background: #8e44ad;
-  color: white;
+/* Optional: space before first tag group so actions don't crowd */
+.software-actions .software-tag:first-of-type {
+  margin-left: .35rem;
 }

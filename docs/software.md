@@ -7,7 +7,7 @@
     <div class="software-authors">Background field removal for QSM</div>
     <div class="software-venue">Description: RESHARP (Regularization Enabled SHARP) is a background field removal method widely adopted in Quantitative Susceptibility Mapping (QSM).</div>
     <div class="software-actions">
-      <a class="software-btn action" href="#" target="_blank">📄 Paper</a>
+      <a class="software-btn action" href="https://doi.org/10.1002/mrm.24765" target="_blank">📄 Paper</a>
       <a class="software-btn action" href="#" target="_blank">💻 GitHub</a>
       <span class="software-tag matlab">MATLAB</span>
     </div>
