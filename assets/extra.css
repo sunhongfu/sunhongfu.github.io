@@ -151,16 +151,21 @@
 }
 
 /* ===== Software cards ===== */
+.software-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin-top: .75rem;
+}
+
 .software-card {
   display: flex;
-  flex-direction: column;   /* stack vertically */
-  align-items: flex-start;
+  flex-direction: column;
   padding: 1rem 1.25rem;
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 14px;
   background: var(--md-default-bg-color);
   box-shadow: 0 1px 2px rgba(0,0,0,.04);
-  margin-bottom: 1rem;
   transition: box-shadow .2s ease, transform .05s ease;
 }
 
@@ -168,61 +173,62 @@
   box-shadow: 0 6px 18px rgba(0,0,0,.06);
 }
 
-/* Authors / short line */
-.software-authors {
-  font-size: 0.9rem;
-  color: var(--md-default-fg-color--light);
-  margin: 0.2rem 0 0.5rem 0;
-}
-
-/* Title line */
 .software-title {
   font-weight: 700;
-  font-size: 1rem;
-  line-height: 1.4;
-  margin-bottom: 0.4rem;
-  color: var(--md-typeset-a-color);
+  font-size: 1.1rem;
+  margin-bottom: 0.25rem;
 }
 
-.software-title a {
-  color: var(--md-typeset-a-color);
-  text-decoration: none;
-}
-.software-title a:hover {
-  text-decoration: underline;
+.software-authors {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
 }
 
-/* Venue / description */
 .software-venue {
-  font-style: italic;
-  margin-bottom: 0.6rem;
   color: var(--md-default-fg-color);
+  margin-bottom: 0.75rem;
+  line-height: 1.4;
 }
 
-/* Links + tags row */
 .software-actions {
   display: flex;
+  gap: .5rem;
   flex-wrap: wrap;
-  gap: 0.5rem;
-  margin-top: 0.5rem;
+  margin-top: auto;
 }
 
-/* pill-style buttons */
+/* buttons and tags */
 .software-btn {
+  display: inline-block;
   border: 1px solid var(--md-default-fg-color--lightest);
+  background: transparent;
   border-radius: 999px;
-  padding: 0.3rem 0.6rem;
-  font-size: 0.8rem;
+  padding: .3rem .6rem;
+  font-size: .8rem;
   text-decoration: none;
   color: var(--md-typeset-a-color);
-  background: transparent;
+  line-height: 1.2;
 }
 
 .software-btn:hover {
   background: var(--md-default-fg-color--lightest);
 }
 
-/* technology tags */
-.software-btn.matlab { background-color: #e67e22; color: white; }
-.software-btn.python { background-color: #3572A5; color: white; }
-.software-btn.dl { background-color: #27ae60; color: white; }
+.software-btn.matlab {
+  background: #e67e22;
+  color: white;
+  border: none;
+}
+
+.software-btn.python {
+  background: #3572A5;
+  color: white;
+  border: none;
+}
+
+.software-btn.dl {
+  background: #8e44ad;
+  color: white;
+  border: none;
+}
