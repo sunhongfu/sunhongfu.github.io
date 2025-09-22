@@ -1,37 +1,32 @@
 /* ===== CV cards ===== */
-.cv-list {
-  display: grid;
-  gap: 1rem;
-  margin-top: .75rem;
-}
-
 .cv-card {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: .75rem 1rem;
+  flex-direction: column;   /* stack children vertically */
+  padding: 0.75rem 1rem;
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 10px;
   background: var(--md-default-bg-color);
-  box-shadow: 0 1px 2px rgba(0,0,0,.05);
+  margin-bottom: 0.75rem;
+  box-shadow: 0 1px 2px rgba(0,0,0,.04);
 }
 
 .cv-title {
   font-weight: 700;
   font-size: 1rem;
+  margin-bottom: 0.25rem;   /* spacing before sub */
 }
 
 .cv-sub {
-  font-size: .9rem;
+  font-size: 0.9rem;
   color: var(--md-default-fg-color--light);
-  margin-left: .75rem;
-  flex: 1;
+  margin-bottom: 0.25rem;
 }
 
 .cv-year {
-  font-size: .85rem;
-  font-weight: bold;
-  color: #3f51b5; /* indigo accent */
+  align-self: flex-end;     /* keep years right aligned */
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--md-default-fg-color--lighter);
 }
 
 /* ===== CV buttons ===== */
