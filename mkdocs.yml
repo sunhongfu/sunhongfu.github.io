@@ -54,15 +54,12 @@ nav:
   - Home: index.md
   - CV: cv.md
   - Research: research.md
-  - Publications:
-      - Journals: publications/journals.md
-      - Conferences: publications/conferences.md
-  - Awards: awards.md
+  - Publications: publications/journals.md
+  - Software & Methods: software.md
   - Teaching: teaching.md
-  - Software: software.md
   - Students: students.md
-  - Talks: talks.md
-  - News: news/index.md
+  - Talks & News: news/index.md
+  - Awards & Honors: awards.md
 
 markdown_extensions:
   - admonition

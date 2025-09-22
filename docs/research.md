@@ -16,3 +16,9 @@
 ## Leadership
 - Discipline Lead, Centre for Medical Engineering Research (Uni. Newcastle & HMRI)  
 - Program Convenor, Medical Engineering, Uni. Newcastle  
+
+## Collaborators & Networks
+List key collaborators and institutional partnerships.
+
+## Selected Results
+Add figures, links to papers, or GitHub repos showing key results.
