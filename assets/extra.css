@@ -223,16 +223,13 @@
 }
 
 /* Small colored tech tags */
+/* Smaller tech tags */
 .software-tag {
-  display: inline-block;
-  font-size: 0.65rem;       /* small text */
+  font-size: 0.7rem;
   font-weight: 600;
-  padding: 0.05rem 0.35rem; /* very small vertical + narrower width */
+  padding: 0.1rem 0.35rem;
   border-radius: 999px;
   color: #fff;
-  margin-left: 0.25rem;
-  line-height: 1;           /* force tighter vertical size */
-  vertical-align: middle;   /* centers text inside the pill */
 }
 
 .software-tag.matlab { background: #e67e22; } /* orange */
