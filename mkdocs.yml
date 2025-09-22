@@ -58,8 +58,7 @@ nav:
       - Journals: publications/journals.md
       - Conferences: publications/conferences.md
   - Awards: awards.md
-  - Teaching:
-      - Overview: teaching.md
+  - Teaching: teaching.md
   - Software: software.md
   - Students: students.md
   - Talks: talks.md
