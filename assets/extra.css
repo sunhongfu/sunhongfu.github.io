@@ -182,9 +182,12 @@
 }
 
 .software-title {
+  display: flex;
+  flex-wrap: wrap;       /* allows wrapping if too long */
+  align-items: center;   /* vertical alignment */
+  gap: 0.4rem;           /* spacing between title, buttons, tags */
   font-weight: 700;
   font-size: 1.1rem;
-  margin: 0; /* no extra spacing; header controls it */
 }
 
 /* subtitle line under the header */
