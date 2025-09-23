@@ -236,10 +236,19 @@
   display: block;
   font-weight: 500;
   font-size: 0.8rem;
-  color: var(--md-primary-fg-color);       /* accent color for title */
+  color: var(--md-default-fg-color);   /* same neutral text color as body */
   margin: .1rem 0 .15rem 0;
 }
 .pub-title i { font-style: italic; }       /* keep italics in title */
+
+/* Publication title when it's a link */
+.pub-title a {
+  color: var(--md-primary-fg-color);   /* accent blue only for links */
+  text-decoration: none;
+}
+.pub-title a:hover {
+  text-decoration: underline;
+}
 
 /* Journal / volume / pages */
 .pub-venue {
