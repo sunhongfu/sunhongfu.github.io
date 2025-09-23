@@ -11,8 +11,8 @@
         <!-- <span class="software-tag matlab">MATLAB</span> -->
       </div>
     </div>
-    <div class="software-authors">MATLAB QSM reconstruction pipelines</div>
-    <div class="software-venue">Description: RMATLAB QSM reconstruction pipelines for different MRI scanners and sequences, including single-echo and multi-echo GRE and EPI and ME-MP2RAGE.</div>
+    <div class="software-authors">Hongfu Sun, Alan Wilman</div>
+    <div class="software-venue">Description: MATLAB QSM reconstruction pipelines for different MRI scanners and sequences, including single-echo and multi-echo GRE and EPI and ME-MP2RAGE.</div>
   </div>
 
   <div class="software-card">
@@ -23,7 +23,7 @@
         <!-- <span class="software-tag matlab">MATLAB</span> -->
       </div>
     </div>
-    <div class="software-authors">Background field removal for QSM</div>
+    <div class="software-authors">Hongfu Sun, Alan Wilman</div>
     <div class="software-venue">Description: RESHARP (Regularization Enabled SHARP) is a background field removal method widely adopted in Quantitative Susceptibility Mapping (QSM).</div>
   </div>
 
@@ -35,8 +35,8 @@
         <!-- <span class="software-tag matlab">MATLAB</span> -->
       </div>
     </div>
-    <div class="software-authors">Multi-echo arrayed coil combination for phase</div>
-    <div class="software-venue">Description: POEM (Phase-Offsets Estimation Method) enables accurate coil combination for multi-echo acquisitions, improving SNR and phase consistency.</div>
+    <div class="software-authors">Hongfu Sun, Bruce Pike</div>
+    <div class="software-venue">Description: POEM (Phase-Offsets Estimation Method) is an Multi-echo arrayed coil combination for phase method, enables accurate coil combination for multi-echo acquisitions, improving SNR and phase consistency.</div>
   </div>
 
 </div>
@@ -55,8 +55,21 @@
         <!-- <span class="software-tag dl">Deep Learning</span> -->
       </div>
     </div>
-    <div class="software-authors">A collection of deep learning-based MRI methods</div>
-    <div class="software-venue">Description: the main repository with different deep learning-based MRI methods, such as QSM and undersampling reconstruction and MRF recon.</div>
+    <div class="software-authors">Yang Gao, Zhuang Xiong, Xuanyu Zhu, Hongfu Sun</div>
+    <div class="software-venue">Description: A collection of deep learning-based MRI methods, such as QSM and undersampling reconstruction and MRF recon.</div>
+  </div>
+
+  <div class="software-card">
+    <div class="software-header">
+      <div class="software-title">PPN
+        <a class="software-btn action" href="https://doi.org/10.1109/ISBI56570.2024.10635891" target="_blank" rel="noopener">Paper</a>
+        <a class="software-btn action" href="https://github.com/sunhongfu/ppn" target="_blank" rel="noopener">GitHub</a>
+        <!-- <span class="software-tag python">Python</span> -->
+        <!-- <span class="software-tag dl">Deep Learning</span> -->
+      </div>
+    </div>
+    <div class="software-authors">Wei Jiang, Hongfu Sun</div>
+    <div class="software-venue">Description: Fast Controllable Diffusion Models for Undersampled MRI Reconstruction. This study introduces a new algorithm called Predictor-Projector-Noisor (PPN), which enhances and accelerates controllable generation of diffusion models for undersampled MRI reconstruction. .</div>
   </div>
 
   <div class="software-card">
@@ -68,8 +81,8 @@
         <!-- <span class="software-tag dl">Deep Learning</span> -->
       </div>
     </div>
-    <div class="software-authors">Octave-convolutional neural network for dipole inversion</div>
-    <div class="software-venue">Description: xQSM uses octave convolutions and noise-regularization to robustly solve the dipole inversion problem in QSM.</div>
+    <div class="software-authors">Yang Gao, Hongfu Sun</div>
+    <div class="software-venue">Description: Octave-convolutional neural network for dipole inversion. xQSM uses octave convolutions and noise-regularization to robustly solve the dipole inversion problem in QSM.</div>
   </div>
 
   <div class="software-card">
@@ -81,8 +94,8 @@
         <!-- <span class="software-tag dl">Deep Learning</span> -->
       </div>
     </div>
-    <div class="software-authors">Single-step deep learning QSM from raw phase</div>
-    <div class="software-venue">Description: iQSM is a deep learning method that directly reconstructs susceptibility maps from raw phase, bypassing multi-step processing.</div>
+    <div class="software-authors">Yang Gao, Hongfu Sun</div>
+    <div class="software-venue">Description: Single-step deep learning QSM from raw phase. iQSM is a deep learning method that directly reconstructs susceptibility maps from raw phase, bypassing multi-step processing.</div>
   </div>
 
   <div class="software-card">
@@ -94,8 +107,8 @@
         <!-- <span class="software-tag dl">Deep Learning</span> -->
       </div>
     </div>
-    <div class="software-authors">Extended iQSM method for single-step QSM</div>
-    <div class="software-venue">Description: iQSM+ builds on iQSM with improved network design and robustness, enabling accurate susceptibility maps even with challenging acquisitions.</div>
+    <div class="software-authors">Yang Gao, Hongfu Sun</div>
+    <div class="software-venue">Description: Extended iQSM method for single-step QSM. iQSM+ builds on iQSM with improved network design and robustness, enabling accurate susceptibility maps even with challenging acquisitions.</div>
   </div>
 
   <div class="software-card">
@@ -107,8 +120,8 @@
         <!-- <span class="software-tag dl">Deep Learning</span> -->
       </div>
     </div>
-    <div class="software-authors">ODCRNet: Accelerating Quantitative Susceptibility Mapping using Compressed Sensing and Deep Neural Network</div>
-    <div class="software-venue">Description: A deep complex residual network (DCRNet) to recover both MR magnitude and quantitative phase images from the CS undersample k-space data, enabling the acceleration of QSM acquisitions.</div>
+    <div class="software-authors">Yang Gao, Hongfu Sun</div>
+    <div class="software-venue">Description: ODCRNet: Accelerating Quantitative Susceptibility Mapping using Compressed Sensing and Deep Neural Network. A deep complex residual network (DCRNet) to recover both MR magnitude and quantitative phase images from the CS undersample k-space data, enabling the acceleration of QSM acquisitions.</div>
   </div>
 
   <div class="software-card">
@@ -120,8 +133,8 @@
         <!-- <span class="software-tag dl">Deep Learning</span> -->
       </div>
     </div>
-    <div class="software-authors">AFTER-QSM for acquisition of any fov orientations (beyond pure axial) </div>
-    <div class="software-venue">Description: AFTER-QSM uses affine transformation to handle scans of angled FOV, improving robustness and generalizability.</div>
+    <div class="software-authors">Zhuang Xiong, Hongfu Sun</div>
+    <div class="software-venue">Description: AFTER-QSM for acquisition of any fov orientations (beyond pure axial). AFTER-QSM uses affine transformation to handle scans of angled FOV, improving robustness and generalizability.</div>
   </div>
   
   <div class="software-card">
@@ -133,21 +146,21 @@
         <!-- <span class="software-tag dl">Deep Learning</span> -->
       </div>
     </div>
-    <div class="software-authors">Model-based Deep Image Prior for QSM</div>
-    <div class="software-venue">Description: MoDIP is an unsupervised dipole inversion method leveraging deep image prior principles for quantitative susceptibility mapping without training data.</div>
+    <div class="software-authors">Zhuang Xiong, Hongfu Sun</div>
+    <div class="software-venue">Description: Model-based Deep Image Prior for QSM. MoDIP is an unsupervised dipole inversion method leveraging deep image prior principles for quantitative susceptibility mapping without training data.</div>
   </div>
 
   <div class="software-card">
     <div class="software-header">
       <div class="software-title">QSMDiff
-        <a class="software-btn action" href="#" target="_blank" rel="noopener">Paper</a>
+        <a class="software-btn action" href="https://arxiv.org/abs/2403.14070" target="_blank" rel="noopener">Paper</a>
         <a class="software-btn action" href="#" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag python">Python</span> -->
         <!-- <span class="software-tag dl">Deep Learning</span> -->
       </div>
     </div>
-    <div class="software-authors">Diffusion-model-based QSM for EPI scans</div>
-    <div class="software-venue">Description: QSMDiff employs diffusion probabilistic models to reconstruct QSM from undersampled or distorted EPI scans, improving robustness and generalizability.</div>
+    <div class="software-authors">Zhuang Xiong, Hongfu Sun</div>
+    <div class="software-venue">Description: Diffusion-model-based QSM for EPI scans. QSMDiff employs diffusion probabilistic models to reconstruct QSM from undersampled or distorted EPI scans, improving robustness and generalizability.</div>
   </div>
 
   <div class="software-card">
