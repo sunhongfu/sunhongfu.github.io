@@ -170,7 +170,7 @@
 }
 
 @media (min-width: 900px) {
-  .cv-list { gap: 0.6rem; }
+  .cv-list { gap: 0.5rem; }
 }
 
 /* ===== Publications: clean card layout (separated lines) ===== */
@@ -382,5 +382,5 @@
 
 /* slight title size bump on wide screens */
 @media (min-width: 900px) {
-  .software-title { font-size: 0.95rem; }
+  .software-list { gap: 0.5rem; }
 }
