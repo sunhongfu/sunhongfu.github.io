@@ -191,7 +191,7 @@
   align-items: start;                   /* align number with first line */
   font-size: 0.8rem;
   gap: 0.6rem 0.9rem;
-  padding: 0.55rem 0.8rem;
+  padding: 0.5rem 0.8rem;
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 14px;
   background: var(--md-default-bg-color);
@@ -221,14 +221,14 @@
 .pub-authors {
   display: block;
   color: var(--md-default-fg-color--light); /* lighter authors */
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   margin: 0 0 .15rem 0;
 }
 
 .pub-title {
   display: block;
   font-weight: 500;
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   color: var(--md-primary-fg-color);       /* accent color for title */
   margin: .1rem 0 .15rem 0;
 }
@@ -238,9 +238,9 @@
 .pub-venue {
   display: block;
   color: var(--md-default-fg-color);
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   font-style: italic;
-  margin: 0 0 .25rem 0;
+  margin: 0 0 .15rem 0;
 }
 
 /* DOI line */
