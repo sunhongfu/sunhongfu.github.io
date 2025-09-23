@@ -247,8 +247,8 @@
 <div class="cv-card">
   <div class="cv-title">
   QSM from the raw phase using an end-to-end neural network
-  <div class="cv-sub">Y. Gao, Z. Xiong, A. Fazlollahi, P.J. Nestor, V. V  </div>egh, G.B. Pike, S. Crozier, F. Liu, <span class="me">H. Sun</span>*</div>
-
+  <div class="cv-sub">Y. Gao, Z. Xiong, A. Fazlollahi, P.J. Nestor, V. Vegh, G.B. Pike, S. Crozier, F. Liu, <span class="me">H. Sun</span>*</div>
+  </div>
   <span class="cv-year">ISMRM; London; May 2022 <b>(Magna Cum Lspane Merit Award)</b></div>
 </div>
 
@@ -286,9 +286,9 @@
 
 <div class="cv-card">
   <div class="cv-title">
-  Localization of GPi for MRgFUS pallidotomy: a comparison between FGATIR, R2*, and QSM
-  <  </div>div class="cv-sub"><span class="me">H. Sun</span>, M.E. MacDonald, E.L. Mazerolle, K. Sabourin, G.B. Pike</div>
-
+  Localization of GPi for MRgFUS pallidotomy: a comparison between FGATIR, R2*, and QSM at 3 T
+  <div class="cv-sub"><span class="me">H. Sun</span>, M.E. MacDonald, E.L. Mazerolle, K. Sabourin, G.B. Pike</div>
+  </div>
   <span class="cv-year">ISMRM; Montreal; May 2019 <b>(Magna Cum Lspane Merit Award)</b></div>
 </div>
 
