@@ -1,5 +1,55 @@
 # Publications
 
+## Preprints
+
+<div class="pub-list">
+<div class="pub-card">
+  <div class="pub-num">5</div>
+  <div class="pub-details">
+    <div class="pub-authors">T. Ding, H. Chen, Y. Gao, Z. Xiong, F. Liu, M.A. Cloos, <span class="me">H. Sun</span></div>
+    <div class="pub-title"><a href="https://arxiv.org/abs/2507.03369" target="_blank" rel="noopener"><i>Adaptive Gate-Aware Mamba Networks for Magnetic Resonance Fingerprinting</i></a></div>
+    <div class="pub-venue">arXiv preprint arXiv:2507.03369 (2025).</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num">4</div>
+  <div class="pub-details">
+    <div class="pub-authors">M. Li, C. Chen, Z. Li, Y. Liu, S. Shan, P. Wu, P. Rong, F. Liu, G.B. Pike, <span class="me">H. Sun</span>, Y. Gao, …</div>
+    <div class="pub-title"><a href="https://arxiv.org/abs/2506.13293" target="_blank" rel="noopener"><i>SUSEP-Net: Simulation-Supervised and Contrastive Learning-based Deep Neural Networks for Susceptibility Source Separation</i></a></div>
+    <div class="pub-venue">arXiv preprint arXiv:2506.13293 (2025).</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num">3</div>
+  <div class="pub-details">
+    <div class="pub-authors">J. Liu, Q. Lin, Z. Xiong, S. Shan, C. Liu, M. Li, F. Liu, G.B. Pike, <span class="me">H. Sun</span>, Y. Gao</div>
+    <div class="pub-title"><a href="https://arxiv.org/abs/2505.08142" target="_blank" rel="noopener"><i>Highly Undersampled MRI Reconstruction via a Single Posterior Sampling of Diffusion Models</i></a></div>
+    <div class="pub-venue">arXiv preprint arXiv:2505.08142 (2025).</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num">2</div>
+  <div class="pub-details">
+    <div class="pub-authors">Z. Xiong, W. Jiang, Y. Gao, F. Liu, <span class="me">H. Sun</span></div>
+    <div class="pub-title"><a href="https://arxiv.org/abs/2403.14070" target="_blank" rel="noopener"><i>QSMDiff: Unsupervised 3D Diffusion Models for Quantitative Susceptibility Mapping</i></a></div>
+    <div class="pub-venue">arXiv preprint arXiv:2403.14070 (2024).</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num">1</div>
+  <div class="pub-details">
+    <div class="pub-authors">W. Ma, M.B. Lorenzana, W. Dai, <span class="me">H. Sun</span>, S.S. Chandra</div>
+    <div class="pub-title"><a href="https://arxiv.org/abs/2310.04705" target="_blank" rel="noopener"><i>Multi-scale MRI reconstruction via dilated ensemble networks</i></a></div>
+    <div class="pub-venue">arXiv preprint arXiv:2310.04705 (2023).</div>
+  </div>
+</div>
+</div>
+
+
 ## Journal Articles
 
 <div class="pub-list">
