@@ -172,13 +172,15 @@
 @media (min-width: 900px) {
   .cv-list { gap: 0.5rem; }
 }
-
 /* ===== Publications: clean card layout (separated lines) ===== */
 .pub-list {
   display: grid;
   grid-template-columns: 1fr;
   gap: 1rem;
   margin-top: .75rem;
+
+  /* reset numbering counter */
+  counter-reset: pub-counter;
 }
 
 @media (min-width: 900px) {
@@ -197,13 +199,18 @@
   background: var(--md-default-bg-color);
   box-shadow: 0 1px 2px rgba(0,0,0,.04);
   transition: box-shadow .2s ease, transform .05s ease;
+
+  /* increment the counter for each card */
+  counter-increment: pub-counter;
 }
 
 .pub-card:hover {
   box-shadow: 0 6px 18px rgba(0,0,0,.06);
 }
 
-.pub-number, .pub-num {
+/* Automatic numbering */
+.pub-number, .pub-num::before {
+  content: counter(pub-counter);
   align-self: start;
   justify-self: center;
   font-weight: 600;
@@ -273,7 +280,6 @@
   border-radius: 999px;
   white-space: nowrap;
 }
-
 
 /* ===== Software cards ===== */
 .software-list {
