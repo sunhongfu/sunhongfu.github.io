@@ -447,9 +447,20 @@
 </div>
 </div>
 
+---
 
+## Editorials
+JMRI
 
-## Conference Proceedings
+---
+
+## Conference Papers
+WACV
+ISBI
+
+---
+
+## Conference Abstracts
 
 
 [104]. S. Prima, Z. Xiong, A.H. Wilman, <u>**H. Sun**</u>*; DeepRelaxo: A Generalizable Self-supervised Method for Brain R2 Mapping; ISMRM; Honolulu; May 2025.
