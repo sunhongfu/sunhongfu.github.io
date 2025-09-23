@@ -17,7 +17,7 @@
 
   <div class="cv-card">
     <div class="cv-title">
-      Senior Lecturer (permanent)
+      Senior Lecturer (permanent) - Medical Engineering
       <div class="cv-sub">University of Newcastle, Australia</div>
     </div>
     <span class="cv-year">2024/02–Present</span>
@@ -25,23 +25,15 @@
 
   <div class="cv-card">
     <div class="cv-title">
-      DECRA Senior Research Fellow
-      <div class="cv-sub">University of Queensland, Brisbane</div>
+      ARC DECRA Fellow - Electrical Engineering
+      <div class="cv-sub">University of Queensland, Australia</div>
     </div>
-    <span class="cv-year">2023/01–2024/02</span>
+    <span class="cv-year">2019/03–2024/02</span>
   </div>
 
   <div class="cv-card">
     <div class="cv-title">
-      DECRA Research Fellow
-      <div class="cv-sub">University of Queensland, Brisbane</div>
-    </div>
-    <span class="cv-year">2019/03–2022/12</span>
-  </div>
-
-  <div class="cv-card">
-    <div class="cv-title">
-      Postdoctoral Researcher
+      Postdoc - Radiology
       <div class="cv-sub">University of Calgary, Canada</div>
     </div>
     <span class="cv-year">2015/11–2019/03</span>
@@ -49,7 +41,7 @@
 
   <div class="cv-card">
     <div class="cv-title">
-      PhD
+      PhD - Biomedical Engineering
       <div class="cv-sub">University of Alberta, Canada</div>
     </div>
     <span class="cv-year">2010/09–2015/11</span>
@@ -57,7 +49,7 @@
 
   <div class="cv-card">
     <div class="cv-title">
-      BSc
+      BSc - Biomedical Engineering
       <div class="cv-sub">Huazhong University of Science and Technology, China</div>
     </div>
     <span class="cv-year">2005/09–2009/06</span>
@@ -116,7 +108,15 @@
 
   <div class="cv-card">
     <div class="cv-title">
-      ENGG1003 · Procedural Programming; MENG3451 · Medical Imaging & Signal Processing
+      ENGG1003 · Procedural Programming
+      <div class="cv-sub">University of Newcastle</div>
+    </div>
+    <span class="cv-year">2024–2025</span>
+  </div>
+
+  <div class="cv-card">
+    <div class="cv-title">
+      MENG3451 · Medical Imaging & Signal Processing
       <div class="cv-sub">University of Newcastle</div>
     </div>
     <span class="cv-year">2024–2025</span>
