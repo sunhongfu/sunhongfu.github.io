@@ -4,7 +4,7 @@
 
 <div class="pub-list">
 <div class="pub-card">
-  <div class="pub-num">5</div>
+  <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">T. Ding, H. Chen, Y. Gao, Z. Xiong, F. Liu, M.A. Cloos, <span class="me">H. Sun</span>*</div>
     <div class="pub-title"><a href="https://arxiv.org/abs/2507.03369" target="_blank" rel="noopener"><i>Adaptive Gate-Aware Mamba Networks for Magnetic Resonance Fingerprinting</i></a></div>
@@ -13,7 +13,7 @@
 </div>
 
 <div class="pub-card">
-  <div class="pub-num">4</div>
+  <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">M. Li, C. Chen, Z. Li, Y. Liu, S. Shan, P. Wu, P. Rong, F. Liu, G.B. Pike, <span class="me">H. Sun</span>, Y. Gao</div>
     <div class="pub-title"><a href="https://arxiv.org/abs/2506.13293" target="_blank" rel="noopener"><i>SUSEP-Net: Simulation-Supervised and Contrastive Learning-based Deep Neural Networks for Susceptibility Source Separation</i></a></div>
@@ -22,7 +22,7 @@
 </div>
 
 <div class="pub-card">
-  <div class="pub-num">3</div>
+  <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">J. Liu, Q. Lin, Z. Xiong, S. Shan, C. Liu, M. Li, F. Liu, G.B. Pike, <span class="me">H. Sun</span>, Y. Gao</div>
     <div class="pub-title"><a href="https://arxiv.org/abs/2505.08142" target="_blank" rel="noopener"><i>Highly Undersampled MRI Reconstruction via a Single Posterior Sampling of Diffusion Models</i></a></div>
@@ -31,7 +31,7 @@
 </div>
 
 <div class="pub-card">
-  <div class="pub-num">2</div>
+  <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Z. Xiong, W. Jiang, Y. Gao, F. Liu, <span class="me">H. Sun</span>*</div>
     <div class="pub-title"><a href="https://arxiv.org/abs/2403.14070" target="_blank" rel="noopener"><i>QSMDiff: Unsupervised 3D Diffusion Models for Quantitative Susceptibility Mapping</i></a></div>
@@ -40,7 +40,7 @@
 </div>
 
 <div class="pub-card">
-  <div class="pub-num">1</div>
+  <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">W. Ma, M.B. Lorenzana, W. Dai, <span class="me">H. Sun</span>, S.S. Chandra</div>
     <div class="pub-title"><a href="https://arxiv.org/abs/2310.04705" target="_blank" rel="noopener"><i>Multi-scale MRI reconstruction via dilated ensemble networks</i></a></div>
@@ -54,7 +54,7 @@
 
 <div class="pub-list">
 <div class="pub-card">
-  <div class="pub-num">49</div>
+  <div class="pub-num">5</div>
   <div class="pub-details">
     <div class="pub-authors">X. Zhu, Y. Gao, Z. Xiong, W. Jiang, F. Liu, <span class="me">H. Sun</span>*</div>
     <div class="pub-title"><a href="https://doi.org/10.3390/info16070592" target="_blank" rel="noopener"><i>DIP-UP: Deep Image Prior for Unwrapping Phase</i></a></div>
@@ -62,7 +62,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">48</div>
+  <div class="pub-num">4</div>
   <div class="pub-details">
     <div class="pub-authors">M. Li, C. Chen, Z. Xiong, Y. Liu, P. Rong, S. Shan, F. Liu, <span class="me">H. Sun</span>, Y. Gao</div>
     <div class="pub-title"><a href="https://doi.org/10.1002/mp.17747" target="_blank" rel="noopener"><i>Quantitative susceptibility mapping via deep neural networks with iterative reverse concatenations and recurrent modules</i></a></div>
@@ -70,7 +70,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">47</div>
+  <div class="pub-num">3</div>
   <div class="pub-details">
     <div class="pub-authors">T. Ding, Y. Gao, Z. Xiong, F. Liu, M.A. Cloos, <span class="me">H. Sun</span>*</div>
     <div class="pub-title"><a href="https://doi.org/10.3390/info16030218" target="_blank" rel="noopener"><i>MRF-Mixer: A simulation-based deep learning framework for accelerated and accurate magnetic resonance fingerprinting reconstruction</i></a></div>
@@ -78,23 +78,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">46</div>
-  <div class="pub-details">
-    <div class="pub-authors">H. Askari, F. Roosta, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><a href="https://doi.org/10.1109/WACV61041.2025.00018" target="_blank" rel="noopener"><i>Training-free medical image inverses via bi-level guided diffusion models</i></a></div>
-    <div class="pub-venue">Proc IEEE/CVF Winter Conf Appl Comput Vis (WACV). 2025;75–84.</div>
-    </div>
-</div>
-<div class="pub-card">
-  <div class="pub-num">45</div>
-  <div class="pub-details">
-    <div class="pub-authors">W. Jiang, Z. Xiong, F. Liu, N. Ye, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635891" target="_blank" rel="noopener"><i>Fast Controllable Diffusion Models for Undersampled MRI Reconstruction</i></a></div>
-    <div class="pub-venue">2024 IEEE International Symposium on Biomedical Imaging (ISBI);</div>
-    </div>
-</div>
-<div class="pub-card">
-  <div class="pub-num">44</div>
+  <div class="pub-num">2</div>
   <div class="pub-details">
     <div class="pub-authors">Y. Gao, Z. Xiong, S. Shan, Y. Liu, P. Rong, M. Li, A.H. Wilman, G.B. Pike, F. Liu, <span class="me">H. Sun</span>*</div>
     <div class="pub-title"><a href="https://doi.org/10.1016/j.media.2024.103160" target="_blank" rel="noopener"><i>Plug-and-Play Latent Feature Editing for Orientation-Adaptive Quantitative Susceptibility Mapping Neural Networks</i></a></div>
@@ -102,7 +86,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">43</div>
+  <div class="pub-num">1</div>
   <div class="pub-details">
     <div class="pub-authors">Z. Xiong, Y. Gao, Y. Liu, A. Fazlollahi, P. Nestor, F. Liu, <span class="me">H. Sun</span>*</div>
     <div class="pub-title"><a href="https://doi.org/10.1016/j.neuroimage.2024.120583" target="_blank" rel="noopener"><i>Quantitative Susceptibility Mapping through Model-based Deep Image Prior (MoDIP)</i></a></div>
@@ -110,15 +94,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">42</div>
-  <div class="pub-details">
-    <div class="pub-authors">W. Zheng, Z. Dai, R. Wu, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><a href="https://doi.org/10.3389/fnins.2023.1286361" target="_blank" rel="noopener"><i>Editorial: Imaging of neurometabolism</i></a></div>
-    <div class="pub-venue">Front Neurosci. 2023; 17: 1286361.</div>
-    </div>
-</div>
-<div class="pub-card">
-  <div class="pub-num">41</div>
+  <div class="pub-num">0</div>
   <div class="pub-details">
     <div class="pub-authors">H. Askari, Y. Latif, <span class="me">H. Sun</span>*</div>
     <div class="pub-title"><a href="https://doi.org/10.1007/s10994-023-06357-2" target="_blank" rel="noopener"><i>MapFlow: Latent Transition Via Normalizing Flow for Unsupervised Domain Adaptation</i></a></div>
@@ -126,7 +102,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">40</div>
+  <div class="pub-num">9</div>
   <div class="pub-details">
     <div class="pub-authors">Z. Dai, Z. Yang, Z. Li, M. Li, <span class="me">H. Sun</span>, Z. Zhuang, W. Yang, Z. Hu, X. Chen, D. Lin, X. Wu</div>
     <div class="pub-title"><a href="https://doi.org/10.3389/fneur.2023.1148878" target="_blank" rel="noopener"><i>Increased glymphatic system activity in patients with mild traumatic brain injury</i></a></div>
@@ -134,7 +110,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">39</div>
+  <div class="pub-num">8</div>
   <div class="pub-details">
     <div class="pub-authors">S. Shan, Y. Gao, P.Z.Y. Liu, B. Whelan, <span class="me">H. Sun</span>, B. Dong, F. Liu, D.E.J. Waddington</div>
     <div class="pub-title"><a href="https://doi.org/10.1002/mrm.29684" target="_blank" rel="noopener"><i>Distortion-Corrected Image Reconstruction with Deep Learning on an MRI-Linac</i></a></div>
@@ -142,7 +118,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">38</div>
+  <div class="pub-num">7</div>
   <div class="pub-details">
     <div class="pub-authors">Z. Xiong, Y. Gao, F. Liu, <span class="me">H. Sun</span>*</div>
     <div class="pub-title"><a href="https://doi.org/10.1016/j.neuroimage.2022.119842" target="_blank" rel="noopener"><i>Affine Transformation Edited and Refined Deep Neural Network for Quantitative Susceptibility Mapping</i></a></div>
@@ -150,7 +126,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">37</div>
+  <div class="pub-num">6</div>
   <div class="pub-details">
     <div class="pub-authors">N. Nathoo, M. Gee, K. Nelles, J. Burt, <span class="me">H. Sun</span>, P. Seres, A.H. Wilman, C. Beaulieu, F. Ba, R. Camicioli</div>
     <div class="pub-title"><a href="https://doi.org/10.1017/cjn.2022.316" target="_blank" rel="noopener"><i>Quantitative susceptibility mapping changes relate to gait issues in Parkinson’s Disease</i></a></div>
@@ -158,7 +134,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">36</div>
+  <div class="pub-num">5</div>
   <div class="pub-details">
     <div class="pub-authors">R. Yang, M. Hamilton, <span class="me">H. Sun</span>, K. Rawji, S. Sarkar, R. Mirzaei, G.B. Pike, W. Yong, J.F. Dunn</div>
     <div class="pub-title"><a href="https://doi.org/10.1007/s00262-022-03297-z" target="_blank" rel="noopener"><i>Detecting monocyte trafficking in an animal model of glioblastoma using R2* and quantitative susceptibility mapping</i></a></div>
@@ -166,7 +142,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">35</div>
+  <div class="pub-num">4</div>
   <div class="pub-details">
     <div class="pub-authors">D. Nakhid, C. McMorris, <span class="me">H. Sun</span>, W.B. Gibbard, C. Tortorelli, C. Lebel</div>
     <div class="pub-title"><a href="https://doi.org/10.1111/acer.14928" target="_blank" rel="noopener"><i>Brain Volume and Magnetic Susceptibility Differences in Children and Adolescents with Prenatal Alcohol Exposure</i></a></div>
@@ -174,7 +150,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">34</div>
+  <div class="pub-num">3</div>
   <div class="pub-details">
     <div class="pub-authors">A. De, <span class="me">H. Sun</span>, D.J. Emery, K.C. Butcher, A.H. Wilman</div>
     <div class="pub-title"><a href="https://doi.org/10.1016/j.mri.2022.06.010" target="_blank" rel="noopener"><i>Quantitative susceptibility-weighted imaging in presence of strong susceptibility sources: Application to hemorrhage</i></a></div>
@@ -182,7 +158,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">33</div>
+  <div class="pub-num">2</div>
   <div class="pub-details">
     <div class="pub-authors">Y. Gao, Z. Xiong, A. Fazlollahi, P.J. Nestor, V. Vegh, F. Nasrallah, C. Winter, G.B. Pike, S. Crozier, F. Liu, <span class="me">H. Sun</span>*</div>
     <div class="pub-title"><a href="https://doi.org/10.1016/j.neuroimage.2022.119410" target="_blank" rel="noopener"><i>Instant tissue field and magnetic susceptibility mapping from MRI raw phase using Laplacian enhanced deep neural networks</i></a></div>
@@ -190,7 +166,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">32</div>
+  <div class="pub-num">1</div>
   <div class="pub-details">
     <div class="pub-authors">X. Zhu, Y. Gao, F. Liu, S. Crozier, <span class="me">H. Sun</span>*</div>
     <div class="pub-title"><a href="https://doi.org/10.1016/j.zemedi.2022.08.001" target="_blank" rel="noopener"><i>BFRnet: A deep learning-based MR background field removal method for QSM of the brain containing significant pathological susceptibility sources</i></a></div>
@@ -198,7 +174,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">31</div>
+  <div class="pub-num">0</div>
   <div class="pub-details">
     <div class="pub-authors">D. Nakhid, C. McMorris, <span class="me">H. Sun</span>, B. Gibbard, C. Tortorelli, C. Lebel</div>
     <div class="pub-title"><a href="https://doi.org/10.3390/nu14112213" target="_blank" rel="noopener"><i>Brain iron and mental health symptoms in youth with and without prenatal alcohol exposure</i></a></div>
@@ -206,7 +182,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">30</div>
+  <div class="pub-num">9</div>
   <div class="pub-details">
     <div class="pub-authors">Z. Yang, D. Lin, X. Chen, J. Qiu, S. Li, R. Huang, Z. Yang, <span class="me">H. Sun</span>, Y. Liao, J. Xiao, Y.Y. Tang, X. Chen, S. Zhang, Z. Dai</div>
     <div class="pub-title"><a href="https://doi.org/10.3389/fmicb.2022.847836" target="_blank" rel="noopener"><i>Distinguishing COVID-19 from influenza pneumonia in the early stage through CT imaging and clinical features</i></a></div>
@@ -214,7 +190,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">29</div>
+  <div class="pub-num">8</div>
   <div class="pub-details">
     <div class="pub-authors">Y. Gao, M. Cloos, F. Liu, S. Crozier, G.B. Pike, <span class="me">H. Sun</span>*</div>
     <div class="pub-title"><a href="https://doi.org/10.1016/j.neuroimage.2021.118404" target="_blank" rel="noopener"><i>Accelerating quantitative susceptibility and R2* mapping using incoherent undersampling and deep neural network reconstruction</i></a></div>
@@ -222,7 +198,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">28</div>
+  <div class="pub-num">7</div>
   <div class="pub-details">
     <div class="pub-authors">X. Zhu, Y. Gao, F. Liu, S. Crozier, <span class="me">H. Sun</span>*</div>
     <div class="pub-title"><a href="https://doi.org/10.1016/j.zemedi.2021.06.004" target="_blank" rel="noopener"><i>Deep grey matter quantitative susceptibility mapping from small spatial coverages using deep learning</i></a></div>
@@ -230,7 +206,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">27</div>
+  <div class="pub-num">6</div>
   <div class="pub-details">
     <div class="pub-authors">Z. Yang, X. Chen, R. Huang, S. Li, D. Lin, Z. Yang, <span class="me">H. Sun</span>, G. Liu, J. Qiu, Y. Tang, J. Xiao, Y. Liao, X. Wu, R. Wu, X. Chen, Z. Dai</div>
     <div class="pub-title"><a href="https://doi.org/10.1186/s12879-020-05751-8" target="_blank" rel="noopener"><i>Atypical presentations of coronavirus disease 2019 (COVID-19) from onset to readmission</i></a></div>
@@ -238,7 +214,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">26</div>
+  <div class="pub-num">5</div>
   <div class="pub-details">
     <div class="pub-authors">X. Liu, J. Wang, <span class="me">H. Sun</span>, S.S.Chandra, S. Croziera, F. Liu</div>
     <div class="pub-title"><a href="https://doi.org/10.1016/j.mri.2020.12.019" target="_blank" rel="noopener"><i>On the regularization of feature fusion and mapping for fast MR multi-contrast imaging via iterative networks</i></a></div>
@@ -246,7 +222,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">25</div>
+  <div class="pub-num">4</div>
   <div class="pub-details">
     <div class="pub-authors">Y. Gao, X. Zhu, B.A. Moffat, R. Glarin, A.H. Wilman, G.B. Pike, S. Crozier, F. Liu, <span class="me">H. Sun</span>*</div>
     <div class="pub-title"><a href="https://doi.org/10.1002/nbm.4461" target="_blank" rel="noopener"><i>xQSM: Quantitative Susceptibility Mapping with Octave Convolutional and Noise Regularized Neural Networks</i></a></div>
@@ -254,7 +230,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">24</div>
+  <div class="pub-num">3</div>
   <div class="pub-details">
     <div class="pub-authors">Z. Dai, S. Kalra, D. Mah, P. Seres, <span class="me">H. Sun</span>, R. Wu, A.H. Wilman</div>
     <div class="pub-title"><a href="https://doi.org/10.1007/s00330-020-07243-4" target="_blank" rel="noopener"><i>Amide signal intensities may be reduced in the motor cortex and the corticospinal tract of ALS patients</i></a></div>
@@ -262,7 +238,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">23</div>
+  <div class="pub-num">2</div>
   <div class="pub-details">
     <div class="pub-authors">M.E. MacDonald, R.J. Williams, D. Rajashekar, R.B. Stafford, A. Hanganu, <span class="me">H. Sun</span>, A.J.L. Berman, C.R. McCreary, R. Frayne, N.D. Forkert, G.B. Pike</div>
     <div class="pub-title"><a href="https://doi.org/10.1016/j.neurobiolaging.2020.06.019" target="_blank" rel="noopener"><i>Age-related differences in cerebral blood flow and cortical thickness with an application to age prediction</i></a></div>
@@ -270,7 +246,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">22</div>
+  <div class="pub-num">1</div>
   <div class="pub-details">
     <div class="pub-authors">Y. Ma, E.L. Mazerolle, J. Cho, <span class="me">H. Sun</span>, Y. Wang, G.B. Pike</div>
     <div class="pub-title"><a href="https://doi.org/10.1002/mrm.28390" target="_blank" rel="noopener"><i>Quantification of brain oxygen extraction fraction using QSM and a hyperoxic challenge</i></a></div>
@@ -278,23 +254,16 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">21</div>
+  <div class="pub-num">0</div>
   <div class="pub-details">
     <div class="pub-authors">X. Chen, Y. Tang, Y. Mo, S. Li, D. Lin, Z. Yang, Z. Yang, <span class="me">H. Sun</span>, J. Qiu, Y. Liao, J. Xiao, X. Chen, X. Wu, R. Wu, Z. Dai</div>
     <div class="pub-title"><a href="https://doi.org/10.1007/s00330-020-06829-2" target="_blank" rel="noopener"><i>A diagnostic model for coronavirus disease 2019 (COVID-19) based on radiological semantic and clinical features: a multi-center study</i></a></div>
     <div class="pub-venue">Eur Radiol. 2020 Mar 23.</div>
     </div>
 </div>
+
 <div class="pub-card">
-  <div class="pub-num">20</div>
-  <div class="pub-details">
-    <div class="pub-authors"><span class="me">H. Sun</span></div>
-    <div class="pub-title"><a href="https://doi.org/10.1002/jmri.27131" target="_blank" rel="noopener"><i>Editorial for “Deep-Learning Detection of Cancer Metastasis to the Brain on MRI”</i></a></div>
-    <div class="pub-venue">J. Magn. Reson. Imaging 2020 Mar 10.</div>
-    </div>
-</div>
-<div class="pub-card">
-  <div class="pub-num">19</div>
+  <div class="pub-num">9</div>
   <div class="pub-details">
     <div class="pub-authors">N. Naji, <span class="me">H. Sun</span>, A.H. Wilman</div>
     <div class="pub-title"><a href="https://doi.org/10.1002/mrm.28226" target="_blank" rel="noopener"><i>On the value of QSM from MPRAGE for segmenting and quantifying iron-rich deep gray matter</i></a></div>
@@ -302,7 +271,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">18</div>
+  <div class="pub-num">8</div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, J.O. Cleary, R. Glarin, S.C. Kolbe, R.J. Ordidge, B.A. Moffat, G.B. Pike</div>
     <div class="pub-title"><a href="https://doi.org/10.1002/mrm.27975" target="_blank" rel="noopener"><i>Extracting more for less: Multi-echo MP2RAGE for simultaneous T1-weighted imaging, T1 mapping, R2* mapping, SWI, and QSM from a single acquisition</i></a></div>
@@ -310,7 +279,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">17</div>
+  <div class="pub-num">7</div>
   <div class="pub-details">
     <div class="pub-authors">Y. Ma, <span class="me">H. Sun</span>, J. Cho, E.L. Mazerolle, Y. Wang, G.B. Pike</div>
     <div class="pub-title"><a href="https://doi.org/10.1002/mrm.27907" target="_blank" rel="noopener"><i>Cerebral OEF quantification: A comparison study between quantitative susceptibility mapping and dual-gas calibrated BOLD imaging</i></a></div>
@@ -318,7 +287,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">16</div>
+  <div class="pub-num">6</div>
   <div class="pub-details">
     <div class="pub-authors">A. De, <span class="me">H. Sun</span>, D.J. Emery, K.C. Butcher, A.H. Wilman</div>
     <div class="pub-title"><a href="https://doi.org/10.1002/jmri.26850" target="_blank" rel="noopener"><i>Rapid quantitative susceptibility mapping of intracerebral hemorrhage</i></a></div>
@@ -326,7 +295,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">15</div>
+  <div class="pub-num">5</div>
   <div class="pub-details">
     <div class="pub-authors">A.M. Elkady, D. Cobzas, <span class="me">H. Sun</span>, P. Seres, G. Blevins, A.H. Wilman</div>
     <div class="pub-title"><a href="https://doi.org/10.1016/j.msard.2019.05.028" target="_blank" rel="noopener"><i>Five Year Iron Changes in Relapsing-Remitting Multiple Sclerosis Deep Gray Matter Compared to Healthy Controls</i></a></div>
@@ -334,7 +303,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">14</div>
+  <div class="pub-num">4</div>
   <div class="pub-details">
     <div class="pub-authors">A.J. Walsh, <span class="me">H. Sun</span>, D.J. Emery, A.H. Wilman</div>
     <div class="pub-title"><a href="https://doi.org/10.3174/ajnr.A5677" target="_blank" rel="noopener"><i>Hematocrit Measurement with R2* and Quantitative Susceptibility Mapping in Postmortem Brain</i></a></div>
@@ -342,7 +311,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">13</div>
+  <div class="pub-num">3</div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, Y. Ma, M.E. MacDonald, G.B. Pike</div>
     <div class="pub-title"><a href="https://doi.org/10.1016/j.neuroimage.2018.06.036" target="_blank" rel="noopener"><i>Whole Head Quantitative Susceptibility Mapping Using a Least-norm Direct Dipole Inversion Method</i></a></div>
@@ -350,7 +319,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">12</div>
+  <div class="pub-num">2</div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, A. Klahr, M. Kate, L.C. Gioia, D.J. Emery, K. Butcher, A.H. Wilman</div>
     <div class="pub-title"><a href="https://doi.org/10.1148/radiol.2018171918" target="_blank" rel="noopener"><i>Quantitative Susceptibility Mapping for Following of Intracranial Hemorrhage</i></a></div>
@@ -358,7 +327,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">11</div>
+  <div class="pub-num">1</div>
   <div class="pub-details">
     <div class="pub-authors">A.M. Elkady, D. Cobzas, <span class="me">H. Sun</span>, G. Blevins, A.H. Wilman</div>
     <div class="pub-title"><a href="https://doi.org/10.1002/jmri.26004" target="_blank" rel="noopener"><i>Discriminative Analysis of Regional Evolution of Iron and Myelin/Calcium in Deep Gray Matter of Relapsing-Remitting Multiple Sclerosis and Healthy Subjects</i></a></div>
@@ -366,7 +335,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">10</div>
+  <div class="pub-num">0</div>
   <div class="pub-details">
     <div class="pub-authors">J. Kmech, E. Fujiwara, D. Cobzas, <span class="me">H. Sun</span>, P. Seres, G. Blevins, A.H. Wilman</div>
     <div class="pub-title"><a href="https://doi.org/10.3174/ajnr.A5109" target="_blank" rel="noopener"><i>Cognitive Implications of Deep Gray Matter Iron in Multiple Sclerosis</i></a></div>
@@ -374,7 +343,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">9</div>
+  <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">A.M. Elkady, D. Cobzas, <span class="me">H. Sun</span>, G. Blevins, A.H. Wilman</div>
     <div class="pub-title"><a href="https://doi.org/10.1002/jmri.25682" target="_blank" rel="noopener"><i>Progressive Iron Accumulation Across Multiple Sclerosis Phenotypes Revealed by Sparse Classification of Deep Gray Matter</i></a></div>
@@ -382,7 +351,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">8</div>
+  <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">M. Juhás, <span class="me">H. Sun</span>, M.R.G. Brown, M.B. MacKay, A.H. Wilman, S.M. Dursun, A.J. Greenshaw</div>
     <div class="pub-title"><a href="https://doi.org/10.1016/j.neuroimage.2017.01.007" target="_blank" rel="noopener"><i>Deep Grey Matter Iron Accumulation in Alcohol Use Disorder</i></a></div>
@@ -390,7 +359,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">7</div>
+  <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, P. Seres, A.H. Wilman</div>
     <div class="pub-title"><a href="https://doi.org/10.1002/nbm.3619" target="_blank" rel="noopener"><i>Structural and Functional Quantitative Susceptibility Mapping from Standard fMRI Studies</i></a></div>
@@ -398,7 +367,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">6</div>
+  <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">A.M. Elkady, <span class="me">H. Sun</span>, A.H. Wilman</div>
     <div class="pub-title"><a href="https://doi.org/10.1016/j.mri.2015.12.032" target="_blank" rel="noopener"><i>Importance of extended spatial coverage for quantitative susceptibility mapping of iron-rich deep grey matter</i></a></div>
@@ -406,7 +375,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">5</div>
+  <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, M. Kate, L.C. Gioia, D.J. Emery, K. Butcher, A.H. Wilman</div>
     <div class="pub-title"><a href="https://doi.org/10.1002/mrm.25919" target="_blank" rel="noopener"><i>Quantitative susceptibility mapping using a superposed dipole inversion method: application to intracranial hemorrhage</i></a></div>
@@ -414,7 +383,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">4</div>
+  <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">D. Cobzas, <span class="me">H. Sun</span>, A.J. Walsh, R.M. Lebel, G. Blevins, A.H. Wilman</div>
     <div class="pub-title"><a href="https://doi.org/10.1002/jmri.24951" target="_blank" rel="noopener"><i>Voxel-based analysis of subcortical grey matter using transverse relaxation and quantitative susceptibility mapping with application to multiple sclerosis</i></a></div>
@@ -422,7 +391,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">3</div>
+  <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, A.J. Walsh, R.M. Lebel, G. Blevins, I. Catz, J-Q. Lu, E.S. Johnson, D.J. Emery, K.G. Warren, A.H. Wilman</div>
     <div class="pub-title"><a href="https://doi.org/10.1016/j.neuroimage.2014.11.010" target="_blank" rel="noopener"><i>Validation of quantitative susceptibility mapping with Perls’ iron staining for subcortical gray matter</i></a></div>
@@ -430,7 +399,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">2</div>
+  <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, A.H. Wilman</div>
     <div class="pub-title"><a href="https://doi.org/10.1002/mrm.25316" target="_blank" rel="noopener"><i>Quantitative susceptibility mapping using single-shot echo-planar imaging</i></a></div>
@@ -438,7 +407,7 @@
     </div>
 </div>
 <div class="pub-card">
-  <div class="pub-num">1</div>
+  <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, A.H. Wilman</div>
     <div class="pub-title"><a href="https://doi.org/10.1002/mrm.24765" target="_blank" rel="noopener"><i>Background field removal using spherical mean value filtering and Tikhonov regularization</i></a></div>
@@ -450,13 +419,47 @@
 ---
 
 ## Editorials
-JMRI
+
+<div class="pub-list">
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">W. Zheng, Z. Dai, R. Wu, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><a href="https://doi.org/10.3389/fnins.2023.1286361" target="_blank" rel="noopener"><i>Editorial: Imaging of neurometabolism</i></a></div>
+    <div class="pub-venue">Front Neurosci. 2023; 17: 1286361.</div>
+    </div>
+</div>
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors"><span class="me">H. Sun</span></div>
+    <div class="pub-title"><a href="https://doi.org/10.1002/jmri.27131" target="_blank" rel="noopener"><i>Editorial for “Deep-Learning Detection of Cancer Metastasis to the Brain on MRI”</i></a></div>
+    <div class="pub-venue">J. Magn. Reson. Imaging 2020 Mar 10.</div>
+    </div>
+</div>
+
+</div>
 
 ---
 
 ## Conference Papers
-WACV
-ISBI
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">H. Askari, F. Roosta, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><a href="https://doi.org/10.1109/WACV61041.2025.00018" target="_blank" rel="noopener"><i>Training-free medical image inverses via bi-level guided diffusion models</i></a></div>
+    <div class="pub-venue">Proc IEEE/CVF Winter Conf Appl Comput Vis (WACV). 2025;75–84.</div>
+    </div>
+</div>
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">W. Jiang, Z. Xiong, F. Liu, N. Ye, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635891" target="_blank" rel="noopener"><i>Fast Controllable Diffusion Models for Undersampled MRI Reconstruction</i></a></div>
+    <div class="pub-venue">2024 IEEE International Symposium on Biomedical Imaging (ISBI);</div>
+    </div>
+</div>
 
 ---
 
