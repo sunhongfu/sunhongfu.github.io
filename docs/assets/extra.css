@@ -318,7 +318,7 @@
 /* subtitle line under the header */
 .software-authors {
   color: var(--md-default-fg-color);
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   margin: 0 0 0.15rem 0;
 }
 
