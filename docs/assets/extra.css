@@ -312,7 +312,7 @@
   align-items: center;   /* vertical alignment */
   gap: 0.4rem;           /* spacing between title, buttons, tags */
   font-weight: 700;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 
 /* subtitle line under the header */
@@ -380,5 +380,5 @@
 
 /* slight title size bump on wide screens */
 @media (min-width: 900px) {
-  .software-title { font-size: 1.15rem; }
+  .software-title { font-size: 0.95rem; }
 }

@@ -1,8 +1,19 @@
 # Software
 
-## QSM Toolkits <span aria-hidden="true"><a class="software-btn action" href="https://github.com/sunhongfu/QSM" target="_blank" rel="noopener">GitHub</a></span>
+## QSM MATLAB Toolkits
 
 <div class="software-list">
+
+  <div class="software-card">
+    <div class="software-header">
+      <div class="software-title">QSM pipeline
+        <a class="software-btn action" href="https://github.com/sunhongfu/QSM/" target="_blank" rel="noopener">GitHub</a>
+        <!-- <span class="software-tag matlab">MATLAB</span> -->
+      </div>
+    </div>
+    <div class="software-authors">MATLAB QSM reconstruction pipelines</div>
+    <div class="software-venue">Description: RMATLAB QSM reconstruction pipelines for different MRI scanners and sequences, including single-echo and multi-echo GRE and EPI and ME-MP2RAGE.</div>
+  </div>
 
   <div class="software-card">
     <div class="software-header">
@@ -30,9 +41,23 @@
 
 </div>
 
-## Deep Learning Methods <span aria-hidden="true"><a class="software-btn action" href="https://github.com/sunhongfu/deepMRI" target="_blank" rel="noopener">GitHub</a></span>
+---
+
+## Deep Learning Methods
 
 <div class="software-list">
+
+  <div class="software-card">
+    <div class="software-header">
+      <div class="software-title">deepMRI
+        <a class="software-btn action" href="https://github.com/sunhongfu/deepMRI" target="_blank" rel="noopener">GitHub</a>
+        <!-- <span class="software-tag python">Python</span> -->
+        <!-- <span class="software-tag dl">Deep Learning</span> -->
+      </div>
+    </div>
+    <div class="software-authors">A collection of deep learning-based MRI methods</div>
+    <div class="software-venue">Description: the main repository with different deep learning-based MRI methods, such as QSM and undersampling reconstruction and MRF recon.</div>
+  </div>
 
   <div class="software-card">
     <div class="software-header">
