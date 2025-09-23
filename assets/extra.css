@@ -276,7 +276,7 @@
 
 /* Subtle highlight for your name, same grey tone as co-authors */
 .me, .pub-authors .me {
-  color: var(--md-default-fg-color--light);  /* same grey as other authors */
+  color: var(--md-default-fg-color);  /* same grey as other authors */
   font-weight: 800;                          /* still bold */
   text-decoration: underline;                /* subtle emphasis */
 }
