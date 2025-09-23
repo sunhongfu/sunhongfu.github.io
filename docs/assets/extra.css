@@ -1,6 +1,6 @@
 /* ===== Navigation (left sidebar) ===== */
 .md-nav__title {
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   font-weight: 700;
   color: var(--md-primary-fg-color);
   text-transform: uppercase;  /* optional */
@@ -22,7 +22,7 @@
 
 /* Make "Table of contents" header more prominent */
 .md-sidebar--secondary .md-sidebar__title {
-  font-size: 1.1rem;         /* increase font size */
+  font-size: 0.9rem;         /* increase font size */
   font-weight: 700;          /* bold */
   color: var(--md-primary-fg-color);  /* use your theme’s primary color */
   text-transform: uppercase; /* optional: make all caps */
@@ -124,14 +124,14 @@
 .cv-list {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 1rem;
+  gap: 0.5rem;
 }
 
 .cv-card {
   display: flex;
   align-items: center;           /* center vertically */
   gap: 1rem;
-  padding: 1rem 1.25rem;
+  padding: 0.55rem 0.8rem;
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 14px;
   background: var(--md-default-bg-color);
@@ -170,7 +170,7 @@
 }
 
 @media (min-width: 900px) {
-  .cv-list { gap: 1.25rem; }
+  .cv-list { gap: 0.6rem; }
 }
 
 /* ===== Publications: clean card layout (separated lines) ===== */
