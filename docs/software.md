@@ -6,7 +6,8 @@
 
   <div class="software-card">
     <div class="software-header">
-      <div class="software-title">QSM pipeline
+      <div class="software-title">QSM pipeline</div>
+      <div class="software-actions">
         <a class="software-btn action" href="https://github.com/sunhongfu/QSM/" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag matlab">MATLAB</span> -->
       </div>
@@ -17,7 +18,8 @@
 
   <div class="software-card">
     <div class="software-header">
-      <div class="software-title">RESHARP
+      <div class="software-title">RESHARP</div>
+      <div class="software-actions">
         <a class="software-btn action" href="https://doi.org/10.1002/mrm.24765" target="_blank" rel="noopener">Paper</a>
         <a class="software-btn action" href="https://github.com/sunhongfu/QSM/blob/master/background_field_removal/resharp.m" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag matlab">MATLAB</span> -->
@@ -29,7 +31,8 @@
 
   <div class="software-card">
     <div class="software-header">
-      <div class="software-title">POEM
+      <div class="software-title">POEM</div>
+      <div class="software-actions">
         <a class="software-btn action" href="https://doi.org/10.1002/mrm.27975" target="_blank" rel="noopener">Paper</a>
         <a class="software-btn action" href="https://github.com/sunhongfu/QSM/blob/master/coil_combination/poem.m" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag matlab">MATLAB</span> -->
@@ -49,7 +52,8 @@
 
   <div class="software-card">
     <div class="software-header">
-      <div class="software-title">deepMRI
+      <div class="software-title">deepMRI</div>
+      <div class="software-actions">
         <a class="software-btn action" href="https://github.com/sunhongfu/deepMRI" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag python">Python</span> -->
         <!-- <span class="software-tag dl">Deep Learning</span> -->
@@ -61,7 +65,8 @@
 
   <div class="software-card">
     <div class="software-header">
-      <div class="software-title">PPN
+      <div class="software-title">PPN</div>
+      <div class="software-actions">
         <a class="software-btn action" href="https://doi.org/10.1109/ISBI56570.2024.10635891" target="_blank" rel="noopener">Paper</a>
         <a class="software-btn action" href="https://github.com/sunhongfu/ppn" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag python">Python</span> -->
@@ -74,7 +79,8 @@
 
   <div class="software-card">
     <div class="software-header">
-      <div class="software-title">xQSM
+      <div class="software-title">xQSM</div>
+      <div class="software-actions">
         <a class="software-btn action" href="https://doi.org/10.1002/nbm.4461" target="_blank" rel="noopener">Paper</a>
         <a class="software-btn action" href="https://github.com/sunhongfu/deepMRI/tree/master/xQSM" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag python">Python</span> -->
@@ -87,7 +93,8 @@
 
   <div class="software-card">
     <div class="software-header">
-      <div class="software-title">iQSM
+      <div class="software-title">iQSM</div>
+      <div class="software-actions">
         <a class="software-btn action" href="https://doi.org/10.1016/j.neuroimage.2022.119410" target="_blank" rel="noopener">Paper</a>
         <a class="software-btn action" href="https://github.com/sunhongfu/deepMRI/tree/master/iQSM" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag python">Python</span> -->
@@ -100,7 +107,8 @@
 
   <div class="software-card">
     <div class="software-header">
-      <div class="software-title">iQSM+
+      <div class="software-title">iQSM+</div>
+      <div class="software-actions">
         <a class="software-btn action" href="https://doi.org/10.1016/j.media.2024.103160" target="_blank" rel="noopener">Paper</a>
         <a class="software-btn action" href="https://github.com/sunhongfu/deepMRI/tree/master/iQSM_Plus" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag python">Python</span> -->
@@ -113,7 +121,8 @@
 
   <div class="software-card">
     <div class="software-header">
-      <div class="software-title">DCRNet
+      <div class="software-title">DCRNet</div>
+      <div class="software-actions">
         <a class="software-btn action" href="https://doi.org/10.1016/j.neuroimage.2021.118404" target="_blank" rel="noopener">Paper</a>
         <a class="software-btn action" href="https://github.com/sunhongfu/deepMRI/tree/master/DCRNet" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag python">Python</span> -->
@@ -126,7 +135,8 @@
 
   <div class="software-card">
     <div class="software-header">
-      <div class="software-title">AFTER-QSM
+      <div class="software-title">AFTER-QSM</div>
+      <div class="software-actions">
         <a class="software-btn action" href="https://doi.org/10.1016/j.neuroimage.2022.119842" target="_blank" rel="noopener">Paper</a>
         <a class="software-btn action" href="https://github.com/sunhongfu/deepMRI/tree/master/AFTER-QSM" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag python">Python</span> -->
@@ -139,7 +149,8 @@
   
   <div class="software-card">
     <div class="software-header">
-      <div class="software-title">MoDIP
+      <div class="software-title">MoDIP</div>
+      <div class="software-actions">
         <a class="software-btn action" href="https://doi.org/10.1016/j.neuroimage.2024.120583" target="_blank" rel="noopener">Paper</a>
         <a class="software-btn action" href="https://github.com/sunhongfu/deepMRI/tree/master/MoDIP" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag python">Python</span> -->
@@ -152,7 +163,8 @@
 
   <div class="software-card">
     <div class="software-header">
-      <div class="software-title">QSMDiff
+      <div class="software-title">QSMDiff</div>
+      <div class="software-actions">
         <a class="software-btn action" href="https://arxiv.org/abs/2403.14070" target="_blank" rel="noopener">Paper</a>
         <a class="software-btn action" href="#" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag python">Python</span> -->
@@ -165,8 +177,9 @@
 
   <div class="software-card">
     <div class="software-header">
-      <div class="software-title">More Software Coming Soon...</div>
-    </div>
+      <div class="software-title">More Software Coming Soon...</di</div>v>
+    <div class="software-actions"></
+    div>
     <div class="software-authors">DIP-UP, DeepRelaxo, MRF-Mixer and others</div>
     <div class="software-venue">Additional methods and tools will be added here with detailed descriptions, references, and code repositories.</div>
   </div>
