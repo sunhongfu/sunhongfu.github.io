@@ -317,13 +317,13 @@
 
 /* subtitle line under the header */
 .software-authors {
-  color: var(--md-default-fg-color--light);
+  color: var(--md-default-fg-color);
   font-size: 0.8rem;
   margin: 0 0 0.15rem 0;
 }
 
 .software-venue {
-  color: var(--md-default-fg-color);
+  color: var(--md-default-fg-color--light);
   margin: 0 0 .15rem 0;
   line-height: 1.4;
   font-size: 0.75rem;
