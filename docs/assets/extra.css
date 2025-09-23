@@ -29,8 +29,8 @@
 }
 
 .md-typeset .hero-photo {
-  width: 200px;
-  height: 200px;
+  width: 180px;
+  height: 180px;
   object-fit: cover;
   border-radius: 50%;
   display: block;
@@ -347,7 +347,7 @@
   align-items: center;   /* vertical alignment */
   gap: 0.4rem;           /* spacing between title, buttons, tags */
   font-weight: 700;
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 
 /* subtitle line under the header */

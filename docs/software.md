@@ -1,14 +1,14 @@
 # Software
 
-## QSM Toolkits (<a class="software-btn action" href="https://github.com/sunhongfu/QSM" target="_blank" rel="noopener">💻 GitHub</a>)
+## QSM Toolkits (<a class="software-btn action" href="https://github.com/sunhongfu/QSM" target="_blank" rel="noopener">GitHub</a>)
 
 <div class="software-list">
 
   <div class="software-card">
     <div class="software-header">
       <div class="software-title">RESHARP
-        <a class="software-btn action" href="https://doi.org/10.1002/mrm.24765" target="_blank" rel="noopener">📄 Paper</a>
-        <a class="software-btn action" href="https://github.com/sunhongfu/QSM/blob/master/background_field_removal/resharp.m" target="_blank" rel="noopener">💻 GitHub</a>
+        <a class="software-btn action" href="https://doi.org/10.1002/mrm.24765" target="_blank" rel="noopener">Paper</a>
+        <a class="software-btn action" href="https://github.com/sunhongfu/QSM/blob/master/background_field_removal/resharp.m" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag matlab">MATLAB</span> -->
       </div>
     </div>
@@ -19,8 +19,8 @@
   <div class="software-card">
     <div class="software-header">
       <div class="software-title">POEM
-        <a class="software-btn action" href="https://doi.org/10.1002/mrm.27975" target="_blank" rel="noopener">📄 Paper</a>
-        <a class="software-btn action" href="https://github.com/sunhongfu/QSM/blob/master/coil_combination/poem.m" target="_blank" rel="noopener">💻 GitHub</a>
+        <a class="software-btn action" href="https://doi.org/10.1002/mrm.27975" target="_blank" rel="noopener">Paper</a>
+        <a class="software-btn action" href="https://github.com/sunhongfu/QSM/blob/master/coil_combination/poem.m" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag matlab">MATLAB</span> -->
       </div>
     </div>
@@ -30,15 +30,15 @@
 
 </div>
 
-## Deep Learning Methods (<a class="software-btn action" href="https://github.com/sunhongfu/deepMRI" target="_blank" rel="noopener">💻 GitHub</a>)
+## Deep Learning Methods (<a class="software-btn action" href="https://github.com/sunhongfu/deepMRI" target="_blank" rel="noopener">GitHub</a>)
 
 <div class="software-list">
 
   <div class="software-card">
     <div class="software-header">
       <div class="software-title">xQSM
-        <a class="software-btn action" href="https://doi.org/10.1002/nbm.4461" target="_blank" rel="noopener">📄 Paper</a>
-        <a class="software-btn action" href="https://github.com/sunhongfu/deepMRI/tree/master/xQSM" target="_blank" rel="noopener">💻 GitHub</a>
+        <a class="software-btn action" href="https://doi.org/10.1002/nbm.4461" target="_blank" rel="noopener">Paper</a>
+        <a class="software-btn action" href="https://github.com/sunhongfu/deepMRI/tree/master/xQSM" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag python">Python</span> -->
         <!-- <span class="software-tag dl">Deep Learning</span> -->
       </div>
@@ -50,8 +50,8 @@
   <div class="software-card">
     <div class="software-header">
       <div class="software-title">iQSM
-        <a class="software-btn action" href="https://doi.org/10.1016/j.neuroimage.2022.119410" target="_blank" rel="noopener">📄 Paper</a>
-        <a class="software-btn action" href="https://github.com/sunhongfu/deepMRI/tree/master/iQSM" target="_blank" rel="noopener">💻 GitHub</a>
+        <a class="software-btn action" href="https://doi.org/10.1016/j.neuroimage.2022.119410" target="_blank" rel="noopener">Paper</a>
+        <a class="software-btn action" href="https://github.com/sunhongfu/deepMRI/tree/master/iQSM" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag python">Python</span> -->
         <!-- <span class="software-tag dl">Deep Learning</span> -->
       </div>
@@ -63,8 +63,8 @@
   <div class="software-card">
     <div class="software-header">
       <div class="software-title">iQSM+
-        <a class="software-btn action" href="https://doi.org/10.1016/j.media.2024.103160" target="_blank" rel="noopener">📄 Paper</a>
-        <a class="software-btn action" href="https://github.com/sunhongfu/deepMRI/tree/master/iQSM_Plus" target="_blank" rel="noopener">💻 GitHub</a>
+        <a class="software-btn action" href="https://doi.org/10.1016/j.media.2024.103160" target="_blank" rel="noopener">Paper</a>
+        <a class="software-btn action" href="https://github.com/sunhongfu/deepMRI/tree/master/iQSM_Plus" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag python">Python</span> -->
         <!-- <span class="software-tag dl">Deep Learning</span> -->
       </div>
@@ -76,8 +76,8 @@
   <div class="software-card">
     <div class="software-header">
       <div class="software-title">DCRNet
-        <a class="software-btn action" href="https://doi.org/10.1016/j.neuroimage.2021.118404" target="_blank" rel="noopener">📄 Paper</a>
-        <a class="software-btn action" href="https://github.com/sunhongfu/deepMRI/tree/master/DCRNet" target="_blank" rel="noopener">💻 GitHub</a>
+        <a class="software-btn action" href="https://doi.org/10.1016/j.neuroimage.2021.118404" target="_blank" rel="noopener">Paper</a>
+        <a class="software-btn action" href="https://github.com/sunhongfu/deepMRI/tree/master/DCRNet" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag python">Python</span> -->
         <!-- <span class="software-tag dl">Deep Learning</span> -->
       </div>
@@ -89,8 +89,8 @@
   <div class="software-card">
     <div class="software-header">
       <div class="software-title">AFTER-QSM
-        <a class="software-btn action" href="https://doi.org/10.1016/j.neuroimage.2022.119842" target="_blank" rel="noopener">📄 Paper</a>
-        <a class="software-btn action" href="https://github.com/sunhongfu/deepMRI/tree/master/AFTER-QSM" target="_blank" rel="noopener">💻 GitHub</a>
+        <a class="software-btn action" href="https://doi.org/10.1016/j.neuroimage.2022.119842" target="_blank" rel="noopener">Paper</a>
+        <a class="software-btn action" href="https://github.com/sunhongfu/deepMRI/tree/master/AFTER-QSM" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag python">Python</span> -->
         <!-- <span class="software-tag dl">Deep Learning</span> -->
       </div>
@@ -102,8 +102,8 @@
   <div class="software-card">
     <div class="software-header">
       <div class="software-title">MoDIP
-        <a class="software-btn action" href="https://doi.org/10.1016/j.neuroimage.2024.120583" target="_blank" rel="noopener">📄 Paper</a>
-        <a class="software-btn action" href="https://github.com/sunhongfu/deepMRI/tree/master/MoDIP" target="_blank" rel="noopener">💻 GitHub</a>
+        <a class="software-btn action" href="https://doi.org/10.1016/j.neuroimage.2024.120583" target="_blank" rel="noopener">Paper</a>
+        <a class="software-btn action" href="https://github.com/sunhongfu/deepMRI/tree/master/MoDIP" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag python">Python</span> -->
         <!-- <span class="software-tag dl">Deep Learning</span> -->
       </div>
@@ -111,12 +111,12 @@
     <div class="software-authors">Model-based Deep Image Prior for QSM</div>
     <div class="software-venue">Description: MoDIP is an unsupervised dipole inversion method leveraging deep image prior principles for quantitative susceptibility mapping without training data.</div>
   </div>
-  
+
   <div class="software-card">
     <div class="software-header">
       <div class="software-title">QSMDiff
-        <a class="software-btn action" href="#" target="_blank" rel="noopener">📄 Paper</a>
-        <a class="software-btn action" href="#" target="_blank" rel="noopener">💻 GitHub</a>
+        <a class="software-btn action" href="#" target="_blank" rel="noopener">Paper</a>
+        <a class="software-btn action" href="#" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag python">Python</span> -->
         <!-- <span class="software-tag dl">Deep Learning</span> -->
       </div>
