@@ -253,7 +253,7 @@
 /* Journal / volume / pages */
 .pub-venue {
   display: block;
-  color: var(--md-default-fg-color);
+  color: var(--md-default-fg-color--light);
   font-size: 0.75rem;
   /* font-style: italic; */
   margin: 0 0 .15rem 0;
