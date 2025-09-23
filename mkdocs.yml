@@ -59,7 +59,7 @@ nav:
   - Teaching: teaching.md
   - Students: students.md
   - Talks: news.md
-  - Awards & Honors: awards.md
+  # - Awards & Honors: awards.md
 
 markdown_extensions:
   - admonition
