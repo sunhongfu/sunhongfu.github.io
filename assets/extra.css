@@ -239,7 +239,10 @@
   color: var(--md-default-fg-color);   /* same neutral text color as body */
   margin: .1rem 0 .15rem 0;
 }
-.pub-title i { font-style: italic; }       /* keep italics in title */
+.pub-title i {
+  font-style: italic;
+  font-weight: bold; /* Add bold styling */
+}
 
 /* Publication title when it's a link */
 .pub-title a {
