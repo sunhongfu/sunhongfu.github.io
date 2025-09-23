@@ -1,6 +1,6 @@
 # Software
 
-## QSM Toolkits <a class="software-btn action" href="https://github.com/sunhongfu/QSM" target="_blank" rel="noopener">GitHub</a>
+## QSM Toolkits <span aria-hidden="true"><a class="software-btn action" href="https://github.com/sunhongfu/QSM" target="_blank" rel="noopener">GitHub</a></span>
 
 <div class="software-list">
 
@@ -30,7 +30,7 @@
 
 </div>
 
-## Deep Learning Methods <a class="software-btn action" href="https://github.com/sunhongfu/deepMRI" target="_blank" rel="noopener">GitHub</a>
+## Deep Learning Methods <span aria-hidden="true"><a class="software-btn action" href="https://github.com/sunhongfu/deepMRI" target="_blank" rel="noopener">GitHub</a></span>
 
 <div class="software-list">
 
