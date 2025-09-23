@@ -249,7 +249,7 @@
   QSM from the raw phase using an end-to-end neural network
   <div class="cv-sub">Y. Gao, Z. Xiong, A. Fazlollahi, P.J. Nestor, V. Vegh, G.B. Pike, S. Crozier, F. Liu, <span class="me">H. Sun</span>*</div>
   </div>
-  <span class="cv-year">ISMRM; London; May 2022 <b>(Magna Cum Lspane Merit Award)</b></div>
+  <span class="cv-year">ISMRM; London; May 2022 <b>(Magna Cum Laude Merit Award)</b></span>
 </div>
 
 <div class="cv-card">
@@ -289,7 +289,7 @@
   Localization of GPi for MRgFUS pallidotomy: a comparison between FGATIR, R2*, and QSM at 3 T
   <div class="cv-sub"><span class="me">H. Sun</span>, M.E. MacDonald, E.L. Mazerolle, K. Sabourin, G.B. Pike</div>
   </div>
-  <span class="cv-year">ISMRM; Montreal; May 2019 <b>(Magna Cum Lspane Merit Award)</b></div>
+  <span class="cv-year">ISMRM; Montreal; May 2019 <b>(Magna Cum Laude Merit Award)</b></span>
 </div>
 
 <div class="cv-card">
@@ -319,54 +319,41 @@
 <div class="cv-card">
   <div class="cv-title">
   QSM of intracranial hemorrhage: Artifact reduction using a superposition method
-  <  </div>div class="cv-sub"><span class="me">H. Sun</span>, M. Kate, L.C. Gioia, D.J. Emery, K. Butcher, A.H. Wilman</div>
-
-  <span class="cv-year">QSM Workshop; Duke Univ., Durham; Oct. 2span</div>
+  <div class="cv-sub"><span class="me">H. Sun</span>, M. Kate, L.C. Gioia, D.J. Emery, K. Butcher, A.H. Wilman</div>
+  </div>
+  <span class="cv-year">QSM Workshop; Duke Univ., Durham; Oct. 2014</span>
 </div>
 
 <div class="cv-card">
   <div class="cv-title">
   Quantitative Susceptibility Mapping of Intracranial Hemorrhage: Clinical Results and Numerical Simulation
-  <div class="cv-sub"><span class="me">H. Sun</span>, V.V. Divekar, M. K  </div>ate, L.C. Gioia, C.A. Baron, C. Beaulieu, D.J. Emery, K. Butcher, A.H. Wilman</div>
-
-  <span class="cv-year">ISMRM; Milan; May 2014 <b>(Magna Cum Lspane Merit Award)</b></div>
+  <div class="cv-sub"><span class="me">H. Sun</span>, V.V. Divekar, M. Kate, L.C. Gioia, C.A. Baron, C. Beaulieu, D.J. Emery, K. Butcher, A.H. Wilman</div>
+  </div>
+  <span class="cv-year">ISMRM; Milan; May 2014 <b>(Magna Cum Laude Merit Award)</b></span>
 </div>
 
 <div class="cv-card">
   <div class="cv-title">
-  Echo-Planar Susceptibility Mapping: QSM using single-shot gradient E  </div>PI
-  <div class="cv-sub"><span class="me">H. Sun</span>, A.H. Wilman</d
-  iv>
-  <span class="cv-year">ISMRM; Milan; May 2014 <b>(Summa Cum Lspane Merit Award)</b></div>
+  Echo-Planar Susceptibility Mapping: QSM using single-shot gradient EPI
+  <div class="cv-sub"><span class="me">H. Sun</span>, A.H. Wilman</div>
+  </div>
+  <span class="cv-year">ISMRM; Milan; May 2014 <b>(Summa Cum Laude Merit Award)</b></span>
 </div>
 
 <div class="cv-card">
   <div class="cv-title">
   Susceptibility mapping development and application to brain iron in MS postmortem studies
-  <  </div>div class="cv-sub"><span class="me">H. Sun</span>, A.J. Walsh, G. Blevins, J-Q. Lu, E.S. Johnson, K.G. Warren, A.H. Wilman</div>
-
-  <span class="cv-year">QSM Workshop; Cornell Univ., Ithaca; span. 2013</div>
+  <div class="cv-sub"><span class="me">H. Sun</span>, A.J. Walsh, G. Blevins, J-Q. Lu, E.S. Johnson, K.G. Warren, A.H. Wilman</div>
+  </div>
+  <span class="cv-year">QSM Workshop; Cornell Univ., Ithaca; Oct. 2013</span>
 </div>
 
 <div class="cv-card">
   <div class="cv-title">
   Susceptibility mapping using Tikhonov regularization enabled harmonic artifact removal
-  <  </div>div class="cv-sub"><span class="me">H. Sun</span>, A.H. Wilman</div>
-  <span class=
-  "cv-year">ISMRM; Salt Lake City; Apr. 2013 <b>(Summaspanm Laude Merit Award)</b></div>
-</div>
-
-</div>
-
----
-
-## News & Highlights
-<div class="cv-list">
-  <div class="cv-card">
-    <div class="cv-title">
-
-      Placehol   <div class="cv-sub">Press, media coverage, internal announcements</div>
-    </div>
-    <span class="cv-year">YYYY</span>
+  <div class="cv-sub"><span class="me">H. Sun</span>, A.H. Wilman</div>
   </div>
+  <span class="cv-year">ISMRM; Salt Lake City; Apr. 2013 <b>(Summa Cum Laude Merit Award)</b></span>
+</div>
+
 </div>
