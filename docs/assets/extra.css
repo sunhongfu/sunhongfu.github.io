@@ -221,14 +221,14 @@
 .pub-authors {
   display: block;
   color: var(--md-default-fg-color--light); /* lighter authors */
-  font-size: 0.7rem;
+  font-size: 0.75rem;
   margin: 0 0 .15rem 0;
 }
 
 .pub-title {
   display: block;
   font-weight: 500;
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   color: var(--md-primary-fg-color);       /* accent color for title */
   margin: .1rem 0 .15rem 0;
 }
@@ -238,7 +238,7 @@
 .pub-venue {
   display: block;
   color: var(--md-default-fg-color);
-  font-size: 0.7rem;
+  font-size: 0.75rem;
   font-style: italic;
   margin: 0 0 .15rem 0;
 }
@@ -286,7 +286,7 @@
 .software-card {
   display: flex;
   flex-direction: column;
-  padding: 1rem 1.25rem;
+  padding: 0.55rem 0.8rem;
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 14px;
   background: var(--md-default-bg-color);
@@ -312,19 +312,19 @@
   align-items: center;   /* vertical alignment */
   gap: 0.4rem;           /* spacing between title, buttons, tags */
   font-weight: 700;
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 /* subtitle line under the header */
 .software-authors {
   color: var(--md-default-fg-color--light);
-  font-size: 0.9rem;
-  margin: 0 0 0.5rem 0;
+  font-size: 0.8rem;
+  margin: 0 0 0.15rem 0;
 }
 
 .software-venue {
   color: var(--md-default-fg-color);
-  margin: 0 0 .75rem 0;
+  margin: 0 0 .15rem 0;
   line-height: 1.4;
 }
 
