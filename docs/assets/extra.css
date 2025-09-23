@@ -190,7 +190,7 @@
   grid-template-columns: auto 1fr auto; /* number | details | year */
   align-items: start;                   /* align number with first line */
   font-size: 0.8rem;
-  gap: 1rem 1.25rem;
+  gap: 0.6rem 0.9rem;
   padding: 0.55rem 0.8rem;
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 14px;
@@ -207,7 +207,7 @@
   align-self: start;
   justify-self: center;
   font-weight: 600;
-  font-size: .9rem;
+  font-size: .8rem;
   color: var(--md-default-fg-color--light);
   background: var(--md-default-fg-color--lightest);
   border-radius: 999px;
