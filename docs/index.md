@@ -1,26 +1,33 @@
+<div class="hero-card">
+  <img class="hero-photo" src="assets/profile.jpg" alt="Hongfu Sun" />
 
-<div class="hero">
-  <div class="hero-left">
-    <img src="assets/profile.jpg" alt="Profile picture" class="hero-img">
-  </div>
-  <div class="hero-right">
+  <div class="hero-meta">
     <h1>Hongfu Sun, PhD</h1>
-    <h3>ARC DECRA Fellow</h3>
-    <h3>Senior Lecturer - Medical Engineering</h3>
+
+    <h3 class="hero-title">ARC DECRA Fellow</h3>
+    <h3>Senior Lecturer – Medical Engineering</h3>
     <h3>School of Engineering</h3>
     <h3>College of Engineering, Science and Environment</h3>
     <h3>University of Newcastle, Australia</h3>
-    <h3>Office: EAG-34</h3>
-    <h3>Engineering Administration (EA) Building</h3>
-    <h3><a href="mailto:hongfu.sun@newcastle.edu.au">hongfu.sun@newcastle.edu.au</a></h3>    
-    <h3>+61 (02) 4921 8637</h3>
-    <p>
-      <a href="https://scholar.google.com/citations?user=aY5eZ54AAAAJ&hl=en" target="_blank">📚 Google Scholar</a> · 
-      <a href="https://github.com/sunhongfu" target="_blank">💻 GitHub</a> · 
-      <a href="https://orcid.org/0000-0003-3436-7831" target="_blank">🔗 ORCID</a>
-    </p>
+
+    <div class="hero-contact">
+      <div><strong>Office:</strong> EAG-34, Engineering Administration (EA) Building</div>
+      <div><strong>Email:</strong> <a href="mailto:hongfu.sun@newcastle.edu.au">hongfu.sun@newcastle.edu.au</a></div>
+      <div><strong>Phone:</strong> +61 (02) 4921 8637</div>
+      <div class="hero-links">
+        <a href="https://scholar.google.com/citations?user=aY5eZ54AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+        <span>·</span>
+        <a href="https://github.com/sunhongfu" target="_blank" rel="noopener">GitHub</a>
+        <span>·</span>
+        <a href="https://orcid.org/0000-0003-3436-7831" target="_blank" rel="noopener">ORCID</a>
+      </div>
+    </div>
   </div>
 </div>
+
+---
+
+<!-- Keep your existing intro text below -->
 
 ---
 
