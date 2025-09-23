@@ -227,7 +227,7 @@
 
 .pub-authors {
   display: block;
-  color: var(--md-default-fg-color--light); /* lighter authors */
+  color: var(--md-default-fg-color);  /* same neutral text color as body */
   font-size: 0.75rem;
   margin: 0 0 .15rem 0;
 }
