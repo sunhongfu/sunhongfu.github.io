@@ -302,7 +302,7 @@
   align-items: center;
   justify-content: space-between;
   gap: .75rem;
-  margin-bottom: .35rem;
+  margin-bottom: .15rem;
   flex-wrap: wrap;  /* actions wrap under title on narrow screens */
 }
 
@@ -312,7 +312,7 @@
   align-items: center;   /* vertical alignment */
   gap: 0.4rem;           /* spacing between title, buttons, tags */
   font-weight: 700;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
 }
 
 /* subtitle line under the header */
