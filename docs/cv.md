@@ -10,7 +10,6 @@
 </div>
 
 
----
 
 ## Academic Background
 <div class="cv-list">

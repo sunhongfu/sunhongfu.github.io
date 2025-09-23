@@ -2,6 +2,8 @@
 ## Teaching Philosophy
 My teaching philosophy
 
+---
+
 ## Current Courses
 <div class="cv-list">
 
@@ -10,18 +12,12 @@ My teaching philosophy
       MENG3451 · Medical Imaging & Signal Processing
       <div class="cv-sub">University of Newcastle</div>
     </div>
-    <span class="cv-year">2024–2025</span>
-  </div>
-
-  <div class="cv-card">
-    <div class="cv-title">
-      ENGG1003 · Procedural Programming
-      <div class="cv-sub">University of Newcastle</div>
-    </div>
-    <span class="cv-year">2024–2025</span>
+    <span class="cv-year">2025</span>
   </div>
 
 </div>
+
+---
 
 ## Past Courses
 
@@ -29,10 +25,18 @@ My teaching philosophy
 
   <div class="cv-card">
     <div class="cv-title">
-      ENGG1003 · Procedural Programming; MENG3451 · Medical Imaging & Signal Processing
+      ENGG1003 · Procedural Programming
       <div class="cv-sub">University of Newcastle</div>
     </div>
-    <span class="cv-year">2024–2025</span>
+    <span class="cv-year">2025</span>
+  </div>
+
+  <div class="cv-card">
+    <div class="cv-title">
+      MENG3451 · Medical Imaging & Signal Processing
+      <div class="cv-sub">University of Newcastle</div>
+    </div>
+    <span class="cv-year">2024</span>
   </div>
 
   <div class="cv-card">
@@ -44,6 +48,8 @@ My teaching philosophy
   </div>
 
 </div>
+
+---
 
 ## Teaching Resources
 
