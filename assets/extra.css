@@ -312,7 +312,7 @@
   align-items: center;   /* vertical alignment */
   gap: 0.4rem;           /* spacing between title, buttons, tags */
   font-weight: 700;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 
 /* subtitle line under the header */
@@ -356,7 +356,7 @@
   color: var(--md-typeset-a-color);
   border-radius: 6px;
   padding: .28rem .55rem;
-  font-size: .82rem;
+  font-size: .75rem;
   font-weight: 600;
 }
 .software-btn.action:hover { background: var(--md-default-fg-color--lightest); }
