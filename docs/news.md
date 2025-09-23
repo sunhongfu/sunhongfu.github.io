@@ -3,31 +3,129 @@
 Below is a running log of talks, papers, and lab updates.  
 *(Newest first. Use the page ToC to jump by year.)*
 
+---
+
 ## 2025
-- **May** — 3 papers at **ISMRM 2025** (Honolulu), incl. diffusion-model MRI reconstruction and rapid QSM for ICH.  
-- **Mar** — Journal article accepted: **DIP-UP: Deep Image Prior for Unwrapping Phase** (*Information*, 2025).  
-- **Jan** — Paper accepted in *Medical Physics*: **QSM via deep neural networks with iterative reverse concatenations**.
 
-## 2024
-- **Nov** — ANZ ISMRM Chapter: talks on **controllable diffusion models** and **MRF reconstruction**.  
-- **May** — ISMRM (Singapore): presentations on **BFR refinement**, **MRF-Mixer**, and **QSM latent feature editing**.  
-- **Jan** — Editorial duties & reviews for MRI journals.
+<div class="cv-list">
 
-## 2023
-- **Dec** — **MoDIP** in *NeuroImage*; **Plug-and-Play Latent Feature Editing** in *Medical Image Analysis*.  
-- **Jun** — ISMRM (Toronto): diffusion models for **super-resolution** and **guided MRI reconstruction**.  
+  <div class="cv-card">
+    <div class="cv-title">
+      3 papers at ISMRM 2025 (Honolulu)
+      <div class="cv-sub">Diffusion-model MRI reconstruction and rapid QSM for ICH</div>
+    </div>
+    <span class="cv-year">May 2025</span>
+  </div>
+
+  <div class="cv-card">
+    <div class="cv-title">
+      Journal article accepted: <i>DIP-UP: Deep Image Prior for Unwrapping Phase</i>
+      <div class="cv-sub"><i>Information</i></div>
+    </div>
+    <span class="cv-year">Mar 2025</span>
+  </div>
+
+  <div class="cv-card">
+    <div class="cv-title">
+      Paper accepted: QSM via deep neural networks with iterative reverse concatenations
+      <div class="cv-sub"><i>Medical Physics</i></div>
+    </div>
+    <span class="cv-year">Jan 2025</span>
+  </div>
+
+</div>
 
 ---
 
-### Add a new item
-Use this pattern:
+## 2024
 
+<div class="cv-list">
+
+  <div class="cv-card">
+    <div class="cv-title">
+      ANZ ISMRM Chapter
+      <div class="cv-sub">Talks on controllable diffusion models and MRF reconstruction</div>
+    </div>
+    <span class="cv-year">Nov 2024</span>
+  </div>
+
+  <div class="cv-card">
+    <div class="cv-title">
+      ISMRM (Singapore)
+      <div class="cv-sub">Presentations on BFR refinement, MRF-Mixer, and QSM latent feature editing</div>
+    </div>
+    <span class="cv-year">May 2024</span>
+  </div>
+
+  <div class="cv-card">
+    <div class="cv-title">
+      Editorial duties & reviews
+      <div class="cv-sub">MRI journals</div>
+    </div>
+    <span class="cv-year">Jan 2024</span>
+  </div>
+
+</div>
+
+---
+
+## 2023
+
+<div class="cv-list">
+
+  <div class="cv-card">
+    <div class="cv-title">
+      New publications
+      <div class="cv-sub">MoDIP in <i>NeuroImage</i>; Plug-and-Play Latent Feature Editing in <i>Medical Image Analysis</i></div>
+    </div>
+    <span class="cv-year">Dec 2023</span>
+  </div>
+
+  <div class="cv-card">
+    <div class="cv-title">
+      ISMRM (Toronto)
+      <div class="cv-sub">Talks on diffusion models for super-resolution and guided MRI reconstruction</div>
+    </div>
+    <span class="cv-year">Jun 2023</span>
+  </div>
+
+</div>
+
+---
 
 ## Invited & Keynote Talks
-List prestigious invited talks.
+<div class="cv-list">
+  <div class="cv-card">
+    <div class="cv-title">
+      Placeholder
+      <div class="cv-sub">Add prestigious invited talks here</div>
+    </div>
+    <span class="cv-year">YYYY</span>
+  </div>
+</div>
+
+---
 
 ## Conference Talks
-ISMRM, WACV, etc.
+<div class="cv-list">
+  <div class="cv-card">
+    <div class="cv-title">
+      Placeholder
+      <div class="cv-sub">Add ISMRM, WACV, etc. here</div>
+    </div>
+    <span class="cv-year">YYYY</span>
+  </div>
+</div>
+
+---
 
 ## News & Highlights
-Press, media coverage, internal announcements.
+<div class="cv-list">
+  <div class="cv-card">
+    <div class="cv-title">
+      Placeholder
+      <div class="cv-sub">Press, media coverage, internal announcements</div>
+    </div>
+    <span class="cv-year">YYYY</span>
+  </div>
+</div>
