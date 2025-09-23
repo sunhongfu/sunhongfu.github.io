@@ -58,7 +58,7 @@ nav:
   - Software: software.md
   - Teaching: teaching.md
   - Students: students.md
-  - Talks: news.md
+  - Talks: talks.md
   # - Awards & Honors: awards.md
 
 markdown_extensions:
