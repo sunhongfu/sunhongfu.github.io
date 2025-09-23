@@ -1,12 +1,12 @@
 /* ===== Navigation (left sidebar) ===== */
 .md-nav__title,
 .md-nav__link {
-  font-size: 0.9rem;   /* default ~0.7–0.8rem */
+  font-size: 0.8rem;   /* default ~0.7–0.8rem */
 }
 
 /* ===== Table of contents (right sidebar) ===== */
 .md-sidebar--secondary .md-nav__link {
-  font-size: 0.9rem;  /* slightly larger */
+  font-size: 0.8rem;  /* slightly larger */
 }
 
 /* Optional: Make headings in TOC stand out more */
@@ -29,8 +29,8 @@
 }
 
 .md-typeset .hero-photo {
-  width: 180px;
-  height: 180px;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
   border-radius: 50%;
   display: block;
