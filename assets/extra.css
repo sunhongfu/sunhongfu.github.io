@@ -189,6 +189,7 @@
   display: grid;
   grid-template-columns: auto 1fr auto; /* number | details | year */
   align-items: start;                   /* align number with first line */
+  font-size: 0.8rem;
   gap: 1rem 1.25rem;
   padding: 0.55rem 0.8rem;
   border: 1px solid var(--md-default-fg-color--lightest);
@@ -220,13 +221,14 @@
 .pub-authors {
   display: block;
   color: var(--md-default-fg-color--light); /* lighter authors */
+  font-size: 0.75rem;
   margin: 0 0 .15rem 0;
 }
 
 .pub-title {
   display: block;
   font-weight: 500;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   color: var(--md-primary-fg-color);       /* accent color for title */
   margin: .1rem 0 .15rem 0;
 }
@@ -236,6 +238,7 @@
 .pub-venue {
   display: block;
   color: var(--md-default-fg-color);
+  font-size: 0.75rem;
   font-style: italic;
   margin: 0 0 .25rem 0;
 }
