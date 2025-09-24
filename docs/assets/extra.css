@@ -1,33 +1,111 @@
-/* ===== Navigation (left sidebar) ===== */
-.md-nav__title {
-  font-size: 0.9rem;
+/* ===== Card-style NAV (left sidebar) ===== */
+.md-sidebar--primary .md-nav--primary > .md-nav__list {
+  /* each top-level UL becomes a card */
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 14px;
+  box-shadow: 0 1px 2px rgba(0,0,0,.04);
+  overflow: hidden;                 /* keep inner dividers contained */
+  margin-top: .75rem;
+}
+
+/* Section header above each card */
+.md-sidebar--primary .md-nav__title {
+  margin: 1rem 0 .35rem 0;
+  padding: 0 .5rem;
+  font-size: .9rem;
   font-weight: 700;
   color: var(--md-primary-fg-color);
-  text-transform: uppercase;  /* optional */
+  text-transform: uppercase;
 }
 
-.md-nav__link {
-  font-size: 0.8rem;   /* default ~0.7–0.8rem */
+/* Link rows inside the card */
+.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;   /* text left, chevron right */
+  padding: .55rem .85rem;
+  font-size: .82rem;
+  text-decoration: none;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
 }
 
-/* ===== Table of contents (right sidebar) ===== */
-.md-sidebar--secondary .md-nav__link {
-  font-size: 0.8rem;  /* slightly larger */
+/* Remove divider on the last item in the card */
+.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item:last-child > .md-nav__link {
+  border-bottom: none;
 }
 
-/* Optional: Make headings in TOC stand out more */
-.md-sidebar--secondary .md-nav__item .md-nav__link {
-  font-weight: 500;
+/* Right arrow chevron */
+.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link::after {
+  content: "›";                    /* iOS-style arrow */
+  font-size: 1rem;
+  line-height: 1;
+  color: var(--md-default-fg-color--light);
+  margin-left: .75rem;
+  transition: transform .15s ease, color .15s ease;
 }
 
-/* Make "Table of contents" header more prominent */
-.md-sidebar--secondary .md-sidebar__title {
-  font-size: 0.9rem;         /* increase font size */
-  font-weight: 700;          /* bold */
-  color: var(--md-primary-fg-color);  /* use your theme’s primary color */
-  text-transform: uppercase; /* optional: make all caps */
-  margin-bottom: 0.5rem;     /* spacing below */
+/* Hover state */
+.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link:hover {
+  background: var(--md-default-fg-color--lightest);
 }
+.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link:hover::after {
+  transform: translateX(2px);
+  color: var(--md-typeset-a-color);
+}
+
+/* Add breathing room between multiple cards (if any) */
+.md-sidebar--primary .md-nav--primary > .md-nav__list + .md-nav__list {
+  margin-top: .75rem;
+}
+
+/* ===== Card-style TOC (right sidebar) — optional to match ===== */
+.md-sidebar--secondary .md-nav__title {
+  margin: 1rem 0 .35rem 0;
+  padding: 0 .5rem;
+  font-size: .9rem;
+  font-weight: 700;
+  color: var(--md-primary-fg-color);
+  text-transform: uppercase;
+}
+
+.md-sidebar--secondary .md-nav__list {
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 14px;
+  box-shadow: 0 1px 2px rgba(0,0,0,.04);
+  overflow: hidden;
+}
+
+.md-sidebar--secondary .md-nav__item > .md-nav__link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: .5rem .8rem;
+  font-size: .8rem;
+  text-decoration: none;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-sidebar--secondary .md-nav__item:last-child > .md-nav__link { border-bottom: none; }
+
+.md-sidebar--secondary .md-nav__item > .md-nav__link::after {
+  content: "›";
+  font-size: .95rem;
+  color: var(--md-default-fg-color--light);
+  margin-left: .5rem;
+  transition: transform .15s ease, color .15s ease;
+}
+
+.md-sidebar--secondary .md-nav__item > .md-nav__link:hover {
+  background: var(--md-default-fg-color--lightest);
+}
+.md-sidebar--secondary .md-nav__item > .md-nav__link:hover::after {
+  transform: translateX(2px);
+  color: var(--md-typeset-a-color);
+}
+
+
 
 /* ===== Homepage: two-column hero card ===== */
 .md-typeset .hero-card {
