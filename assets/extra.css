@@ -8,13 +8,13 @@
 
 .md-nav__link {
   font-size: 0.8rem;   /* default ~0.7–0.8rem */
-  padding: 0.3rem 0;   /* add vertical spacing */
+  padding: 0.2rem 0;   /* add vertical spacing */
 }
 
 /* ===== Table of contents (right sidebar) ===== */
 .md-sidebar--secondary .md-nav__link {
   font-size: 0.8rem;  /* slightly larger */
-  padding: 0.3rem 0;  /* add vertical spacing */
+  padding: 0.2rem 0;  /* add vertical spacing */
 }
 
 /* Optional: Make headings in TOC stand out more */
