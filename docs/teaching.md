@@ -2,7 +2,6 @@
 ## Teaching Philosophy
 My teaching philosophy
 
----
 
 ## Current Courses
 <div class="cv-list">
@@ -17,7 +16,6 @@ My teaching philosophy
 
 </div>
 
----
 
 ## Past Courses
 
@@ -49,7 +47,6 @@ My teaching philosophy
 
 </div>
 
----
 
 ## Teaching Resources
 

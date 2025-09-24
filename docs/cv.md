@@ -56,7 +56,7 @@
 
 </div>
 
----
+
 
 ## Leadership & Supervision
 <div class="cv-list">
@@ -79,7 +79,7 @@
 
 </div>
 
----
+
 
 ## Research Themes
 <div class="cv-list">
@@ -100,7 +100,7 @@
 
 </div>
 
----
+
 
 ## Teaching
 <div class="cv-list">
@@ -131,7 +131,7 @@
 
 </div>
 
----
+
 
 ## Awards & Honors
 

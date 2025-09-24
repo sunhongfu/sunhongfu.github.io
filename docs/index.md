@@ -25,7 +25,7 @@
 
 
 
----
+
 ## Research Summary
 
 My research specialises in innovating magnetic resonance imaging (MRI) mechanisms for clinical and research applications. Since my PhD, I have been one of the earliest pioneers in developing the Quantitative Susceptibility Mapping (QSM) technique – a new imaging mechanism regarded as one of the most critical MRI technological breakthroughs in recent years. I am internationally recognised as a leading expert in this competitive field. 
@@ -34,7 +34,7 @@ By bringing together expertise in MR physics, signal processing and machine/deep
 
 In the last few years, I have also extended my research topics to novel acquisition and artificial intelligence methods for medical imaging. These include developing generative AI models for quantitative MRI reconstruction and analysis.
 
----
+
 ## Current and Past Funding Sources
 * ARC
 * NHMRC

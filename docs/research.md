@@ -26,7 +26,6 @@
 
 </div>
 
----
 
 ## Selected Grants
 <div class="cv-list">
@@ -80,7 +79,6 @@
 
 </div>
 
----
 
 ## Leadership
 <div class="cv-list">
@@ -101,7 +99,6 @@
 
 </div>
 
----
 
 ## Collaborators & Networks
 <div class="cv-list">
@@ -122,7 +119,6 @@
 
 </div>
 
----
 
 ## Selected Results
 <div class="cv-list">

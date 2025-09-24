@@ -416,7 +416,6 @@
 </div>
 </div>
 
----
 
 ## Editorials
 
@@ -441,7 +440,6 @@
 
 </div>
 
----
 
 ## Conference Papers
 
@@ -466,7 +464,6 @@
 
 </div>
 
----
 
 ## Conference Abstracts
 
