@@ -65,20 +65,6 @@
 
   <div class="software-card">
     <div class="software-header">
-      <div class="software-title">PPN</div>
-      <div class="software-actions">
-        <a class="software-btn action" href="https://doi.org/10.1109/ISBI56570.2024.10635891" target="_blank" rel="noopener">Paper</a>
-        <a class="software-btn action" href="https://github.com/sunhongfu/ppn" target="_blank" rel="noopener">GitHub</a>
-        <!-- <span class="software-tag python">Python</span> -->
-        <!-- <span class="software-tag dl">Deep Learning</span> -->
-      </div>
-    </div>
-    <div class="software-authors">Wei Jiang, Hongfu Sun</div>
-    <div class="software-venue">Fast Controllable Diffusion Models for Undersampled MRI Reconstruction. This study introduces a new algorithm called Predictor-Projector-Noisor (PPN), which enhances and accelerates controllable generation of diffusion models for undersampled MRI reconstruction. .</div>
-  </div>
-
-  <div class="software-card">
-    <div class="software-header">
       <div class="software-title">xQSM</div>
       <div class="software-actions">
         <a class="software-btn action" href="https://doi.org/10.1002/nbm.4461" target="_blank" rel="noopener">Paper</a>
@@ -161,6 +147,27 @@
     <div class="software-venue">Model-based Deep Image Prior for QSM. MoDIP is an unsupervised dipole inversion method leveraging deep image prior principles for quantitative susceptibility mapping without training data.</div>
   </div>
 
+
+</div>
+
+## Diffusion Models
+
+<div class="software-list">
+
+  <div class="software-card">
+    <div class="software-header">
+      <div class="software-title">PPN</div>
+      <div class="software-actions">
+        <a class="software-btn action" href="https://doi.org/10.1109/ISBI56570.2024.10635891" target="_blank" rel="noopener">Paper</a>
+        <a class="software-btn action" href="https://github.com/sunhongfu/ppn" target="_blank" rel="noopener">GitHub</a>
+        <!-- <span class="software-tag python">Python</span> -->
+        <!-- <span class="software-tag dl">Deep Learning</span> -->
+      </div>
+    </div>
+    <div class="software-authors">Wei Jiang, Hongfu Sun</div>
+    <div class="software-venue">Fast Controllable Diffusion Models for Undersampled MRI Reconstruction. This study introduces a new algorithm called Predictor-Projector-Noisor (PPN), which enhances and accelerates controllable generation of diffusion models for undersampled MRI reconstruction. .</div>
+  </div>
+
   <div class="software-card">
     <div class="software-header">
       <div class="software-title">QSMDiff</div>
@@ -173,15 +180,6 @@
     </div>
     <div class="software-authors">Zhuang Xiong, Hongfu Sun</div>
     <div class="software-venue">Diffusion-model-based QSM for EPI scans. QSMDiff employs diffusion probabilistic models to reconstruct QSM from undersampled or distorted EPI scans, improving robustness and generalizability.</div>
-  </div>
-
-  <div class="software-card">
-    <div class="software-header">
-      <div class="software-title">More Software Coming Soon...</di</div>v>
-    <div class="software-actions"></
-    div>
-    <div class="software-authors">DIP-UP, DeepRelaxo, MRF-Mixer and others</div>
-    <div class="software-venue">Additional methods and tools will be added here with detailed descriptions, references, and code repositories.</div>
   </div>
 
 </div>
