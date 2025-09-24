@@ -1,5 +1,5 @@
-/* ===== Card-style NAV (left sidebar) ===== */
-.md-sidebar--primary nav[aria-label="Main navigation"] {
+/* ===== Navigation (left sidebar) with card style ===== */
+.md-sidebar--primary .md-nav__list {
   background: var(--md-default-bg-color);
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 14px;
@@ -9,96 +9,25 @@
   padding: .25rem 0;
 }
 
-/* Hide the dynamic title that changes to the current page (prevents duplicate 'Home' etc.) */
-.md-sidebar--primary .md-nav__title {
-  display: none;
-}
-
-/* Link rows inside the card */
-.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link {
+.md-sidebar--primary .md-nav__item > .md-nav__link {
   display: flex;
   align-items: center;
-  justify-content: space-between;   /* text left, chevron right */
-  padding: .7rem 1rem;
-  font-size: .85rem;
+  justify-content: space-between;   /* text left, arrow right */
+  padding: .6rem .9rem;
+  font-size: 0.8rem;
   text-decoration: none;
   border-bottom: 1px solid var(--md-default-fg-color--lightest);
 }
 
-/* Remove divider on the last item */
-.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item:last-child > .md-nav__link {
-  border-bottom: none;
+.md-sidebar--primary .md-nav__item:last-child > .md-nav__link {
+  border-bottom: none;  /* remove divider from last item */
 }
 
-/* Right arrow chevron */
-.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link::after {
-  content: "›";
-  font-size: 1rem;
-  line-height: 1;
-  color: var(--md-default-fg-color--light);
-  margin-left: .75rem;
-  transition: transform .15s ease, color .15s ease;
-}
-
-/* Hover state */
-.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link:hover {
-  background: var(--md-default-fg-color--lightest);
-}
-.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link:hover::after {
-  transform: translateX(2px);
-  color: var(--md-typeset-a-color);
-}
-
-/* On narrow screens, Material moves the secondary ToC under the primary nav.
-   Hide that so you don’t see duplicate 'Talks' etc. */
-.md-sidebar--primary .md-nav--secondary {
-  display: none !important;
-}
-
-/* ===== Card-style TOC (right sidebar) ===== */
-.md-sidebar--secondary .md-nav__title {
-  margin: 1rem 0 .35rem 0;
-  padding: 0 .5rem;
-  font-size: .9rem;
-  font-weight: 700;
-  color: var(--md-primary-fg-color);
-  text-transform: uppercase;
-}
-
-.md-sidebar--secondary .md-nav__list {
-  background: var(--md-default-bg-color);
-  border: 1px solid var(--md-default-fg-color--lightest);
-  border-radius: 14px;
-  box-shadow: 0 1px 2px rgba(0,0,0,.04);
-  overflow: hidden;
-}
-
-.md-sidebar--secondary .md-nav__item > .md-nav__link {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: .5rem .8rem;
-  font-size: .8rem;
-  text-decoration: none;
-  border-bottom: 1px solid var(--md-default-fg-color--lightest);
-}
-
-.md-sidebar--secondary .md-nav__item:last-child > .md-nav__link { border-bottom: none; }
-
-.md-sidebar--secondary .md-nav__item > .md-nav__link::after {
-  content: "›";
-  font-size: .95rem;
+.md-sidebar--primary .md-nav__item > .md-nav__link::after {
+  content: "›";                    /* right arrow */
+  font-size: 0.9rem;
   color: var(--md-default-fg-color--light);
   margin-left: .5rem;
-  transition: transform .15s ease, color .15s ease;
-}
-
-.md-sidebar--secondary .md-nav__item > .md-nav__link:hover {
-  background: var(--md-default-fg-color--lightest);
-}
-.md-sidebar--secondary .md-nav__item > .md-nav__link:hover::after {
-  transform: translateX(2px);
-  color: var(--md-typeset-a-color);
 }
 
 /* ===== Homepage: two-column hero card ===== */
