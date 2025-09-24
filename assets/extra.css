@@ -1,36 +1,34 @@
-/* ===== Primary (left) navigation: card + dividers + chevron ===== */
-.md-sidebar--primary .md-nav--primary > .md-nav__list {
-  background: var(--md-default-bg-color);
-  border: 1px solid var(--md-default-fg-color--lightest);
-  border-radius: 14px;
-  box-shadow: 0 1px 2px rgba(0,0,0,.04);
-  overflow: hidden;
-  margin-top: .75rem;
-  padding: .25rem 0;
+/* ===== Navigation (left sidebar) ===== */
+.md-nav__title {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--md-primary-fg-color);
+  text-transform: uppercase;  /* optional */
 }
 
-/* Only top-level nav links */
-.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item > a.md-nav__link {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;   /* text left, arrow right */
-  padding: .6rem .9rem;
-  font-size: 0.8rem;
-  text-decoration: none;
-  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+.md-nav__link {
+  font-size: 0.8rem;   /* default ~0.7–0.8rem */
+  padding: 0.4rem 0;   /* add vertical spacing */
 }
 
-.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item:last-child > a.md-nav__link {
-  border-bottom: none;  /* no divider on last item */
+/* ===== Table of contents (right sidebar) ===== */
+.md-sidebar--secondary .md-nav__link {
+  font-size: 0.8rem;  /* slightly larger */
+  padding: 0.35rem 0;  /* add vertical spacing */
 }
 
-/* Right arrow chevron */
-.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item > a.md-nav__link::after {
-  content: "›";
-  font-size: .95rem;
-  color: var(--md-default-fg-color--light);
-  margin-left: .5rem;
-  line-height: 1;
+/* Optional: Make headings in TOC stand out more */
+.md-sidebar--secondary .md-nav__item .md-nav__link {
+  font-weight: 500;
+}
+
+/* Make "Table of contents" header more prominent */
+.md-sidebar--secondary .md-sidebar__title {
+  font-size: 0.9rem;         /* increase font size */
+  font-weight: 700;          /* bold */
+  color: var(--md-primary-fg-color);  /* use your theme’s primary color */
+  text-transform: uppercase; /* optional: make all caps */
+  margin-bottom: 0.75rem;     /* spacing below */
 }
 
 /* ===== Homepage: two-column hero card ===== */
