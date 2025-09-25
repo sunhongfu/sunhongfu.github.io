@@ -172,7 +172,7 @@
     <div class="software-header">
       <div class="software-title">QSMDiff</div>
       <div class="software-actions">
-        <a class="software-btn action" href="https://arxiv.org/abs/2403.14070" target="_blank" rel="noopener">Paper</a>
+        <a class="software-btn action" href="https://arxiv.org/abs/2403.14070" target="_blank" rel="noopener">arXiv</a>
         <a class="software-btn action" href="#" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag python">Python</span> -->
         <!-- <span class="software-tag dl">Deep Learning</span> -->
