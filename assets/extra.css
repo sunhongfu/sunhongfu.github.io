@@ -14,7 +14,7 @@
   font-size: 0.9rem;
   font-weight: 700;
   color: var(--md-primary-fg-color);
-  /* text-transform: uppercase; */
+  text-transform: uppercase;
 }
 
 .md-nav__link {
@@ -38,7 +38,7 @@
   font-size: 0.9rem;         /* increase font size */
   font-weight: 700;          /* bold */
   color: var(--md-primary-fg-color);  /* use your theme’s primary color */
-  /* text-transform: uppercase; */
+  text-transform: uppercase;
   margin-bottom: 0.75rem;     /* spacing below */
 }
 
