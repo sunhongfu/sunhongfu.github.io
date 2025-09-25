@@ -332,7 +332,7 @@
   align-items: center;   /* vertical alignment */
   gap: 0.4rem;           /* spacing between title, buttons, tags */
   font-weight: 700;
-  font-size: 0.8rem;
+  font-size: 0.85rem;
 }
 
 /* subtitle line under the header */

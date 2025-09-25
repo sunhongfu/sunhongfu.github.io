@@ -31,7 +31,7 @@
 
   <div class="software-card">
     <div class="software-header">
-      <div class="software-title">POEM - coil combination for phase</div>
+      <div class="software-title">POEM</div>
       <div class="software-actions">
         <a class="software-btn action" href="https://doi.org/10.1002/mrm.27975" target="_blank" rel="noopener">Paper</a>
         <a class="software-btn action" href="https://github.com/sunhongfu/QSM/blob/master/coil_combination/poem.m" target="_blank" rel="noopener">GitHub</a>
