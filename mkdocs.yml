@@ -39,9 +39,6 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/hongfu-sun-64b567169
   generator: false
-  meta:
-    - name: format-detection
-      content: telephone=no
 
 plugins:
   - search

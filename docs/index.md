@@ -28,13 +28,50 @@
 
 ## Research Summary
 
-My research specialises in innovating magnetic resonance imaging (MRI) mechanisms for clinical and research applications. Since my PhD, I have been one of the earliest pioneers in developing the Quantitative Susceptibility Mapping (QSM) technique – a new imaging mechanism regarded as one of the most critical MRI technological breakthroughs in recent years. I am internationally recognised as a leading expert in this competitive field. 
- 
-By bringing together expertise in MR physics, signal processing and machine/deep learning, in the year 2020, I independently proposed a ground-breaking DECRA application that could revolutionise microscopic imaging techniques by breaking through the sub-millimetre image resolution, a bottleneck of current MRI methods. The project aims to change the current imaging practice in Australia and save tremendous amount of money for various research studies requiring tissue imaging.
+<div class="card-list">
 
-In the last few years, I have also extended my research topics to novel acquisition and artificial intelligence methods for medical imaging. These include developing generative AI models for quantitative MRI reconstruction and analysis.
+  <div class="card">
+    <div class="card-title">Research Focus</div>
+    <div class="card-body">
+      My research specialises in innovating magnetic resonance imaging (MRI) mechanisms for clinical and research applications. 
+      Since my PhD, I have been one of the earliest pioneers in developing the <b>Quantitative Susceptibility Mapping (QSM)</b> technique – 
+      a new imaging mechanism regarded as one of the most critical MRI technological breakthroughs in recent years. 
+      I am internationally recognised as a leading expert in this competitive field.
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">Breakthrough DECRA Project</div>
+    <div class="card-body">
+      In 2020, I independently proposed a ground-breaking <b>ARC DECRA Fellowship</b> project aimed at revolutionising microscopic imaging techniques 
+      by breaking the sub-millimetre image resolution barrier — a long-standing bottleneck of current MRI methods. 
+      This project aims to change imaging practice in Australia and save substantial costs for research studies requiring tissue imaging.
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">Expanding to AI-driven MRI</div>
+    <div class="card-body">
+      In recent years, I have expanded my research to <b>novel acquisition</b> and <b>artificial intelligence</b> methods for medical imaging. 
+      This includes developing <b>generative AI models</b> for quantitative MRI reconstruction and analysis.
+    </div>
+  </div>
+
+</div>
 
 
 ## Current and Past Funding Sources
-* ARC
-* NHMRC
+
+<div class="card-list">
+
+  <div class="card">
+    <div class="card-title">Funding Agencies</div>
+    <div class="card-body">
+      <ul>
+        <li>Australian Research Council (ARC)</li>
+        <li>National Health and Medical Research Council (NHMRC)</li>
+      </ul>
+    </div>
+  </div>
+
+</div>

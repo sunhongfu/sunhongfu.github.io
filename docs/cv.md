@@ -19,7 +19,7 @@
       Senior Lecturer (permanent) - Medical Engineering
       <div class="cv-sub">University of Newcastle, Australia</div>
     </div>
-    <span class="cv-year">2024/02–Present</span>
+    <span class="cv-year">2024.02–Present</span>
   </div>
 
   <div class="cv-card">
@@ -27,7 +27,7 @@
       ARC DECRA Fellow - Electrical Engineering
       <div class="cv-sub">University of Queensland, Australia</div>
     </div>
-    <span class="cv-year">2019/03–2024/02</span>
+    <span class="cv-year">2019.03–2024.02</span>
   </div>
 
   <div class="cv-card">
@@ -35,7 +35,7 @@
       Postdoc - Radiology
       <div class="cv-sub">University of Calgary, Canada</div>
     </div>
-    <span class="cv-year">2015/11–2019/03</span>
+    <span class="cv-year">2015.11–2019.03</span>
   </div>
 
   <div class="cv-card">
@@ -43,7 +43,7 @@
       PhD - Biomedical Engineering
       <div class="cv-sub">University of Alberta, Canada</div>
     </div>
-    <span class="cv-year">2010/09–2015/11</span>
+    <span class="cv-year">2010.09–2015.11</span>
   </div>
 
   <div class="cv-card">
@@ -51,7 +51,7 @@
       BSc - Biomedical Engineering
       <div class="cv-sub">Huazhong University of Science and Technology, China</div>
     </div>
-    <span class="cv-year">2005/09–2009/06</span>
+    <span class="cv-year">2005.09–2009.06</span>
   </div>
 
 </div>
