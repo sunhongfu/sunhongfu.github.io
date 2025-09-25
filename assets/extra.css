@@ -414,3 +414,7 @@
 @media (min-width: 900px) {
   .software-list { gap: 0.5rem; }
 }
+
+body {
+  -webkit-touch-callout: none;
+}
