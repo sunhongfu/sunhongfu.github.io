@@ -33,6 +33,7 @@
     <div class="software-header">
       <div class="software-title">POEM</div>
       <div class="software-actions">
+        <a class="software-btn action" href="https://archive.ismrm.org/2018/4993.html" target="_blank" rel="noopener">Abstract</a>
         <a class="software-btn action" href="https://doi.org/10.1002/mrm.27975" target="_blank" rel="noopener">Paper</a>
         <a class="software-btn action" href="https://github.com/sunhongfu/QSM/blob/master/coil_combination/poem.m" target="_blank" rel="noopener">GitHub</a>
         <!-- <span class="software-tag matlab">MATLAB</span> -->
