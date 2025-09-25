@@ -207,12 +207,13 @@
   align-items: center;
   justify-content: center;
   white-space: nowrap;
-  background-color: #3f51b5;
-  color: #fff;
+  background-color: var(--md-default-fg-color--lightest); /* softer, muted */
+  color: var(--md-default-fg-color);                      /* dark text */
   font-size: 0.75em;
-  font-weight: 700;
-  padding: 4px 10px;
+  font-weight: 600;
+  padding: 3px 8px;   /* slightly smaller */
   border-radius: 999px;
+  border: 1px solid var(--md-default-fg-color--light);    /* subtle outline */
 }
 
 @media (min-width: 900px) {
