@@ -11,14 +11,13 @@
   padding: 0.2rem 0;   /* add vertical spacing */
 }
 
-/* Hide site name/title at top of left nav */
-.md-sidebar--primary .md-header__title {
+/* Hide the site name shown at the very top of the left nav */
+.md-sidebar--primary .md-nav--primary > .md-nav__title {
   display: none !important;
 }
 
-/* Remove empty gap left behind */
-.md-sidebar--primary .md-sidebar__inner {
-  padding-top: 0 !important;
+/* Pull the menu up so there's no blank space */
+.md-sidebar--primary .md-nav--primary > .md-nav__list {
   margin-top: 0 !important;
 }
 
