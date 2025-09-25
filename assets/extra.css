@@ -133,6 +133,39 @@
   }
 }
 
+/* ===== Generic cards (used in Research, Funding, etc.) ===== */
+.card-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin-top: .75rem;
+}
+
+@media (min-width: 900px) {
+  .card-list { gap: 0.5rem; }
+}
+
+.card {
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 14px;
+  background: var(--md-default-bg-color);
+  box-shadow: 0 1px 2px rgba(0,0,0,.04);
+}
+
+.card-title {
+  font-weight: 700;
+  font-size: 1rem;
+  margin-bottom: .35rem;
+  color: var(--md-primary-fg-color);
+}
+
+.card-body {
+  font-size: .85rem;
+  color: var(--md-default-fg-color);
+  line-height: 1.5;
+}
+
 /* ===== CV cards (same style as Awards) ===== */
 .cv-list {
   display: grid;
