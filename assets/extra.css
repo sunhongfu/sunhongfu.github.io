@@ -11,6 +11,17 @@
   padding: 0.2rem 0;   /* add vertical spacing */
 }
 
+/* Hide site name/title at top of left nav */
+.md-sidebar--primary .md-header__title {
+  display: none !important;
+}
+
+/* Remove empty gap left behind */
+.md-sidebar--primary .md-sidebar__inner {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
 /* ===== Table of contents (right sidebar) ===== */
 .md-sidebar--secondary .md-nav__link {
   font-size: 0.8rem;  /* slightly larger */
