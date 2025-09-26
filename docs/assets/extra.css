@@ -162,7 +162,7 @@
 
 .card-body {
   font-size: .8rem;
-  color: var(--md-default-fg-color--lightest);
+  color: var(--md-default-fg-color--light);
   line-height: 1.5;
 }
 
@@ -354,7 +354,7 @@
 .software-card {
   display: flex;
   flex-direction: column;
-  padding: 0.55rem 0.8rem;
+  padding: 1rem 1.25rem;
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 14px;
   background: var(--md-default-bg-color);
