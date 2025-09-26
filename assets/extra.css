@@ -207,13 +207,13 @@
   align-items: center;
   justify-content: center;
   white-space: nowrap;
-  background-color: var(--md-default-fg-color--lightest); /* softer, muted */
-  color: var(--md-default-fg-color);                      /* dark text */
-  font-size: 0.75em;
+  background-color: #5c6bc0;   /* muted indigo */
+  color: #fff;                 /* keep white text */
+  font-family: "JetBrains Mono", monospace; /* fixed-width for alignment */
+  font-size: 0.72em;
   font-weight: 600;
-  padding: 3px 8px;   /* slightly smaller */
+  padding: 2px 8px;
   border-radius: 999px;
-  border: 1px solid var(--md-default-fg-color--light);    /* subtle outline */
 }
 
 @media (min-width: 900px) {
