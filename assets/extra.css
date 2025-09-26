@@ -155,13 +155,13 @@
 
 .card-title {
   font-weight: 700;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   margin-bottom: .35rem;
   color: var(--md-default-fg-color);
 }
 
 .card-body {
-  font-size: .8rem;
+  font-size: .75rem;
   color: var(--md-default-fg-color--light);
   line-height: 1.5;
 }
