@@ -65,21 +65,21 @@
 }
 
 .md-typeset .hero-meta h1 {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   font-weight: 800;
   margin: 0 0 .35rem 0;
   color: var(--md-default-fg-color);
 }
 
 .md-typeset .hero-meta h3 {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   font-weight: 400;
   margin: .15rem 0;
   color: var(--md-default-fg-color--light);
 }
 
 .md-typeset .hero-meta .hero-title {
-  font-size: 1rem;
+  font-size: 0.85rem;
   font-weight: 700;
   color: var(--md-primary-fg-color);
   margin: .2rem 0 .4rem 0;
@@ -87,7 +87,7 @@
 
 .md-typeset .hero-contact {
   margin-top: .6rem;
-  font-size: .8rem;
+  font-size: .75rem;
   color: var(--md-default-fg-color);
 }
 
@@ -103,7 +103,7 @@
   display: flex;
   gap: .5rem;
   flex-wrap: wrap;
-  font-size: .8rem;
+  font-size: .75rem;
 }
 
 /* Responsive: stack on narrow screens */
