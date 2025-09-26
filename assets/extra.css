@@ -81,7 +81,7 @@
 .md-typeset .hero-meta .hero-title {
   font-size: 0.85rem;
   font-weight: 700;
-  color: var(--md-primary-fg-color--light);
+  color: var(--md-default-fg-color--light);
   margin: .2rem 0 .4rem 0;
 }
 
