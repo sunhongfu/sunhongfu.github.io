@@ -67,7 +67,7 @@
 .md-typeset .hero-meta h1 {
   font-size: 1.25rem;
   font-weight: 800;
-  margin: 0 0 .35rem 0;
+  margin: 0 0 .4rem 0;
   color: var(--md-default-fg-color);
 }
 
@@ -79,10 +79,10 @@
 }
 
 .md-typeset .hero-meta .hero-title {
-  font-size: 0.85rem;
+  font-size: 0.75rem;
   font-weight: 700;
   color: var(--md-default-fg-color--light);
-  margin: .2rem 0 .15rem 0;
+  margin: .15rem 0 .15rem 0;
 }
 
 .md-typeset .hero-contact {
