@@ -4,7 +4,7 @@
   <div class="hero-meta">
     <h1>Hongfu Sun, PhD</h1>
     <h3 class="hero-title">ARC DECRA Fellow</h3>
-    <h3>Senior Lecturer – Medical Engineering</h3>
+    <h3 class="hero-title">Senior Lecturer – Medical Engineering</h3>
     <h3>School of Engineering</h3>
     <h3>College of Engineering, Science and Environment</h3>
     <h3>University of Newcastle, Australia</h3>
