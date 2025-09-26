@@ -171,7 +171,6 @@
 .cv-buttons {
   display: flex;
   gap: 0.6rem;           /* space between buttons */
-  margin: 1rem 0;        /* spacing above/below group */
 }
 
 .cv-btn {
@@ -193,13 +192,13 @@
 
 /* Different accent styles */
 .cv-btn.open {
-  border-color: var(--md-primary-fg-color);
-  color: var(--md-primary-fg-color);
+  border-color: var(--md-default-fg-color--lightest);
+  color: var(--md-primary-fg-color--light);
 }
 
 .cv-btn.download {
-  border-color: #3f51b5;     /* indigo accent */
-  color: #3f51b5;
+  border-color: var(--md-default-fg-color--lightest);
+  color: var(--md-primary-fg-color--light);
 }
 
 .cv-list {
