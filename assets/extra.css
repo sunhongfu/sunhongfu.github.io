@@ -213,8 +213,8 @@
   color: var(--md-typeset-a-color);
 
   border-radius: 6px;
-  padding: .15rem .25rem;
-  font-size: .75rem;
+  padding: .15rem .2rem;
+  font-size: .7rem;
   font-weight: 600;
   font-family: "JetBrains Mono", monospace; /* keep alignment consistent */
 }
