@@ -207,8 +207,8 @@
   align-items: center;
   justify-content: center;
   white-space: nowrap;
-  background-color: #b5c0ff;   /* muted indigo */
-  color: #fff;                 /* keep white text */
+  background-color: #ccd4ff;   /* muted indigo */
+  color: #8e8e8e;                 /* keep white text */
   font-family: "JetBrains Mono", monospace; /* fixed-width for alignment */
   font-size: 0.75em;
   font-weight: 600;
