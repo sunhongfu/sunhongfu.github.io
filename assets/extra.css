@@ -167,6 +167,41 @@
 }
 
 /* ===== CV cards (same style as Awards) ===== */
+/* ===== CV Buttons ===== */
+.cv-buttons {
+  display: flex;
+  gap: 0.6rem;           /* space between buttons */
+  margin: 1rem 0;        /* spacing above/below group */
+}
+
+.cv-btn {
+  display: inline-block;
+  padding: 0.35rem 0.8rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  border-radius: 6px;
+  text-decoration: none;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  background: transparent;
+  color: var(--md-typeset-a-color);
+  transition: background 0.2s ease, color 0.2s ease, border 0.2s ease;
+}
+
+.cv-btn:hover {
+  background: var(--md-default-fg-color--lightest);
+}
+
+/* Different accent styles */
+.cv-btn.open {
+  border-color: var(--md-primary-fg-color);
+  color: var(--md-primary-fg-color);
+}
+
+.cv-btn.download {
+  border-color: #3f51b5;     /* indigo accent */
+  color: #3f51b5;
+}
+
 .cv-list {
   display: grid;
   grid-template-columns: 1fr;
