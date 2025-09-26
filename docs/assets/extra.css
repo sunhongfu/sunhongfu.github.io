@@ -207,14 +207,15 @@
   align-items: center;
   justify-content: center;
   white-space: nowrap;
-  background-color: #ccd4ff;   /* muted indigo */
-  color: #8e8e8e;                 /* keep white text */
+  background-color: #3f51b5b7;
+  color: #fff;
   font-family: "JetBrains Mono", monospace; /* fixed-width for alignment */
   font-size: 0.75em;
-  font-weight: 600;
-  padding: 2px 8px;
+  font-weight: 700;
+  padding: 4px 10px;
   border-radius: 999px;
 }
+
 
 @media (min-width: 900px) {
   .cv-list { gap: 0.5rem; }
