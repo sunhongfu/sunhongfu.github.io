@@ -14,9 +14,9 @@
       <div><strong>Phone:</strong> <a href="tel:+61249218637">+61 (02) 4921 8637</a></div>
       <div class="hero-links">
         <a href="https://scholar.google.com/citations?user=aY5eZ54AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
-        <span>·</span>
+        <span>|</span>
         <a href="https://github.com/sunhongfu" target="_blank" rel="noopener">GitHub</a>
-        <span>·</span>
+        <span>|</span>
         <a href="https://orcid.org/0000-0003-3436-7831" target="_blank" rel="noopener">ORCID</a>
       </div>
     </div>
