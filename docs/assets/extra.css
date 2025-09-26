@@ -67,7 +67,7 @@
 .md-typeset .hero-meta h1 {
   font-size: 1.25rem;
   font-weight: 800;
-  margin: 0 0 .4rem 0;
+  margin: 0 0 .15rem 0;
   color: var(--md-default-fg-color);
 }
 
@@ -99,7 +99,7 @@
 .md-typeset .hero-contact a:hover { text-decoration: underline; }
 
 .md-typeset .hero-links {
-  margin-top: .35rem;
+  margin-top: .6rem;
   display: flex;
   gap: .5rem;
   flex-wrap: wrap;
