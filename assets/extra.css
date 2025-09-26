@@ -171,6 +171,7 @@
 .cv-buttons {
   display: flex;
   gap: 0.6rem;           /* space between buttons */
+  margin: 0 0 1rem 0;        /* spacing above/below group */
 }
 
 .cv-btn {
