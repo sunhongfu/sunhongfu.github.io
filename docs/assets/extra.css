@@ -207,15 +207,17 @@
   align-items: center;
   justify-content: center;
   white-space: nowrap;
-  background-color: #3f51b5b7;
-  color: #fff;
-  font-family: "JetBrains Mono", monospace; /* fixed-width for alignment */
-  font-size: 0.75em;
-  font-weight: 700;
-  padding: 4px 10px;
-  border-radius: 999px;
-}
 
+  border: 1px solid var(--md-default-fg-color--lightest);
+  background: transparent;
+  color: var(--md-typeset-a-color);
+
+  border-radius: 6px;
+  padding: .15rem .25rem;
+  font-size: .75rem;
+  font-weight: 600;
+  font-family: "JetBrains Mono", monospace; /* keep alignment consistent */
+}
 
 @media (min-width: 900px) {
   .cv-list { gap: 0.5rem; }
