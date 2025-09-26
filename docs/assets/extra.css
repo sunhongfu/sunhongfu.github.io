@@ -395,7 +395,7 @@
   margin: 0 0 .15rem 0;
   line-height: 1.4;
   font-size: 0.75rem;
-  font-style: italic;   /* make it italic */
+  /* font-style: italic;    */
 }
 
 /* ---- actions live in the header now ---- */
