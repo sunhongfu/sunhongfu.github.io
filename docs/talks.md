@@ -253,7 +253,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">W. Jiang, Y. Gao, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>MR image super-resolution via a variational diffusion model</i></div>
+    <div class="pub-title"><a href="https://archive.ismrm.org/2023/0163.html" target="_blank" rel="noopener"><i>MR image super-resolution via a variational diffusion model</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; Jun. 2023</div>
   </div>
 </div>
@@ -262,7 +262,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">W. Jiang, Y. Gao, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>MRI reconstruction using DDPM with sparsely sampled k-space as guidance</i></div>
+    <div class="pub-title"><a href="https://archive.ismrm.org/2023/0390.html" target="_blank" rel="noopener"><i>MRI reconstruction using DDPM with sparsely sampled k-space as guidance</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; Jun. 2023</div>
   </div>
 </div>
@@ -271,7 +271,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Y. Gao, T. Ding, M.A. Cloos, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>MRF-mixer: a self-supervised deep learning MRF framework</i></div>
+    <div class="pub-title"><a href="https://archive.ismrm.org/2023/0954.html" target="_blank" rel="noopener"><i>MRF-mixer: a self-supervised deep learning MRF framework</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; Jun. 2023</div>
   </div>
 </div>
@@ -325,7 +325,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Y. Gao, X. Zhu, S. Crozier, F. Liu, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>xQSM: a deep learning QSM network using Octave Convolution</i></div>
+    <div class="pub-title"><a href="https://archive.ismrm.org/2020/1635.html" target="_blank" rel="noopener"><i>xQSM: a deep learning QSM network using Octave Convolution</i></a></div>
     <div class="pub-venue">ISMRM; Sydney; Apr. 2020</div>
   </div>
 </div>
@@ -352,7 +352,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">F. Schweser, W. Li, <span class="me">H. Sun</span>, D. Zhou, N. Bertolino, P. Polak, Y. Wang, A.H. Wilman, K. Bredies, R. Zivadinov, S.D. Robinson</div>
-    <div class="pub-title"><i>An illustrated comparison of background field elimination methods for phase MRI and QSM</i></div>
+    <div class="pub-title"><a href="https://archive.ismrm.org/2016/0026.html" target="_blank" rel="noopener"><i>An illustrated comparison of background field elimination methods for phase MRI and QSM</i></a></div>
     <div class="pub-venue">ISMRM; Singapore; May 2016</div>
   </div>
 </div>
