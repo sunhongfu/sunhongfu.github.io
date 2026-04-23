@@ -6,9 +6,9 @@
 <div class="pub-card">
   <div class="pub-num"></div>
   <div class="pub-details">
-    <div class="pub-authors">T. Ding, H. Chen, Y. Gao, Z. Xiong, F. Liu, M.A. Cloos, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><a href="https://arxiv.org/abs/2507.03369" target="_blank" rel="noopener"><i>Adaptive Gate-Aware Mamba Networks for Magnetic Resonance Fingerprinting</i></a></div>
-    <div class="pub-venue">arXiv preprint arXiv:2507.03369 (2025).</div>
+    <div class="pub-authors">Z. Wang, W. Dai, T.T. Dao, S. Bollmann, <span class="me">H. Sun</span>, C. Engstrom, S.S. Chandra</div>
+    <div class="pub-title"><a href="https://arxiv.org/abs/2510.26635" target="_blank" rel="noopener"><i>SAMRI: Segment Anything Model for MRI</i></a></div>
+    <div class="pub-venue">arXiv preprint arXiv:2510.26635 (2025).</div>
   </div>
 </div>
 
@@ -18,24 +18,6 @@
     <div class="pub-authors">M. Li, C. Chen, Z. Li, Y. Liu, S. Shan, P. Wu, P. Rong, F. Liu, G.B. Pike, <span class="me">H. Sun</span>, Y. Gao</div>
     <div class="pub-title"><a href="https://arxiv.org/abs/2506.13293" target="_blank" rel="noopener"><i>SUSEP-Net: Simulation-Supervised and Contrastive Learning-based Deep Neural Networks for Susceptibility Source Separation</i></a></div>
     <div class="pub-venue">arXiv preprint arXiv:2506.13293 (2025).</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">J. Liu, Q. Lin, Z. Xiong, S. Shan, C. Liu, M. Li, F. Liu, G.B. Pike, <span class="me">H. Sun</span>, Y. Gao</div>
-    <div class="pub-title"><a href="https://arxiv.org/abs/2505.08142" target="_blank" rel="noopener"><i>Highly Undersampled MRI Reconstruction via a Single Posterior Sampling of Diffusion Models</i></a></div>
-    <div class="pub-venue">arXiv preprint arXiv:2505.08142 (2025).</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">Z. Xiong, W. Jiang, Y. Gao, F. Liu, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><a href="https://arxiv.org/abs/2403.14070" target="_blank" rel="noopener"><i>QSMDiff: Unsupervised 3D Diffusion Models for Quantitative Susceptibility Mapping</i></a></div>
-    <div class="pub-venue">arXiv preprint arXiv:2403.14070 (2024).</div>
   </div>
 </div>
 
@@ -53,6 +35,38 @@
 ## Journal Articles
 
 <div class="pub-list">
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">Z. Xiong, Y. Gao, F. Liu, D. Emery, K. Butcher, A.H. Wilman, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>Advancing Quantitative Susceptibility Mapping With 2.5D Diffusion Models for Rapid Intracranial Hemorrhage Quantification</i></div>
+    <div class="pub-venue">Magn. Reson. Med. 2026.</div>
+    </div>
+</div>
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">S. Prima, Z. Xiong, A.H. Wilman, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>DeepRelaxo: Fast Mono-Exponential Magnitude Brain R2* Mapping with Reduced Echoes Using Self-Supervised Deep Learning</i></div>
+    <div class="pub-venue">Magn. Reson. Med. 2026.</div>
+    </div>
+</div>
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">J. Liu, Q. Lin, Z. Xiong, S. Shan, C. Liu, M. Li, F. Liu, G.B. Pike, <span class="me">H. Sun</span>, Y. Gao</div>
+    <div class="pub-title"><a href="https://doi.org/10.1109/TMI.2026.3654585" target="_blank" rel="noopener"><i>Highly Undersampled MRI Reconstruction via a Single Posterior Sampling of Diffusion Models</i></a></div>
+    <div class="pub-venue">IEEE Transactions on Medical Imaging. 2026.</div>
+    </div>
+</div>
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">K.T. Islam, S. Dayarathna, S. Zhong, P. Zakavi, H. Kavnoudias, S. Farquharson, G. Durbridge, <span class="me">H. Sun</span>, S. Bacchi, G.F. Egan, M. Barth, A. Dwyer, K.L. McMahon, P.M. Parizel, M. Law, Z. Chen</div>
+    <div class="pub-title"><a href="https://doi.org/10.1038/s41598-025-33162-9" target="_blank" rel="noopener"><i>SynPoC: a high-quality generative diffusion model for transforming ultra-low-field point-of-care MRI using high-field MRI representations</i></a></div>
+    <div class="pub-venue">Scientific Reports. 2026;16(1):3285.</div>
+    </div>
+</div>
 <div class="pub-card">
   <div class="pub-num"></div>
   <div class="pub-details">
@@ -424,6 +438,14 @@
 <div class="pub-card">
   <div class="pub-num"></div>
   <div class="pub-details">
+    <div class="pub-authors"><span class="me">H. Sun</span></div>
+    <div class="pub-title"><i>Editorial for "Accelerating 2D Kidney Magnetic Resonance Fingerprinting using Deep Learning Based Tissue Quantification"</i></div>
+    <div class="pub-venue">J. Magn. Reson. Imaging 2025.</div>
+    </div>
+</div>
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
     <div class="pub-authors">W. Zheng, Z. Dai, R. Wu, <span class="me">H. Sun</span>*</div>
     <div class="pub-title"><a href="https://doi.org/10.3389/fnins.2023.1286361" target="_blank" rel="noopener"><i>Editorial: Imaging of neurometabolism</i></a></div>
     <div class="pub-venue">Front Neurosci. 2023; 17: 1286361.</div>
@@ -448,6 +470,30 @@
 <div class="pub-card">
   <div class="pub-num"></div>
   <div class="pub-details">
+    <div class="pub-authors">T. Ding, H. Chen, Y. Gao, F. Liu, M.A. Cloos, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635891" target="_blank" rel="noopener"><i>Adaptive Gate-Aware Mamba Networks for Magnetic Resonance Fingerprinting</i></a></div>
+    <div class="pub-venue">2026 IEEE International Symposium on Biomedical Imaging (ISBI), London, UK, April 2026.</div>
+    </div>
+</div>
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">H. Askari, Y. Luo, <span class="me">H. Sun</span>*, F. Roosta</div>
+    <div class="pub-title"><i>Latent Refinement via Flow Matching for Training-free Linear Inverse Problem Solving</i></div>
+    <div class="pub-venue">NeurIPS 2025, San Diego, December 2025.</div>
+    </div>
+</div>
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">R. Jin, C. Chen, Y. Liu, P. Wu, <span class="me">H. Sun</span>, R. Zheng, M. Zeng, M. Li, Y. Gao</div>
+    <div class="pub-title"><a href="https://doi.org/10.1109/BIBM66473.2025.11356155" target="_blank" rel="noopener"><i>GateFuseNet: An Adaptive 3D Multimodal Neuroimaging Fusion Network for Parkinson's Disease Diagnosis</i></a></div>
+    <div class="pub-venue">2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2025.</div>
+    </div>
+</div>
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
     <div class="pub-authors">H. Askari, F. Roosta, <span class="me">H. Sun</span>*</div>
     <div class="pub-title"><a href="https://doi.org/10.1109/WACV61041.2025.00018" target="_blank" rel="noopener"><i>Training-free medical image inverses via bi-level guided diffusion models</i></a></div>
     <div class="pub-venue">2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Tucson, AZ, USA, 2025, pp. 75-84</div>
@@ -468,6 +514,60 @@
 ## Conference Abstracts
 
 <div class="pub-list">
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">T. Ding, H. Chen, Y. Gao, P. Wu, Z. Xiong, S. Shan, F. Liu, M.A. Cloos, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>Mamba-MRF: A Deep Mamba Network for Highly Accelerated Magnetic Resonance Fingerprinting Reconstruction</i></div>
+    <div class="pub-venue">ISMRM; Cape Town; May 2026.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">Z. Chen, Z. Xu, J. Cheng, S. Shan, Z. Yuan, Y. Wang, M. Jiang, G. Zheng, T. Quan, J. Xu, L. Xia, F. Liu, X. Liang, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>BUDA-iQSM+: BUDA Imaging and Deep Learning iQSM+ Enables Rapid and Robust Distortion-free High-Resolution QSM</i></div>
+    <div class="pub-venue">ISMRM; Cape Town; May 2026.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">A. Gao, Y. Liu, Y. Liu, S. Shan, R. Zhou, P. Wu, F. Liu, G.B. Pike, <span class="me">H. Sun</span>, Y. Gao</div>
+    <div class="pub-title"><i>PDDF-Net: A deep neural network for diagnosing Parkinson's Disease using QSM and T1w images</i></div>
+    <div class="pub-venue">ISMRM; Cape Town; May 2026.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">S. Prima, Y. Gao, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>A Self-Supervised Transformer for Myelin Water Fraction Mapping from Multi-Echo Gradient-Echo Imaging</i></div>
+    <div class="pub-venue">ISMRM; Cape Town; May 2026.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">W. Jiang, T. Ding, H. Chen, W. Song, Z. Xiong, Y. Gao, N. Ye, F. Liu, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>Self-Supervised Representation Learning of Brain MRI Using DINOv3: From Anatomical Features to Cross-Domain Generalization</i></div>
+    <div class="pub-venue">ISMRM; Cape Town; May 2026.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">J.F. Dunn, T. Makarowski, A. Palset, Y. Wu, <span class="me">H. Sun</span>, Y. Yee, G.A. Devenyi</div>
+    <div class="pub-title"><i>Investigating magnetic susceptibility changes caused by hypoxia and myelin in the mouse brain at 9.4T using QSM and R2*</i></div>
+    <div class="pub-venue">ISMRM; Cape Town; May 2026.</div>
+  </div>
+</div>
 
 <div class="pub-card">
   <div class="pub-num"></div>

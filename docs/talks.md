@@ -7,6 +7,14 @@
 <div class="pub-card">
   <div class="pub-num"></div>
   <div class="pub-details">
+    <div class="pub-title"><i>AI methods in QSM</i></div>
+    <div class="pub-venue">ISMRM EMPT Workshop, Annapolis, USA; Sept 2026</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
     <div class="pub-title"><i>An overview of current deep learning approaches in QSM</i></div>
     <div class="pub-venue">ISMRM EMPT Virtual Workshop — Plenary presentation; Dec 2025</div>
   </div>
@@ -186,6 +194,42 @@
 ## Selected Oral Presentations
 
 <div class="cv-list">
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">W. Jiang, T. Ding, H. Chen, W. Song, Z. Xiong, Y. Gao, N. Ye, F. Liu, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>Self-Supervised Representation Learning of Brain MRI Using DINOv3: From Anatomical Features to Cross-Domain Generalization</i></div>
+    <div class="pub-venue">ISMRM; Cape Town; May 2026</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">Z. Chen, Z. Xu, J. Cheng, S. Shan, Z. Yuan, Y. Wang, M. Jiang, G. Zheng, T. Quan, J. Xu, L. Xia, F. Liu, X. Liang, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>BUDA-iQSM+: BUDA Imaging and Deep Learning iQSM+ Enables Rapid and Robust Distortion-free High-Resolution QSM</i></div>
+    <div class="pub-venue">ISMRM; Cape Town; May 2026</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">T. Ding, H. Chen, Y. Gao, F. Liu, M.A. Cloos, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>Adaptive Gate-Aware Mamba Networks for Magnetic Resonance Fingerprinting</i></div>
+    <div class="pub-venue">ISBI; London, UK; April 2026</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">H. Askari, Y. Luo, <span class="me">H. Sun</span>*, F. Roosta</div>
+    <div class="pub-title"><i>Latent Refinement via Flow Matching for Training-free Linear Inverse Problem Solving</i></div>
+    <div class="pub-venue">NeurIPS; San Diego; December 2025</div>
+  </div>
+</div>
 
 <div class="pub-card">
   <div class="pub-num"></div>
