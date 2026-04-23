@@ -39,7 +39,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Z. Xiong, Y. Gao, F. Liu, D. Emery, K. Butcher, A.H. Wilman, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>Advancing Quantitative Susceptibility Mapping With 2.5D Diffusion Models for Rapid Intracranial Hemorrhage Quantification</i></div>
+    <div class="pub-title"><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.70358" target="_blank" rel="noopener"><i>Advancing Quantitative Susceptibility Mapping With 2.5D Diffusion Models for Rapid Intracranial Hemorrhage Quantification</i></a></div>
     <div class="pub-venue">Magn. Reson. Med. 2026.</div>
     </div>
 </div>
@@ -439,7 +439,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span></div>
-    <div class="pub-title"><i>Editorial for "Accelerating 2D Kidney Magnetic Resonance Fingerprinting using Deep Learning Based Tissue Quantification"</i></div>
+    <div class="pub-title"><a href="https://onlinelibrary.wiley.com/doi/10.1002/jmri.70151" target="_blank" rel="noopener"><i>Editorial for "Accelerating 2D Kidney Magnetic Resonance Fingerprinting using Deep Learning Based Tissue Quantification"</i></a></div>
     <div class="pub-venue">J. Magn. Reson. Imaging 2025.</div>
     </div>
 </div>
@@ -471,7 +471,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">T. Ding, H. Chen, Y. Gao, F. Liu, M.A. Cloos, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635891" target="_blank" rel="noopener"><i>Adaptive Gate-Aware Mamba Networks for Magnetic Resonance Fingerprinting</i></a></div>
+    <div class="pub-title"><a href="https://arxiv.org/abs/2507.03369" target="_blank" rel="noopener"><i>Adaptive Gate-Aware Mamba Networks for Magnetic Resonance Fingerprinting</i></a></div>
     <div class="pub-venue">2026 IEEE International Symposium on Biomedical Imaging (ISBI), London, UK, April 2026.</div>
     </div>
 </div>
