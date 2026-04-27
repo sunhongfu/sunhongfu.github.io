@@ -47,7 +47,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">S. Prima, Z. Xiong, A.H. Wilman, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>DeepRelaxo: Fast Mono-Exponential Magnitude Brain R2* Mapping with Reduced Echoes Using Self-Supervised Deep Learning</i></div>
+    <div class="pub-title"><a href="https://onlinelibrary.wiley.com/doi/10.1002/mrm.70405?af=R" target="_blank" rel="noopener"><i>DeepRelaxo: Fast Mono-Exponential Magnitude Brain R2* Mapping with Reduced Echoes Using Self-Supervised Deep Learning</i></a></div>
     <div class="pub-venue">Magn. Reson. Med. 2026.</div>
     </div>
 </div>
