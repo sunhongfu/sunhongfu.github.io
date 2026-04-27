@@ -298,7 +298,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Y. Gao, Z. Xiong, A. Fazlollahi, P.J. Nestor, V. Vegh, G.B. Pike, S. Crozier, F. Liu, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>QSM from the raw phase using an end-to-end neural network</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/22MProceedings/PDFfiles/4740.html" target="_blank" rel="noopener"><i>QSM from the raw phase using an end-to-end neural network</i></a></div>
     <div class="pub-venue">ISMRM; London; May 2022 <b>(Magna Cum Laude Merit Award)</b></div>
   </div>
 </div>
@@ -307,7 +307,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">X. Zhu, Y. Gao, F. Liu, S. Crozier, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>A deep learning-based background field removal method for brains with high susceptibility sources</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/22MProceedings/PDFfiles/2937.html" target="_blank" rel="noopener"><i>A deep learning-based background field removal method for brains with high susceptibility sources</i></a></div>
     <div class="pub-venue">ISMRM; London; May 2022</div>
   </div>
 </div>

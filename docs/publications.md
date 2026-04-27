@@ -843,7 +843,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Y. Gao, Z. Xiong, A. Fazlollahi, P.J. Nestor, V. Vegh, G.B. Pike, S. Crozier, F. Liu, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>QSM from the raw phase using an end-to-end neural network</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/22MProceedings/PDFfiles/4740.html" target="_blank" rel="noopener"><i>QSM from the raw phase using an end-to-end neural network</i></a></div>
     <div class="pub-venue">ISMRM; London; May 2022.</div>
   </div>
 </div>
@@ -852,7 +852,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">X. Zhu, Y. Gao, F. Liu, S. Crozier, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>A deep learning-based background field removal method for brains containing high susceptibility sources</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/22MProceedings/PDFfiles/2937.html" target="_blank" rel="noopener"><i>A deep learning-based background field removal method for brains containing high susceptibility sources</i></a></div>
     <div class="pub-venue">ISMRM; London; May 2022.</div>
   </div>
 </div>
@@ -861,7 +861,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Z. Xiong, Y. Gao, S. Bollmann, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><a href="https://archive.ismrm.org/2022/4756.html" target="_blank" rel="noopener"><i>A deep learning dipole inversion method for QSM of arbitrary head orientation and image resolution</i></a></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/22MProceedings/PDFfiles/4756.html" target="_blank" rel="noopener"><i>A deep learning dipole inversion method for QSM of arbitrary head orientation and image resolution</i></a></div>
     <div class="pub-venue">ISMRM; London; May 2022.</div>
   </div>
 </div>
@@ -870,7 +870,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Q. Shafqat, R. Muhammed, <span class="me">H. Sun</span>, Y. Wu, A.M. Hamilton, M. Hashem, J.F. Dunn</div>
-    <div class="pub-title"><i>Decrease in magnetic susceptibility correlates with reduction in cortical blood flow in a model of systemic inflammation: A 9.4T in-vivo study</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/22MProceedings/PDFfiles/3977.html" target="_blank" rel="noopener"><i>Decrease in magnetic susceptibility correlates with reduction in cortical blood flow in a model of systemic inflammation: A 9.4T in-vivo study</i></a></div>
     <div class="pub-venue">ISMRM; London; May 2022.</div>
   </div>
 </div>
@@ -879,7 +879,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">S. Shan, Y. Gao, P. Liu, B. Whelan, D. Waddington, <span class="me">H. Sun</span>, F. Liu, P. Keall</div>
-    <div class="pub-title"><i>DFReconNet: Distortion Free Image Reconstruction using Deep Neural Network for MRI-Linac</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/22MProceedings/PDFfiles/0850.html" target="_blank" rel="noopener"><i>DFReconNet: Distortion Free Image Reconstruction using Deep Neural Network for MRI-Linac</i></a></div>
     <div class="pub-venue">ISMRM; London; May 2022.</div>
   </div>
 </div>
