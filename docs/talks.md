@@ -253,7 +253,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">W. Jiang, Y. Gao, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><a href="https://archive.ismrm.org/2023/0163.html" target="_blank" rel="noopener"><i>MR image super-resolution via a variational diffusion model</i></a></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/23MProceedings/PDFfiles/0163_CyH6exR1X.html" target="_blank" rel="noopener"><i>MR image super-resolution via a variational diffusion model</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; Jun. 2023</div>
   </div>
 </div>
@@ -262,7 +262,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">W. Jiang, Y. Gao, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><a href="https://archive.ismrm.org/2023/0390.html" target="_blank" rel="noopener"><i>MRI reconstruction using DDPM with sparsely sampled k-space as guidance</i></a></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/23MProceedings/PDFfiles/0390_9LvA6BPqe.html" target="_blank" rel="noopener"><i>MRI reconstruction using DDPM with sparsely sampled k-space as guidance</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; Jun. 2023</div>
   </div>
 </div>
@@ -271,7 +271,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Y. Gao, T. Ding, M.A. Cloos, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><a href="https://archive.ismrm.org/2023/0954.html" target="_blank" rel="noopener"><i>MRF-mixer: a self-supervised deep learning MRF framework</i></a></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/23MProceedings/PDFfiles/0954_H96iTmQmT.html" target="_blank" rel="noopener"><i>MRF-mixer: a self-supervised deep learning MRF framework</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; Jun. 2023</div>
   </div>
 </div>

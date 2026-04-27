@@ -735,7 +735,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">W. Jiang, Y. Gao, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><a href="https://archive.ismrm.org/2023/0163.html" target="_blank" rel="noopener"><i>MR image super-resolution via a variational diffusion model</i></a></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/23MProceedings/PDFfiles/0163_CyH6exR1X.html" target="_blank" rel="noopener"><i>MR image super-resolution via a variational diffusion model</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; June 2023.</div>
   </div>
 </div>
@@ -744,7 +744,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">W. Jiang, Y. Gao, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><a href="https://archive.ismrm.org/2023/0390.html" target="_blank" rel="noopener"><i>MRI reconstruction using DDPM with sparsely sampled k-space as guidance</i></a></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/23MProceedings/PDFfiles/0390_9LvA6BPqe.html" target="_blank" rel="noopener"><i>MRI reconstruction using DDPM with sparsely sampled k-space as guidance</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; June 2023.</div>
   </div>
 </div>
@@ -753,7 +753,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Y. Gao, T. Ding, M.A. Cloos, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><a href="https://archive.ismrm.org/2023/0954.html" target="_blank" rel="noopener"><i>MRF-mixer: a self-supervised deep learning MRF framework</i></a></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/23MProceedings/PDFfiles/0954_H96iTmQmT.html" target="_blank" rel="noopener"><i>MRF-mixer: a self-supervised deep learning MRF framework</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; June 2023.</div>
   </div>
 </div>
@@ -762,7 +762,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Z. Xiong, Y. Gao, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>Real-time style transfer for quantitative susceptibility mapping using unsupervised learning</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/23MProceedings/PDFfiles/2955_YC36BHR3l.html" target="_blank" rel="noopener"><i>Real-time style transfer for quantitative susceptibility mapping using unsupervised learning</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; June 2023.</div>
   </div>
 </div>
@@ -771,7 +771,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Q. Shafqat, Y. Wu, U.J. Ohaezukosi, T. Makarowski, <span class="me">H. Sun</span>, R. Tariq, J.F. Dunn</div>
-    <div class="pub-title"><i>Systemic inflammation causes cerebral hypoperfusion, reductions in brain susceptibility and hippocampal hypoxia: a 9.4T MRI animal study</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/23MProceedings/PDFfiles/0656_SUyclKRZd.html" target="_blank" rel="noopener"><i>Systemic inflammation causes cerebral hypoperfusion, reductions in brain susceptibility and hippocampal hypoxia: a 9.4T MRI animal study</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; June 2023.</div>
   </div>
 </div>
@@ -780,7 +780,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">R. Tariq, R. Muhammed, Y. Wu, Q. Shafqat, <span class="me">H. Sun</span>, J.F. Dunn</div>
-    <div class="pub-title"><i>Magnetic Susceptibility vs Relaxometry in the Characterization of an Animal Model of Multiple Sclerosis</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/23MProceedings/PDFfiles/3574_Tiw3YYQfa.html" target="_blank" rel="noopener"><i>Magnetic Susceptibility vs Relaxometry in the Characterization of an Animal Model of Multiple Sclerosis</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; June 2023.</div>
   </div>
 </div>
