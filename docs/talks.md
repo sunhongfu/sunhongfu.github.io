@@ -226,7 +226,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">H. Askari, Y. Luo, <span class="me">H. Sun</span>*, F. Roosta</div>
-    <div class="pub-title"><i>Latent Refinement via Flow Matching for Training-free Linear Inverse Problem Solving</i></div>
+    <div class="pub-title"><a href="https://openreview.net/forum?id=CF6qEI6rH0" target="_blank" rel="noopener"><i>Latent Refinement via Flow Matching for Training-free Linear Inverse Problem Solving</i></a></div>
     <div class="pub-venue">NeurIPS; San Diego; December 2025</div>
   </div>
 </div>
