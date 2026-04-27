@@ -316,7 +316,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Y. Gao, S. Crozier, F. Liu, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>Accelerating QSM using Compressed Sensing and Deep Neural Network</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/21MProceedings/PDFfiles/0736.html" target="_blank" rel="noopener"><i>Accelerating QSM using Compressed Sensing and Deep Neural Network</i></a></div>
     <div class="pub-venue">ISMRM; Vancouver; May 2021</div>
   </div>
 </div>
@@ -325,7 +325,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Y. Gao, X. Zhu, S. Crozier, F. Liu, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><a href="https://archive.ismrm.org/2020/1635.html" target="_blank" rel="noopener"><i>xQSM: a deep learning QSM network using Octave Convolution</i></a></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/20MProceedings/PDFfiles/1635.html" target="_blank" rel="noopener"><i>xQSM: a deep learning QSM network using Octave Convolution</i></a></div>
     <div class="pub-venue">ISMRM; Sydney; Apr. 2020</div>
   </div>
 </div>
@@ -343,7 +343,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, M.E. MacDonald, E.L. Mazerolle, K. Sabourin, G.B. Pike</div>
-    <div class="pub-title"><i>Localization of GPi for MRgFUS pallidotomy: a comparison between FGATIR, R2*, and QSM at 3 T</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/19MProceedings/PDFfiles/0800.html" target="_blank" rel="noopener"><i>Localization of GPi for MRgFUS pallidotomy: a comparison between FGATIR, R2*, and QSM at 3 T</i></a></div>
     <div class="pub-venue">ISMRM; Montreal; May 2019 <b>(Magna Cum Laude Merit Award)</b></div>
   </div>
 </div>
@@ -352,7 +352,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">F. Schweser, W. Li, <span class="me">H. Sun</span>, D. Zhou, N. Bertolino, P. Polak, Y. Wang, A.H. Wilman, K. Bredies, R. Zivadinov, S.D. Robinson</div>
-    <div class="pub-title"><a href="https://archive.ismrm.org/2016/0026.html" target="_blank" rel="noopener"><i>An illustrated comparison of background field elimination methods for phase MRI and QSM</i></a></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/16MProceedings/PDFfiles/0026.html" target="_blank" rel="noopener"><i>An illustrated comparison of background field elimination methods for phase MRI and QSM</i></a></div>
     <div class="pub-venue">ISMRM; Singapore; May 2016</div>
   </div>
 </div>

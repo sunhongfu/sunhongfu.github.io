@@ -915,7 +915,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Y. Gao, S. Crozier, F. Liu, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>Accelerating QSM using Compressed Sensing and Deep Neural Network</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/21MProceedings/PDFfiles/0736.html" target="_blank" rel="noopener"><i>Accelerating QSM using Compressed Sensing and Deep Neural Network</i></a></div>
     <div class="pub-venue">ISMRM; Vancouver; 2021.</div>
   </div>
 </div>
@@ -933,7 +933,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, M.E. MacDonald, R.M. Lebel, G.B. Pike</div>
-    <div class="pub-title"><i>Simultaneous T1-weighted imaging, R2* mapping, and QSM from a multi-echo MPRAGE sequence using a radial fan-beam sampling scheme at 3 Tesla</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/20MProceedings/PDFfiles/3207.html" target="_blank" rel="noopener"><i>Simultaneous T1-weighted imaging, R2* mapping, and QSM from a multi-echo MPRAGE sequence using a radial fan-beam sampling scheme at 3 Tesla</i></a></div>
     <div class="pub-venue">ISMRM; Sydney; 2020.</div>
   </div>
 </div>
@@ -942,7 +942,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Y. Gao, X. Zhu, S. Crozier, F. Liu, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><a href="https://archive.ismrm.org/2020/1635.html" target="_blank" rel="noopener"><i>xQSM: a deep learning QSM network using Octave Convolution</i></a></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/20MProceedings/PDFfiles/1635.html" target="_blank" rel="noopener"><i>xQSM: a deep learning QSM network using Octave Convolution</i></a></div>
     <div class="pub-venue">ISMRM; Sydney; 2020.</div>
   </div>
 </div>
@@ -960,7 +960,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">X. Liu, J. Wang, F. Tang, <span class="me">H. Sun</span>, F. Liu, S. Crozier</div>
-    <div class="pub-title"><i>Rapid Region-of-Interest MRI Reconstruction Using Context-Aware Non-Local U-Net</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/20MProceedings/PDFfiles/3601.html" target="_blank" rel="noopener"><i>Rapid Region-of-Interest MRI Reconstruction Using Context-Aware Non-Local U-Net</i></a></div>
     <div class="pub-venue">ISMRM; Sydney; 2020.</div>
   </div>
 </div>
@@ -969,7 +969,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">A. De, <span class="me">H. Sun</span>, K.C. Butcher, A.H. Wilman</div>
-    <div class="pub-title"><i>Application of Fourier-domain Analysis Based Unwrapping Technique in Quantitative Susceptibility Mapping (QSM) of Intracerebral Hemorrhage</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/20MProceedings/PDFfiles/3220.html" target="_blank" rel="noopener"><i>Application of Fourier-domain Analysis Based Unwrapping Technique in Quantitative Susceptibility Mapping (QSM) of Intracerebral Hemorrhage</i></a></div>
     <div class="pub-venue">ISMRM; Sydney; 2020.</div>
   </div>
 </div>
@@ -1032,7 +1032,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, M.E. MacDonald, E.L. Mazerolle, K. Sabourin, G.B. Pike</div>
-    <div class="pub-title"><i>Localization of GPi for MRgFUS pallidotomy: a comparison between high-resolution FGATIR, R2* and QSM at 3 T</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/19MProceedings/PDFfiles/0800.html" target="_blank" rel="noopener"><i>Localization of GPi for MRgFUS pallidotomy: a comparison between high-resolution FGATIR, R2* and QSM at 3 T</i></a></div>
     <div class="pub-venue">ISMRM; Montreal; 2019.</div>
   </div>
 </div>
@@ -1041,7 +1041,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Y. Ma, <span class="me">H. Sun</span>, J. Cho, E.L. Mazerolle, Y. Wang, G.B. Pike</div>
-    <div class="pub-title"><i>Whole-brain OEF quantification: a comparison study between QSM and dual-gas calibrated BOLD</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/19MProceedings/PDFfiles/3706.html" target="_blank" rel="noopener"><i>Whole-brain OEF quantification: a comparison study between QSM and dual-gas calibrated BOLD</i></a></div>
     <div class="pub-venue">ISMRM; Montreal; 2019.</div>
   </div>
 </div>
@@ -1050,7 +1050,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">A.M. Elkady, D. Cobzas, <span class="me">H. Sun</span>, G. Blevins, P. Seres, A.H. Wilman</div>
-    <div class="pub-title"><i>Five Year Changes in Iron and Myelin in Relapsing-Remitting Multiple Sclerosis Deep Gray Matter Compared to Healthy Controls</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/19MProceedings/PDFfiles/3156.html" target="_blank" rel="noopener"><i>Five Year Changes in Iron and Myelin in Relapsing-Remitting Multiple Sclerosis Deep Gray Matter Compared to Healthy Controls</i></a></div>
     <div class="pub-venue">ISMRM; Montreal; 2019.</div>
   </div>
 </div>
@@ -1059,7 +1059,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Z. Dai, S. Kalra, D. Mah, P. Seres, G. Yan, <span class="me">H. Sun</span>, Z. Shen, R. Wu, A.H. Wilman</div>
-    <div class="pub-title"><i>Amide proton transfer in amyotrophic lateral sclerosis</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/19MProceedings/PDFfiles/3315.html" target="_blank" rel="noopener"><i>Amide proton transfer in amyotrophic lateral sclerosis</i></a></div>
     <div class="pub-venue">ISMRM; Montreal; 2019.</div>
   </div>
 </div>
@@ -1068,7 +1068,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Z. Dai, H. Zhang, A.H. Wilman, H. Xu, G. Xiao, <span class="me">H. Sun</span>, Y. Zhuang, Y. Jia, Z. Shen, G. Yan, R. Wu</div>
-    <div class="pub-title"><i>Glutamate imaging in schizophrenia prodrome</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/19MProceedings/PDFfiles/3194.html" target="_blank" rel="noopener"><i>Glutamate imaging in schizophrenia prodrome</i></a></div>
     <div class="pub-venue">ISMRM; Montreal; 2019.</div>
   </div>
 </div>
@@ -1077,7 +1077,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">M.E. MacDonald, W. Liu, S. Scott, C. Rockel, D. Rajashekar, J.L. Specht, <span class="me">H. Sun</span>, G.B. Pike</div>
-    <div class="pub-title"><i>White Matter Tract-Defined Lesion Loads in Relapsing-Remitting Multiple Sclerosis</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/19MProceedings/PDFfiles/3161.html" target="_blank" rel="noopener"><i>White Matter Tract-Defined Lesion Loads in Relapsing-Remitting Multiple Sclerosis</i></a></div>
     <div class="pub-venue">ISMRM; Montreal; 2019.</div>
   </div>
 </div>
@@ -1122,7 +1122,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, J.O. Cleary, R. Glarin, S.C. Kolbe, B.A. Moffat, R.J. Ordidge, G.B. Pike</div>
-    <div class="pub-title"><i>Multi-channel phase combination for quantitative susceptibility mapping at 7T using Phase-Offsets Estimation from Multi-echoes (POEM) method</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/18MProceedings/PDFfiles/4993.html" target="_blank" rel="noopener"><i>Multi-channel phase combination for quantitative susceptibility mapping at 7T using Phase-Offsets Estimation from Multi-echoes (POEM) method</i></a></div>
     <div class="pub-venue">ISMRM; Paris; 2018.</div>
   </div>
 </div>
@@ -1131,7 +1131,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, J.O. Cleary, R. Glarin, Y. Ma, K. O’Brien, S.C. Kolbe, B.A. Moffat, R.J. Ordidge, G.B. Pike</div>
-    <div class="pub-title"><i>Extracting more: Multi-echo MP2RAGE at 7T enables simultaneous T1w, quantitative T1, T2* and susceptibility mapping from a single acquisition</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/18MProceedings/PDFfiles/4994.html" target="_blank" rel="noopener"><i>Extracting more: Multi-echo MP2RAGE at 7T enables simultaneous T1w, quantitative T1, T2* and susceptibility mapping from a single acquisition</i></a></div>
     <div class="pub-venue">ISMRM; Paris; 2018.</div>
   </div>
 </div>
@@ -1140,7 +1140,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">A. De, <span class="me">H. Sun</span>, A. Elkady, D.J. Emery, K. Butcher, A.H. Wilman</div>
-    <div class="pub-title"><i>Rapid Quantitative Susceptibility Mapping of Intracranial Hemorrhage using Echo Planar Imaging</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/18MProceedings/PDFfiles/4817.html" target="_blank" rel="noopener"><i>Rapid Quantitative Susceptibility Mapping of Intracranial Hemorrhage using Echo Planar Imaging</i></a></div>
     <div class="pub-venue">ISMRM; Paris; 2018.</div>
   </div>
 </div>
@@ -1149,7 +1149,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">A. De, <span class="me">H. Sun</span>, A. Elkady, P. Seres, A.H. Wilman</div>
-    <div class="pub-title"><i>Effects of Motion in Quantitative Susceptibility Mapping of Brain</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/18MProceedings/PDFfiles/2192.html" target="_blank" rel="noopener"><i>Effects of Motion in Quantitative Susceptibility Mapping of Brain</i></a></div>
     <div class="pub-venue">ISMRM; Paris; 2018.</div>
   </div>
 </div>
@@ -1158,7 +1158,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">J.O. Cleary, <span class="me">H. Sun</span>, R. Glarin, P. Yoo, B.A. Moffat, R.J. Ordidge, S.C. Kolbe</div>
-    <div class="pub-title"><i>COSMOS for Estimating Variation in Single Orientation Quantitative Susceptibility Mapping of the Brain: An Ultra High Field Study</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/18MProceedings/PDFfiles/2190.html" target="_blank" rel="noopener"><i>COSMOS for Estimating Variation in Single Orientation Quantitative Susceptibility Mapping of the Brain: An Ultra High Field Study</i></a></div>
     <div class="pub-venue">ISMRM; Paris; 2018.</div>
   </div>
 </div>
@@ -1167,7 +1167,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">A.M. Elkady, D. Cobzas, <span class="me">H. Sun</span>, G. Blevins, A.H. Wilman</div>
-    <div class="pub-title"><i>Discriminative Analysis of Regional Evolution of Iron and Myelin/Calcium in Deep Gray Matter of Multiple Sclerosis and Healthy Subjects</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/18MProceedings/PDFfiles/5272.html" target="_blank" rel="noopener"><i>Discriminative Analysis of Regional Evolution of Iron and Myelin/Calcium in Deep Gray Matter of Multiple Sclerosis and Healthy Subjects</i></a></div>
     <div class="pub-venue">ISMRM; Paris; 2018.</div>
   </div>
 </div>
@@ -1176,7 +1176,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">R. Yang, A.M. Hamilton, <span class="me">H. Sun</span>, R. Mirzaei, S. Sarkar, G.B. Pike, V.W. Yong, J.F. Dunn</div>
-    <div class="pub-title"><i>Comparison of R2* and quantitative susceptibility mapping in the characterizing tumor hypoxia in a mouse model of glioblastoma</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/18MProceedings/PDFfiles/2151.html" target="_blank" rel="noopener"><i>Comparison of R2* and quantitative susceptibility mapping in the characterizing tumor hypoxia in a mouse model of glioblastoma</i></a></div>
     <div class="pub-venue">ISMRM; Paris; 2018.</div>
   </div>
 </div>
@@ -1185,7 +1185,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">P.B. Najafabadi, A. Klahr, <span class="me">H. Sun</span>, A. Elkady, D.J. Emery, K. Butcher, A.H. Wilman</div>
-    <div class="pub-title"><i>QSM in stroke: Veins, Tissue and Cerebral Microbleeds</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/18MProceedings/PDFfiles/1877.html" target="_blank" rel="noopener"><i>QSM in stroke: Veins, Tissue and Cerebral Microbleeds</i></a></div>
     <div class="pub-venue">ISMRM; Paris; 2018.</div>
   </div>
 </div>
@@ -1194,7 +1194,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">M.E. MacDonald, N.D. Forkert, A. Hanganu, Y. Ma, R.J. Williams, <span class="me">H. Sun</span>, R. Stafford, C. McCreary, R. Frayne, G.B. Pike</div>
-    <div class="pub-title"><i>Cerebrovascular Brain Aging Examined with Arterial Spin Labelling and Applied to Age Prediction</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/18MProceedings/PDFfiles/3262.html" target="_blank" rel="noopener"><i>Cerebrovascular Brain Aging Examined with Arterial Spin Labelling and Applied to Age Prediction</i></a></div>
     <div class="pub-venue">ISMRM; Paris; 2018.</div>
   </div>
 </div>
@@ -1203,7 +1203,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, Y. Ma, M.E. MacDonald, G.B. Pike</div>
-    <div class="pub-title"><i>Tikhonov regularization aided quantitative susceptibility mapping of whole brain without background field removal</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/17MProceedings/PDFfiles/3668.html" target="_blank" rel="noopener"><i>Tikhonov regularization aided quantitative susceptibility mapping of whole brain without background field removal</i></a></div>
     <div class="pub-venue">ISMRM; Honolulu; 2017.</div>
   </div>
 </div>
@@ -1212,7 +1212,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, D.J. Emery, K. Butcher, A.H. Wilman</div>
-    <div class="pub-title"><i>Quantitative Susceptibility Mapping of Intracranial Hemorrhage: Time Evolution and Comparison to CT</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/17MProceedings/PDFfiles/4629.html" target="_blank" rel="noopener"><i>Quantitative Susceptibility Mapping of Intracranial Hemorrhage: Time Evolution and Comparison to CT</i></a></div>
     <div class="pub-venue">ISMRM; Honolulu; 2017.</div>
   </div>
 </div>
@@ -1221,7 +1221,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">A.M. Elkady, D. Cobzas, <span class="me">H. Sun</span>, G. Blevins, A.H. Wilman</div>
-    <div class="pub-title"><i>Progressive Iron Accumulation in Multiple Sclerosis Phenotypes Revealed by Sparse Classification of Deep Gray Matter</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/17MProceedings/PDFfiles/4068.html" target="_blank" rel="noopener"><i>Progressive Iron Accumulation in Multiple Sclerosis Phenotypes Revealed by Sparse Classification of Deep Gray Matter</i></a></div>
     <div class="pub-venue">ISMRM; Honolulu; 2017.</div>
   </div>
 </div>
@@ -1275,7 +1275,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">F. Schweser, W. Li, <span class="me">H. Sun</span>, D. Zhou, N. Bertolino, P. Polak, Y. Wang, A.H. Wilman, K. Bredies, R. Zivadinov, S.D. Robinson</div>
-    <div class="pub-title"><a href="https://archive.ismrm.org/2016/0026.html" target="_blank" rel="noopener"><i>An illustrated comparison of background field elimination methods for phase MRI and QSM</i></a></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/16MProceedings/PDFfiles/0026.html" target="_blank" rel="noopener"><i>An illustrated comparison of background field elimination methods for phase MRI and QSM</i></a></div>
     <div class="pub-venue">ISMRM; Singapore; 2016.</div>
   </div>
 </div>
@@ -1284,7 +1284,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, M.E. MacDonald, G.B. Pike</div>
-    <div class="pub-title"><i>Phase Correction of a Bipolar Gradient-Echo Acquisition for Quantitative Susceptibility Mapping</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/16MProceedings/PDFfiles/2987.html" target="_blank" rel="noopener"><i>Phase Correction of a Bipolar Gradient-Echo Acquisition for Quantitative Susceptibility Mapping</i></a></div>
     <div class="pub-venue">ISMRM; Singapore; 2016.</div>
   </div>
 </div>
