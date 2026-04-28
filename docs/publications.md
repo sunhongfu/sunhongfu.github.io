@@ -1302,7 +1302,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, P. Seres, A.H. Wilman</div>
-    <div class="pub-title"><a href="https://cds.ismrm.org/protected/15MProceedings/PDFfiles/0281.pdf" target="_blank" rel="noopener"><i>Subcortical Grey Matter Susceptibility Mapping from Standard fMRI studies</i></a></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/15MProceedings/PDFfiles/0603.pdf" target="_blank" rel="noopener"><i>Subcortical Grey Matter Susceptibility Mapping from Standard fMRI studies</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; 2015.</div>
   </div>
 </div>
@@ -1311,7 +1311,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, M. Kate, L.C. Gioia, D.J. Emery, K. Butcher, A.H. Wilman</div>
-    <div class="pub-title"><a href="https://cds.ismrm.org/protected/15MProceedings/PDFfiles/3613.pdf" target="_blank" rel="noopener"><i>Quantitative Susceptibility Mapping of Intracranial Hemorrhage: Artifacts Reduction</i></a></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/15MProceedings/PDFfiles/3317.pdf" target="_blank" rel="noopener"><i>Quantitative Susceptibility Mapping of Intracranial Hemorrhage: Artifacts Reduction</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; 2015.</div>
   </div>
 </div>
@@ -1329,7 +1329,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">A.M. Elkady, <span class="me">H. Sun</span>, A.J. Walsh, G. Blevins, Z. Dai, A.H. Wilman</div>
-    <div class="pub-title"><a href="https://cds.ismrm.org/protected/15MProceedings/PDFfiles/3317.pdf" target="_blank" rel="noopener"><i>Quantitative Susceptibility Mapping of Lesions in Multiple Sclerosis</i></a></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/15MProceedings/PDFfiles/0281.pdf" target="_blank" rel="noopener"><i>Quantitative Susceptibility Mapping of Lesions in Multiple Sclerosis</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; 2015.</div>
   </div>
 </div>
@@ -1347,7 +1347,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Z. Dai, Y. Jia, G. Yan, F. Duan, G. Xiao, Z. Shen, <span class="me">H. Sun</span>, A.H. Wilman, R. Wu</div>
-    <div class="pub-title"><a href="https://cds.ismrm.org/protected/15MProceedings/PDFfiles/0603.pdf" target="_blank" rel="noopener"><i>pH-weighted imaging in diabetes mellitus suffering acute cerebral ischemic stroke</i></a></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/15MProceedings/PDFfiles/3613.pdf" target="_blank" rel="noopener"><i>pH-weighted imaging in diabetes mellitus suffering acute cerebral ischemic stroke</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; 2015.</div>
   </div>
 </div>
@@ -1383,7 +1383,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, A.H. Wilman</div>
-    <div class="pub-title"><a href="https://cds.ismrm.org/protected/14MProceedings/PDFfiles/0898.pdf" target="_blank" rel="noopener"><i>Echo-Planar Susceptibility Mapping</i></a></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/14MProceedings/PDFfiles/0630.pdf" target="_blank" rel="noopener"><i>Echo-Planar Susceptibility Mapping</i></a></div>
     <div class="pub-venue">ISMRM; Milan; 2014.</div>
   </div>
 </div>
@@ -1392,7 +1392,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, V.V. Divekar, M. Kate, L.C. Gioia, C.A. Baron, C. Beaulieu, D.J. Emery, K. Butcher, A.H. Wilman</div>
-    <div class="pub-title"><a href="https://cds.ismrm.org/protected/14MProceedings/PDFfiles/0630.pdf" target="_blank" rel="noopener"><i>Quantitative Susceptibility Mapping of Intracranial Hemorrhage: Clinical Results and Numerical Simulation</i></a></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/14MProceedings/PDFfiles/0898.pdf" target="_blank" rel="noopener"><i>Quantitative Susceptibility Mapping of Intracranial Hemorrhage: Clinical Results and Numerical Simulation</i></a></div>
     <div class="pub-venue">ISMRM; Milan; 2014.</div>
   </div>
 </div>
