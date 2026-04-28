@@ -1302,7 +1302,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, P. Seres, A.H. Wilman</div>
-    <div class="pub-title"><i>Subcortical Grey Matter Susceptibility Mapping from Standard fMRI studies</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/15MProceedings/PDFfiles/0281.pdf" target="_blank" rel="noopener"><i>Subcortical Grey Matter Susceptibility Mapping from Standard fMRI studies</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; 2015.</div>
   </div>
 </div>
@@ -1311,7 +1311,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, M. Kate, L.C. Gioia, D.J. Emery, K. Butcher, A.H. Wilman</div>
-    <div class="pub-title"><a href="https://archive.ismrm.org/2015/3317.html" target="_blank" rel="noopener"><i>Quantitative Susceptibility Mapping of Intracranial Hemorrhage: Artifacts Reduction</i></a></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/15MProceedings/PDFfiles/3613.pdf" target="_blank" rel="noopener"><i>Quantitative Susceptibility Mapping of Intracranial Hemorrhage: Artifacts Reduction</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; 2015.</div>
   </div>
 </div>
@@ -1329,7 +1329,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">A.M. Elkady, <span class="me">H. Sun</span>, A.J. Walsh, G. Blevins, Z. Dai, A.H. Wilman</div>
-    <div class="pub-title"><i>Quantitative Susceptibility Mapping of Lesions in Multiple Sclerosis</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/15MProceedings/PDFfiles/3317.pdf" target="_blank" rel="noopener"><i>Quantitative Susceptibility Mapping of Lesions in Multiple Sclerosis</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; 2015.</div>
   </div>
 </div>
@@ -1338,7 +1338,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">D. Cobzas, <span class="me">H. Sun</span>, A.J. Walsh, R.M. Lebel, G. Blevins, A.H. Wilman</div>
-    <div class="pub-title"><i>Voxel-based analysis of subcortical grey matter using transverse relaxation and quantitative susceptibility mapping: application to multiple sclerosis</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/15MProceedings/PDFfiles/0825.pdf" target="_blank" rel="noopener"><i>Voxel-based analysis of subcortical grey matter using transverse relaxation and quantitative susceptibility mapping: application to multiple sclerosis</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; 2015.</div>
   </div>
 </div>
@@ -1347,7 +1347,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Z. Dai, Y. Jia, G. Yan, F. Duan, G. Xiao, Z. Shen, <span class="me">H. Sun</span>, A.H. Wilman, R. Wu</div>
-    <div class="pub-title"><i>pH-weighted imaging in diabetes mellitus suffering acute cerebral ischemic stroke</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/15MProceedings/PDFfiles/1715.pdf" target="_blank" rel="noopener"><i>pH-weighted imaging in diabetes mellitus suffering acute cerebral ischemic stroke</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; 2015.</div>
   </div>
 </div>
@@ -1383,7 +1383,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, A.H. Wilman</div>
-    <div class="pub-title"><i>Echo-Planar Susceptibility Mapping</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/14MProceedings/PDFfiles/0898.pdf" target="_blank" rel="noopener"><i>Echo-Planar Susceptibility Mapping</i></a></div>
     <div class="pub-venue">ISMRM; Milan; 2014.</div>
   </div>
 </div>
@@ -1392,7 +1392,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, V.V. Divekar, M. Kate, L.C. Gioia, C.A. Baron, C. Beaulieu, D.J. Emery, K. Butcher, A.H. Wilman</div>
-    <div class="pub-title"><i>Quantitative Susceptibility Mapping of Intracranial Hemorrhage: Clinical Results and Numerical Simulation</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/14MProceedings/PDFfiles/0630.pdf" target="_blank" rel="noopener"><i>Quantitative Susceptibility Mapping of Intracranial Hemorrhage: Clinical Results and Numerical Simulation</i></a></div>
     <div class="pub-venue">ISMRM; Milan; 2014.</div>
   </div>
 </div>
@@ -1455,7 +1455,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, A.J. Walsh, R.M. Lebel, G. Blevins, I. Catz, J-Q. Lu, E.S. Johnson, D.J. Emery, K.G. Warren, A.H. Wilman</div>
-    <div class="pub-title"><i>Validation of susceptibility mapping for quantification of iron in subcortical grey matter in multiple sclerosis</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/13MProceedings/PDFfiles/1081.PDF" target="_blank" rel="noopener"><i>Validation of susceptibility mapping for quantification of iron in subcortical grey matter in multiple sclerosis</i></a></div>
     <div class="pub-venue">ISMRM; Salt Lake City; 2013.</div>
   </div>
 </div>
@@ -1464,7 +1464,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, A.H. Wilman</div>
-    <div class="pub-title"><i>Susceptibility Mapping Using Regularization Enabled Harmonic Artifact Removal</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/13MProceedings/PDFfiles/0169.PDF" target="_blank" rel="noopener"><i>Susceptibility Mapping Using Regularization Enabled Harmonic Artifact Removal</i></a></div>
     <div class="pub-venue">ISMRM; Salt Lake City; 2013.</div>
   </div>
 </div>
