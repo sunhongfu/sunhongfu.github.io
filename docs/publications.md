@@ -513,6 +513,7 @@
 
 ## Conference Abstracts
 
+### ISMRM Abstracts
 <div class="pub-list">
 
 <div class="pub-card">
@@ -680,60 +681,6 @@
 <div class="pub-card">
   <div class="pub-num"></div>
   <div class="pub-details">
-    <div class="pub-authors">W. Jiang, F. Liu, N. Ye, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>A Study on Diffusion Models for Domain Shifts in MRI Reconstruction</i></div>
-    <div class="pub-venue">ISMRM ANZ Chapter; Brisbane; Nov 2023.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">Z. Xiong, Y. Gao, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>Quantitative Susceptibility Mapping by Controllable Diffusion Models</i></div>
-    <div class="pub-venue">ISMRM ANZ Chapter; Brisbane; Nov 2023.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">T. Ding, Y. Gao, Z. Xiong, M. Cloos, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>Complex-valued Spatio-temporal Fusion Network for Robust MRF Reconstruction</i></div>
-    <div class="pub-venue">ISMRM ANZ Chapter; Brisbane; Nov 2023.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">S. Prima, Z. Xiong, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>Deep Learning-based Brain R2* Mapping from Variable Acquisition Parameters</i></div>
-    <div class="pub-venue">ISMRM ANZ Chapter; Brisbane; Nov 2023.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">S. Prima, Z. Xiong, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>Brain MRI R2* Quantification using Deep Neural Networks</i></div>
-    <div class="pub-venue">EMBC; Sydney; July 2023.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">T. Ding, Y. Gao, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>A complex-valued deep neural network for Magnetic Resonance Fingerprinting</i></div>
-    <div class="pub-venue">EMBC; Sydney; July 2023.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
     <div class="pub-authors">W. Jiang, Y. Gao, <span class="me">H. Sun</span>*</div>
     <div class="pub-title"><a href="https://cds.ismrm.org/protected/23MProceedings/PDFfiles/0163_CyH6exR1X.html" target="_blank" rel="noopener"><i>MR image super-resolution via a variational diffusion model</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; June 2023.</div>
@@ -788,60 +735,6 @@
 <div class="pub-card">
   <div class="pub-num"></div>
   <div class="pub-details">
-    <div class="pub-authors">S. Shan, Y. Gao, P. Liu, T. Reynolds, B. Dong, <span class="me">H. Sun</span>, M. Li, G. Liney, F. Liu, P. Keall, D. Waddington</div>
-    <div class="pub-title"><i>Motion-corrected Image Reconstruction Using an Unrolling Network on an MRI-Linac</i></div>
-    <div class="pub-venue">AUS MR in RT workshop; Noosa; 2022.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">R. Steele, Q. Shafqat, Y. Wu, <span class="me">H. Sun</span>, J.F. Dunn</div>
-    <div class="pub-title"><i>Cerebral blood flow and magnetic susceptibility are reduced in the bacterial lipopolysaccharide (LPS) mouse model of inflammation</i></div>
-    <div class="pub-venue">Alberta Imaging Symposium; Foothills Medical Centre, Calgary; 2022.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">Z. Xiong, Y. Gao, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>Unsupervised Multi-task learning for solving ill-posed dipole inversion in quantitative susceptibility mapping</i></div>
-    <div class="pub-venue">QMR Lucca workshop; Lucca, Italy; October 2022.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">Z. Xiong, Y. Gao, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>Swin-QSM: Quantitative susceptibility mapping using Swin-Transformer</i></div>
-    <div class="pub-venue">QMR Lucca workshop; Lucca, Italy; October 2022.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">Y. Gao, T. Ding, M.A. Cloos, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>QSM extraction from MRF acquisitions through deep neural networks</i></div>
-    <div class="pub-venue">QMR Lucca workshop; Lucca, Italy; October 2022.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">D. Nakhid, C. McMorris, <span class="me">H. Sun</span>, W.B. Gibbard, C. Tortorelli, C. Lebel</div>
-    <div class="pub-title"><i>Magnetic susceptibility and anxiety symptoms in children with and without prenatal alcohol exposure</i></div>
-    <div class="pub-venue">OHBM; Glasgow; 2022.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
     <div class="pub-authors">Y. Gao, Z. Xiong, A. Fazlollahi, P.J. Nestor, V. Vegh, G.B. Pike, S. Crozier, F. Liu, <span class="me">H. Sun</span>*</div>
     <div class="pub-title"><a href="https://cds.ismrm.org/protected/22MProceedings/PDFfiles/4740.html" target="_blank" rel="noopener"><i>QSM from the raw phase using an end-to-end neural network</i></a></div>
     <div class="pub-venue">ISMRM; London; May 2022.</div>
@@ -887,45 +780,9 @@
 <div class="pub-card">
   <div class="pub-num"></div>
   <div class="pub-details">
-    <div class="pub-authors">S. Shan, Y. Gao, P. Liu, T. Reynolds, B. Dong, <span class="me">H. Sun</span>, M. Li, G. Liney, F. Liu, P. Keall, D. Waddington</div>
-    <div class="pub-title"><i>Motion-corrected Image Reconstruction with Unrolling Networks on an MRI-Linac</i></div>
-    <div class="pub-venue">American Association of Physicists in Medicine (AAPM); Washington; 2022.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">Z. Xiong, Y. Gao, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>Deep learning QSM for acquisitions of arbitrary orientation</i></div>
-    <div class="pub-venue">ISMRM ANZ Chapter; online; Nov 2021.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">Y. Gao, F. Liu, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>Universal QSM Reconstruction from Raw Phase using Deep Neural Networks</i></div>
-    <div class="pub-venue">ISMRM ANZ Chapter; online; Nov 2021.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
     <div class="pub-authors">Y. Gao, S. Crozier, F. Liu, <span class="me">H. Sun</span>*</div>
     <div class="pub-title"><a href="https://cds.ismrm.org/protected/21MProceedings/PDFfiles/0736.html" target="_blank" rel="noopener"><i>Accelerating QSM using Compressed Sensing and Deep Neural Network</i></a></div>
     <div class="pub-venue">ISMRM; Vancouver; 2021.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">D. Nakhid, <span class="me">H. Sun</span>, C. McMorris, C. Lebel</div>
-    <div class="pub-title"><i>Brain Volume and Susceptibility Differences in Children with Prenatal Alcohol Exposure</i></div>
-    <div class="pub-venue">International Society for Developmental Psychobiology; Rockville; 2020.</div>
   </div>
 </div>
 
@@ -971,60 +828,6 @@
     <div class="pub-authors">A. De, <span class="me">H. Sun</span>, K.C. Butcher, A.H. Wilman</div>
     <div class="pub-title"><a href="https://cds.ismrm.org/protected/20MProceedings/PDFfiles/3220.html" target="_blank" rel="noopener"><i>Application of Fourier-domain Analysis Based Unwrapping Technique in Quantitative Susceptibility Mapping (QSM) of Intracerebral Hemorrhage</i></a></div>
     <div class="pub-venue">ISMRM; Sydney; 2020.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">S. Scott, M.E. MacDonald, D. Rajashekar, W-Q Liu, <span class="me">H. Sun</span>, G.B. Pike</div>
-    <div class="pub-title"><i>Clustering Analysis of Multiple Sclerosis Lesions with T1-&T2-weighted, Diffusion, Quantitative Susceptibility Mapping, and Magnetization Transfer Ratio Imaging</i></div>
-    <div class="pub-venue">OHBM; Montreal; 2020.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">Y. Ma, E.L. Mazerolle, J. Cho, <span class="me">H. Sun</span>, Y. Wang, G.B. Pike</div>
-    <div class="pub-title"><i>Quantification of Cerebral Oxygen Extraction Fraction (OEF) Using QSM with a Hyperoxic Challenge</i></div>
-    <div class="pub-venue">OHBM; Montreal; 2020.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors"><span class="me">H. Sun</span>, F. Liu, S. Crozier</div>
-    <div class="pub-title"><i>Differentiating hemorrhage, calcification, and edema of glioblastoma using quantitative susceptibility mapping (QSM)</i></div>
-    <div class="pub-venue">AUS MR in RT workshop; Noosa; 2019.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">J.O. Cleary, <span class="me">H. Sun</span>, R. Glarin, S.C. Kolbe, R.J. Ordidge, B.A. Moffat, G.B. Pike</div>
-    <div class="pub-title"><i>Extracting more for less at Ultra High Field: Multi-echo MP2RAGE for simultaneous T1-weighted imaging, T1 mapping, R2* mapping, SWI, and QSM in a single acquisition</i></div>
-    <div class="pub-venue">British Society of Neuroradiologists Annual Meeting; Cardiff; 2019.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">Y. Gao, X. Zhu, S. Bollmann, M. Barth, S. Crozier, F. Liu, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>OctQSM: A deep learning QSM method with Octave convolution</i></div>
-    <div class="pub-venue">QSM workshop; Seoul; 2019.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">X. Zhu, Y. Gao, S. Bollmann, M. Barth, F. Liu, S. Crozier, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>Comparison of Conventional and Learning Based QSM on Spatial Coverage Effect</i></div>
-    <div class="pub-venue">QSM workshop; Seoul; 2019.</div>
   </div>
 </div>
 
@@ -1079,42 +882,6 @@
     <div class="pub-authors">M.E. MacDonald, W. Liu, S. Scott, C. Rockel, D. Rajashekar, J.L. Specht, <span class="me">H. Sun</span>, G.B. Pike</div>
     <div class="pub-title"><a href="https://cds.ismrm.org/protected/19MProceedings/PDFfiles/3161.html" target="_blank" rel="noopener"><i>White Matter Tract-Defined Lesion Loads in Relapsing-Remitting Multiple Sclerosis</i></a></div>
     <div class="pub-venue">ISMRM; Montreal; 2019.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors"><span class="me">H. Sun</span>, G.B. Pike</div>
-    <div class="pub-title"><i>Whole head quantitative susceptibility mapping using a least-norm direct dipole inversion method</i></div>
-    <div class="pub-venue">Alberta Imaging Symposium; Foothills Medical Centre, Calgary; 2018.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">S.E. Ha, R.G. Sah, <span class="me">H. Sun</span>, P.A. Barber</div>
-    <div class="pub-title"><i>Quantifying brain iron deposition in patients with Transient Ischemic Attack and Healthy Control using quantitative susceptibility mapping</i></div>
-    <div class="pub-venue">HBI Summer Student Symposium; Calgary; 2018.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors"><span class="me">H. Sun</span>, Y. Ma, M.E. MacDonald, J.O. Cleary, S. Kolbe, G.B. Pike</div>
-    <div class="pub-title"><i>QSM of the Entire Head Using a Least-norm Direct Dipole Inversion Method</i></div>
-    <div class="pub-venue">ISMRM Neuro Workshop; Seoul; 2018.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors"><span class="me">H. Sun</span>, J.O. Cleary, R. Glarin, Y. Ma, K. O’Brien, S.C. Kolbe, B.A. Moffat, R.J. Ordidge, G.B. Pike</div>
-    <div class="pub-title"><i>Multi-echo MP2RAGE at 7T enables simultaneous T1w, quantitative T1, T2* and QSM from a single acquisition</i></div>
-    <div class="pub-venue">ISMRM Neuro Workshop; Seoul; 2018.</div>
   </div>
 </div>
 
@@ -1230,51 +997,6 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">F. Schweser, W. Li, <span class="me">H. Sun</span>, D. Zhou, N. Bertolino, P. Polak, Y. Wang, A.H. Wilman, K. Bredies, R. Zivadinov, S.D. Robinson</div>
-    <div class="pub-title"><i>Quantitative comparison of background field elimination methods in a realistic numerical model</i></div>
-    <div class="pub-venue">QSM workshop; Medical University of Graz, Austria; 2016.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors"><span class="me">H. Sun</span>, M. Kate, L.C. Gioia, D.J. Emery, K. Butcher, A.H. Wilman</div>
-    <div class="pub-title"><i>Time evolution of QSM in Intracranial Hemorrhage</i></div>
-    <div class="pub-venue">QSM workshop; Medical University of Graz, Austria; 2016.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors"><span class="me">H. Sun</span>, M.E. MacDonald, Y. Ma, G.B. Pike</div>
-    <div class="pub-title"><i>Regularization-aided susceptibility inversion without background field removal</i></div>
-    <div class="pub-venue">QSM workshop; Medical University of Graz, Austria; 2016.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">M. Juhás, <span class="me">H. Sun</span>, M.R.G. Brown, M.B. MacKay, J. Benoit, E. Dametto, A.H. Wilman, A.J. Greenshaw, S.M. Dursun</div>
-    <div class="pub-title"><i>Brain Iron in Alcohol Use Disorder</i></div>
-    <div class="pub-venue">Alberta Imaging Symposium; Foothills Medical Centre, Calgary; 2016.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">S. Treit, <span class="me">H. Sun</span>, P. Seres, A.H. Wilman, C. Beaulieu</div>
-    <div class="pub-title"><i>Quantitative Susceptibility Mapping of White Matter Identified by Diffusion Tensor Tractography</i></div>
-    <div class="pub-venue">OHBM; Geneva; 2016.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors">F. Schweser, W. Li, <span class="me">H. Sun</span>, D. Zhou, N. Bertolino, P. Polak, Y. Wang, A.H. Wilman, K. Bredies, R. Zivadinov, S.D. Robinson</div>
     <div class="pub-title"><a href="https://cds.ismrm.org/protected/16MProceedings/PDFfiles/0026.html" target="_blank" rel="noopener"><i>An illustrated comparison of background field elimination methods for phase MRI and QSM</i></a></div>
     <div class="pub-venue">ISMRM; Singapore; 2016.</div>
   </div>
@@ -1286,15 +1008,6 @@
     <div class="pub-authors"><span class="me">H. Sun</span>, M.E. MacDonald, G.B. Pike</div>
     <div class="pub-title"><a href="https://cds.ismrm.org/protected/16MProceedings/PDFfiles/2987.html" target="_blank" rel="noopener"><i>Phase Correction of a Bipolar Gradient-Echo Acquisition for Quantitative Susceptibility Mapping</i></a></div>
     <div class="pub-venue">ISMRM; Singapore; 2016.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors"><span class="me">H. Sun</span>, A.H. Wilman</div>
-    <div class="pub-title"><i>Clinical Applications of Susceptibility Mapping in the Brain</i></div>
-    <div class="pub-venue">6th Annual Graduate Research Symposium; University of Alberta, Edmonton; 2015.</div>
   </div>
 </div>
 
@@ -1355,6 +1068,335 @@
 <div class="pub-card">
   <div class="pub-num"></div>
   <div class="pub-details">
+    <div class="pub-authors"><span class="me">H. Sun</span>, A.H. Wilman</div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/14MProceedings/PDFfiles/0630.pdf" target="_blank" rel="noopener"><i>Echo-Planar Susceptibility Mapping</i></a></div>
+    <div class="pub-venue">ISMRM; Milan; 2014.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors"><span class="me">H. Sun</span>, V.V. Divekar, M. Kate, L.C. Gioia, C.A. Baron, C. Beaulieu, D.J. Emery, K. Butcher, A.H. Wilman</div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/14MProceedings/PDFfiles/0898.pdf" target="_blank" rel="noopener"><i>Quantitative Susceptibility Mapping of Intracranial Hemorrhage: Clinical Results and Numerical Simulation</i></a></div>
+    <div class="pub-venue">ISMRM; Milan; 2014.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors"><span class="me">H. Sun</span>, A.J. Walsh, R.M. Lebel, G. Blevins, I. Catz, J-Q. Lu, E.S. Johnson, D.J. Emery, K.G. Warren, A.H. Wilman</div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/13MProceedings/PDFfiles/1081.PDF" target="_blank" rel="noopener"><i>Validation of susceptibility mapping for quantification of iron in subcortical grey matter in multiple sclerosis</i></a></div>
+    <div class="pub-venue">ISMRM; Salt Lake City; 2013.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors"><span class="me">H. Sun</span>, A.H. Wilman</div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/13MProceedings/PDFfiles/0169.PDF" target="_blank" rel="noopener"><i>Susceptibility Mapping Using Regularization Enabled Harmonic Artifact Removal</i></a></div>
+    <div class="pub-venue">ISMRM; Salt Lake City; 2013.</div>
+  </div>
+</div>
+
+</div>
+
+### Other Abstracts
+<div class="pub-list">
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">W. Jiang, F. Liu, N. Ye, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>A Study on Diffusion Models for Domain Shifts in MRI Reconstruction</i></div>
+    <div class="pub-venue">ISMRM ANZ Chapter; Brisbane; Nov 2023.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">Z. Xiong, Y. Gao, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>Quantitative Susceptibility Mapping by Controllable Diffusion Models</i></div>
+    <div class="pub-venue">ISMRM ANZ Chapter; Brisbane; Nov 2023.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">T. Ding, Y. Gao, Z. Xiong, M. Cloos, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>Complex-valued Spatio-temporal Fusion Network for Robust MRF Reconstruction</i></div>
+    <div class="pub-venue">ISMRM ANZ Chapter; Brisbane; Nov 2023.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">S. Prima, Z. Xiong, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>Deep Learning-based Brain R2* Mapping from Variable Acquisition Parameters</i></div>
+    <div class="pub-venue">ISMRM ANZ Chapter; Brisbane; Nov 2023.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">S. Prima, Z. Xiong, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>Brain MRI R2* Quantification using Deep Neural Networks</i></div>
+    <div class="pub-venue">EMBC; Sydney; July 2023.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">T. Ding, Y. Gao, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>A complex-valued deep neural network for Magnetic Resonance Fingerprinting</i></div>
+    <div class="pub-venue">EMBC; Sydney; July 2023.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">S. Shan, Y. Gao, P. Liu, T. Reynolds, B. Dong, <span class="me">H. Sun</span>, M. Li, G. Liney, F. Liu, P. Keall, D. Waddington</div>
+    <div class="pub-title"><i>Motion-corrected Image Reconstruction Using an Unrolling Network on an MRI-Linac</i></div>
+    <div class="pub-venue">AUS MR in RT workshop; Noosa; 2022.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">R. Steele, Q. Shafqat, Y. Wu, <span class="me">H. Sun</span>, J.F. Dunn</div>
+    <div class="pub-title"><i>Cerebral blood flow and magnetic susceptibility are reduced in the bacterial lipopolysaccharide (LPS) mouse model of inflammation</i></div>
+    <div class="pub-venue">Alberta Imaging Symposium; Foothills Medical Centre, Calgary; 2022.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">Z. Xiong, Y. Gao, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>Unsupervised Multi-task learning for solving ill-posed dipole inversion in quantitative susceptibility mapping</i></div>
+    <div class="pub-venue">QMR Lucca workshop; Lucca, Italy; October 2022.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">Z. Xiong, Y. Gao, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>Swin-QSM: Quantitative susceptibility mapping using Swin-Transformer</i></div>
+    <div class="pub-venue">QMR Lucca workshop; Lucca, Italy; October 2022.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">Y. Gao, T. Ding, M.A. Cloos, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>QSM extraction from MRF acquisitions through deep neural networks</i></div>
+    <div class="pub-venue">QMR Lucca workshop; Lucca, Italy; October 2022.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">D. Nakhid, C. McMorris, <span class="me">H. Sun</span>, W.B. Gibbard, C. Tortorelli, C. Lebel</div>
+    <div class="pub-title"><i>Magnetic susceptibility and anxiety symptoms in children with and without prenatal alcohol exposure</i></div>
+    <div class="pub-venue">OHBM; Glasgow; 2022.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">S. Shan, Y. Gao, P. Liu, T. Reynolds, B. Dong, <span class="me">H. Sun</span>, M. Li, G. Liney, F. Liu, P. Keall, D. Waddington</div>
+    <div class="pub-title"><i>Motion-corrected Image Reconstruction with Unrolling Networks on an MRI-Linac</i></div>
+    <div class="pub-venue">American Association of Physicists in Medicine (AAPM); Washington; 2022.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">Z. Xiong, Y. Gao, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>Deep learning QSM for acquisitions of arbitrary orientation</i></div>
+    <div class="pub-venue">ISMRM ANZ Chapter; online; Nov 2021.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">Y. Gao, F. Liu, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>Universal QSM Reconstruction from Raw Phase using Deep Neural Networks</i></div>
+    <div class="pub-venue">ISMRM ANZ Chapter; online; Nov 2021.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">D. Nakhid, <span class="me">H. Sun</span>, C. McMorris, C. Lebel</div>
+    <div class="pub-title"><i>Brain Volume and Susceptibility Differences in Children with Prenatal Alcohol Exposure</i></div>
+    <div class="pub-venue">International Society for Developmental Psychobiology; Rockville; 2020.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">S. Scott, M.E. MacDonald, D. Rajashekar, W-Q Liu, <span class="me">H. Sun</span>, G.B. Pike</div>
+    <div class="pub-title"><i>Clustering Analysis of Multiple Sclerosis Lesions with T1-&T2-weighted, Diffusion, Quantitative Susceptibility Mapping, and Magnetization Transfer Ratio Imaging</i></div>
+    <div class="pub-venue">OHBM; Montreal; 2020.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">Y. Ma, E.L. Mazerolle, J. Cho, <span class="me">H. Sun</span>, Y. Wang, G.B. Pike</div>
+    <div class="pub-title"><i>Quantification of Cerebral Oxygen Extraction Fraction (OEF) Using QSM with a Hyperoxic Challenge</i></div>
+    <div class="pub-venue">OHBM; Montreal; 2020.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors"><span class="me">H. Sun</span>, F. Liu, S. Crozier</div>
+    <div class="pub-title"><i>Differentiating hemorrhage, calcification, and edema of glioblastoma using quantitative susceptibility mapping (QSM)</i></div>
+    <div class="pub-venue">AUS MR in RT workshop; Noosa; 2019.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">J.O. Cleary, <span class="me">H. Sun</span>, R. Glarin, S.C. Kolbe, R.J. Ordidge, B.A. Moffat, G.B. Pike</div>
+    <div class="pub-title"><i>Extracting more for less at Ultra High Field: Multi-echo MP2RAGE for simultaneous T1-weighted imaging, T1 mapping, R2* mapping, SWI, and QSM in a single acquisition</i></div>
+    <div class="pub-venue">British Society of Neuroradiologists Annual Meeting; Cardiff; 2019.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">Y. Gao, X. Zhu, S. Bollmann, M. Barth, S. Crozier, F. Liu, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>OctQSM: A deep learning QSM method with Octave convolution</i></div>
+    <div class="pub-venue">QSM workshop; Seoul; 2019.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">X. Zhu, Y. Gao, S. Bollmann, M. Barth, F. Liu, S. Crozier, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><i>Comparison of Conventional and Learning Based QSM on Spatial Coverage Effect</i></div>
+    <div class="pub-venue">QSM workshop; Seoul; 2019.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors"><span class="me">H. Sun</span>, G.B. Pike</div>
+    <div class="pub-title"><i>Whole head quantitative susceptibility mapping using a least-norm direct dipole inversion method</i></div>
+    <div class="pub-venue">Alberta Imaging Symposium; Foothills Medical Centre, Calgary; 2018.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">S.E. Ha, R.G. Sah, <span class="me">H. Sun</span>, P.A. Barber</div>
+    <div class="pub-title"><i>Quantifying brain iron deposition in patients with Transient Ischemic Attack and Healthy Control using quantitative susceptibility mapping</i></div>
+    <div class="pub-venue">HBI Summer Student Symposium; Calgary; 2018.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors"><span class="me">H. Sun</span>, Y. Ma, M.E. MacDonald, J.O. Cleary, S. Kolbe, G.B. Pike</div>
+    <div class="pub-title"><i>QSM of the Entire Head Using a Least-norm Direct Dipole Inversion Method</i></div>
+    <div class="pub-venue">ISMRM Neuro Workshop; Seoul; 2018.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors"><span class="me">H. Sun</span>, J.O. Cleary, R. Glarin, Y. Ma, K. O’Brien, S.C. Kolbe, B.A. Moffat, R.J. Ordidge, G.B. Pike</div>
+    <div class="pub-title"><i>Multi-echo MP2RAGE at 7T enables simultaneous T1w, quantitative T1, T2* and QSM from a single acquisition</i></div>
+    <div class="pub-venue">ISMRM Neuro Workshop; Seoul; 2018.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">F. Schweser, W. Li, <span class="me">H. Sun</span>, D. Zhou, N. Bertolino, P. Polak, Y. Wang, A.H. Wilman, K. Bredies, R. Zivadinov, S.D. Robinson</div>
+    <div class="pub-title"><i>Quantitative comparison of background field elimination methods in a realistic numerical model</i></div>
+    <div class="pub-venue">QSM workshop; Medical University of Graz, Austria; 2016.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors"><span class="me">H. Sun</span>, M. Kate, L.C. Gioia, D.J. Emery, K. Butcher, A.H. Wilman</div>
+    <div class="pub-title"><i>Time evolution of QSM in Intracranial Hemorrhage</i></div>
+    <div class="pub-venue">QSM workshop; Medical University of Graz, Austria; 2016.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors"><span class="me">H. Sun</span>, M.E. MacDonald, Y. Ma, G.B. Pike</div>
+    <div class="pub-title"><i>Regularization-aided susceptibility inversion without background field removal</i></div>
+    <div class="pub-venue">QSM workshop; Medical University of Graz, Austria; 2016.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">M. Juhás, <span class="me">H. Sun</span>, M.R.G. Brown, M.B. MacKay, J. Benoit, E. Dametto, A.H. Wilman, A.J. Greenshaw, S.M. Dursun</div>
+    <div class="pub-title"><i>Brain Iron in Alcohol Use Disorder</i></div>
+    <div class="pub-venue">Alberta Imaging Symposium; Foothills Medical Centre, Calgary; 2016.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">S. Treit, <span class="me">H. Sun</span>, P. Seres, A.H. Wilman, C. Beaulieu</div>
+    <div class="pub-title"><i>Quantitative Susceptibility Mapping of White Matter Identified by Diffusion Tensor Tractography</i></div>
+    <div class="pub-venue">OHBM; Geneva; 2016.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors"><span class="me">H. Sun</span>, A.H. Wilman</div>
+    <div class="pub-title"><i>Clinical Applications of Susceptibility Mapping in the Brain</i></div>
+    <div class="pub-venue">6th Annual Graduate Research Symposium; University of Alberta, Edmonton; 2015.</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, R. Topfer, A.H. Wilman</div>
     <div class="pub-title"><i>Quantitative susceptibility mapping using MRI</i></div>
     <div class="pub-venue">Canadian Graduate Engineering Consortium Recruiting Event; University of Alberta, Edmonton; 2014.</div>
@@ -1376,24 +1418,6 @@
     <div class="pub-authors"><span class="me">H. Sun</span>, A.J. Walsh, R.M. Lebel, G. Blevins, I. Catz, J-Q. Lu, E.S. Johnson, D.J. Emery, K.G. Warren, A.H. Wilman</div>
     <div class="pub-title"><i>Postmortem validation of quantitative susceptibility mapping for subcortical gray matter iron quantification in multiple sclerosis</i></div>
     <div class="pub-venue">Alberta endMS Retreat; Banff, Alberta; 2014.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors"><span class="me">H. Sun</span>, A.H. Wilman</div>
-    <div class="pub-title"><a href="https://cds.ismrm.org/protected/14MProceedings/PDFfiles/0630.pdf" target="_blank" rel="noopener"><i>Echo-Planar Susceptibility Mapping</i></a></div>
-    <div class="pub-venue">ISMRM; Milan; 2014.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors"><span class="me">H. Sun</span>, V.V. Divekar, M. Kate, L.C. Gioia, C.A. Baron, C. Beaulieu, D.J. Emery, K. Butcher, A.H. Wilman</div>
-    <div class="pub-title"><a href="https://cds.ismrm.org/protected/14MProceedings/PDFfiles/0898.pdf" target="_blank" rel="noopener"><i>Quantitative Susceptibility Mapping of Intracranial Hemorrhage: Clinical Results and Numerical Simulation</i></a></div>
-    <div class="pub-venue">ISMRM; Milan; 2014.</div>
   </div>
 </div>
 
@@ -1448,24 +1472,6 @@
     <div class="pub-authors">R. Topfer, <span class="me">H. Sun</span>, A.H. Wilman</div>
     <div class="pub-title"><i>Edge-Extended Harmonic Phase Processing Incorporating Priors</i></div>
     <div class="pub-venue">QSM workshop; Cornell University, Ithaca; 2013.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors"><span class="me">H. Sun</span>, A.J. Walsh, R.M. Lebel, G. Blevins, I. Catz, J-Q. Lu, E.S. Johnson, D.J. Emery, K.G. Warren, A.H. Wilman</div>
-    <div class="pub-title"><a href="https://cds.ismrm.org/protected/13MProceedings/PDFfiles/1081.PDF" target="_blank" rel="noopener"><i>Validation of susceptibility mapping for quantification of iron in subcortical grey matter in multiple sclerosis</i></a></div>
-    <div class="pub-venue">ISMRM; Salt Lake City; 2013.</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
-    <div class="pub-authors"><span class="me">H. Sun</span>, A.H. Wilman</div>
-    <div class="pub-title"><a href="https://cds.ismrm.org/protected/13MProceedings/PDFfiles/0169.PDF" target="_blank" rel="noopener"><i>Susceptibility Mapping Using Regularization Enabled Harmonic Artifact Removal</i></a></div>
-    <div class="pub-venue">ISMRM; Salt Lake City; 2013.</div>
   </div>
 </div>
 
