@@ -1320,7 +1320,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">A.M. Elkady, <span class="me">H. Sun</span>, A.H. Wilman</div>
-    <div class="pub-title"><i>Limitations of Accelerated QSM by FOV Restriction to Deep Gray Matter</i></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/15MProceedings/PDFfiles/1715.pdf" target="_blank" rel="noopener"><i>Limitations of Accelerated QSM by FOV Restriction to Deep Gray Matter</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; 2015.</div>
   </div>
 </div>
@@ -1347,7 +1347,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Z. Dai, Y. Jia, G. Yan, F. Duan, G. Xiao, Z. Shen, <span class="me">H. Sun</span>, A.H. Wilman, R. Wu</div>
-    <div class="pub-title"><a href="https://cds.ismrm.org/protected/15MProceedings/PDFfiles/1715.pdf" target="_blank" rel="noopener"><i>pH-weighted imaging in diabetes mellitus suffering acute cerebral ischemic stroke</i></a></div>
+    <div class="pub-title"><a href="https://cds.ismrm.org/protected/15MProceedings/PDFfiles/0603.pdf" target="_blank" rel="noopener"><i>pH-weighted imaging in diabetes mellitus suffering acute cerebral ischemic stroke</i></a></div>
     <div class="pub-venue">ISMRM; Toronto; 2015.</div>
   </div>
 </div>
