@@ -70,6 +70,14 @@
 <div class="pub-card">
   <div class="pub-num"></div>
   <div class="pub-details">
+    <div class="pub-authors">X. Zhu, Y. Shang, H.-J. Yang, L. Yang, Z. Long, <span class="me">H. Sun</span>*, F. Lin, X. Zhou, H. Han</div>
+    <div class="pub-title"><a href="https://doi.org/10.1002/nbm.70285" target="_blank" rel="noopener"><i>Breaking the Limits of Low-Field MRI: Deep Learning Approaches to Image Enhancement</i></a></div>
+    <div class="pub-venue">NMR in Biomedicine. 2026;39(6):e70285.</div>
+    </div>
+</div>
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
     <div class="pub-authors">X. Zhu, Y. Gao, Z. Xiong, W. Jiang, F. Liu, <span class="me">H. Sun</span>*</div>
     <div class="pub-title"><a href="https://doi.org/10.3390/info16070592" target="_blank" rel="noopener"><i>DIP-UP: Deep Image Prior for Unwrapping Phase</i></a></div>
     <div class="pub-venue">Information. 2025; 16 (7):592.</div>
