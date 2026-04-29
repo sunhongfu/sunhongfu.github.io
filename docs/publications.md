@@ -582,7 +582,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">S. Prima, Z. Xiong, A.H. Wilman, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>DeepRelaxo: A Generalizable Self-supervised Method for Brain R2 Mapping</i></div>
+    <div class="pub-title"><a href="https://archive.ismrm.org/2025/5144.html" target="_blank" rel="noopener"><i>DeepRelaxo: A Generalizable Self-supervised Method for Brain R2* Mapping</i></a></div>
     <div class="pub-venue">ISMRM; Honolulu; May 2025.</div>
   </div>
 </div>
@@ -591,7 +591,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">T. Ding, Y. Gao, Z. Xiong, F. Liu, M. Cloos, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>Partial Volume Estimation from MRF Acquisition Using a Deep Learning Approach</i></div>
+    <div class="pub-title"><a href="https://archive.ismrm.org/2025/3843.html" target="_blank" rel="noopener"><i>Partial Volume Estimation from MRF Acquisition Using a Deep Learning Approach</i></a></div>
     <div class="pub-venue">ISMRM; Honolulu; May 2025.</div>
   </div>
 </div>
@@ -609,7 +609,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Z. Xiong, Y. Gao, W. Jiang, K. Butcher, A. Wilman, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>Rapid Quantitative Susceptibility Mapping for Intracranial Hemorrhage Using Deep Learning-based 2.5D Diffusion Models</i></div>
+    <div class="pub-title"><a href="https://archive.ismrm.org/2025/5121.html" target="_blank" rel="noopener"><i>Rapid Quantitative Susceptibility Mapping for Intracranial Hemorrhage Using Deep Learning-based 2.5D Diffusion Models</i></a></div>
     <div class="pub-venue">ISMRM; Honolulu; May 2025.</div>
   </div>
 </div>
@@ -654,7 +654,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">T. Ding, Y. Gao, Z. Xiong, M. Cloos, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>Multi Complex-valued Spatio-temporal Fusion Networks for Robust MRF Reconstruction</i></div>
+    <div class="pub-title"><a href="https://archive.ismrm.org/2024/1956.html" target="_blank" rel="noopener"><i>Multi Complex-valued Spatio-temporal Fusion Networks for Robust MRF Reconstruction</i></a></div>
     <div class="pub-venue">ISMRM; Singapore; May 2024.</div>
   </div>
 </div>
