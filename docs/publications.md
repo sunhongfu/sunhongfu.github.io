@@ -592,7 +592,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">W. Jiang, W. Song, Y. Gao, N. Ye, F. Liu, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>Consistent MRI Reconstruction with Diffusion Models and Sequential Monte Carlo</i></div>
+    <div class="pub-title"><a href="https://archive.ismrm.org/2025/2632.html" target="_blank" rel="noopener"><i>Consistent MRI Reconstruction with Diffusion Models and Sequential Monte Carlo</i></a></div>
     <div class="pub-venue">ISMRM; Honolulu; May 2025.</div>
   </div>
 </div>
@@ -610,7 +610,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors"><span class="me">H. Sun</span>, T. Islam, M. Barth, Z. Chen</div>
-    <div class="pub-title"><i>Synthesising 3T DWI from ultra-low-field (64mT) acquisitions using generative diffusion models</i></div>
+    <div class="pub-title"><a href="https://archive.ismrm.org/2024/2830.html" target="_blank" rel="noopener"><i>Synthesising 3T DWI from ultra-low-field (64mT) acquisitions using generative diffusion models</i></a></div>
     <div class="pub-venue">ISMRM; Singapore; May 2024.</div>
   </div>
 </div>
@@ -619,7 +619,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Z. Xiong, Y. Gao, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>Quantitative Susceptibility Mapping by Controllable Diffusion Models</i></div>
+    <div class="pub-title"><a href="https://archive.ismrm.org/2024/2821.html" target="_blank" rel="noopener"><i>Quantitative Susceptibility Mapping by Controllable Diffusion Models</i></a></div>
     <div class="pub-venue">ISMRM; Singapore; May 2024.</div>
   </div>
 </div>
@@ -628,7 +628,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">W. Jiang, F. Liu, N. Ye, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>Robustness of Diffusion Model-Based Methods to Distribution Shifts in Medical Imaging</i></div>
+    <div class="pub-title"><a href="https://archive.ismrm.org/2024/1745.html" target="_blank" rel="noopener"><i>Robustness of Diffusion Model-Based Methods to Distribution Shifts in Medical Imaging</i></a></div>
     <div class="pub-venue">ISMRM; Singapore; May 2024.</div>
   </div>
 </div>
@@ -637,7 +637,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">X. Zhu, Y. Gao, Z. Xiong, W. Jiang, F. Liu, S. Crozier, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>A deep image prior based refinement for 3D phase unwrapping in brain MRI</i></div>
+    <div class="pub-title"><a href="https://archive.ismrm.org/2024/2459.html" target="_blank" rel="noopener"><i>A deep image prior based refinement for 3D phase unwrapping in brain MRI</i></a></div>
     <div class="pub-venue">ISMRM; Singapore; May 2024.</div>
   </div>
 </div>
@@ -655,7 +655,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">Y. Gao, Z. Xiong, S. Shan, M. Li, A.H. Wilman, G.B. Pike, F. Liu, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>QSM Reconstruction of Arbitrary Dipole Orientations using an End-to-end Neural Network via Latent Feature Editing</i></div>
+    <div class="pub-title"><a href="https://archive.ismrm.org/2024/2453.html" target="_blank" rel="noopener"><i>QSM Reconstruction of Arbitrary Dipole Orientations using an End-to-end Neural Network via Latent Feature Editing</i></a></div>
     <div class="pub-venue">ISMRM; Singapore; May 2024.</div>
   </div>
 </div>
@@ -664,7 +664,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">C. Chen, Y. Gao, M. Li, Z. Xiong, F. Liu, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><i>LoopNet: A New Baseline Network for QSM Dipole Inversion</i></div>
+    <div class="pub-title"><a href="https://archive.ismrm.org/2024/2621.html" target="_blank" rel="noopener"><i>LoopNet: A New Baseline Network for QSM Dipole Inversion</i></a></div>
     <div class="pub-venue">ISMRM; Singapore; May 2024.</div>
   </div>
 </div>
@@ -673,7 +673,7 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">T. Makarowski, <span class="me">H. Sun</span>, J.F. Dunn</div>
-    <div class="pub-title"><i>Comparing R2* and QSM at 9.4T for the ability to detect increased deoxyhemoglobin (hypoxia) in the mouse brain</i></div>
+    <div class="pub-title"><a href="https://archive.ismrm.org/2024/2615.html" target="_blank" rel="noopener"><i>Comparing R2* and QSM at 9.4T for the ability to detect increased deoxyhemoglobin (hypoxia) in the mouse brain</i></a></div>
     <div class="pub-venue">ISMRM; Singapore; May 2024.</div>
   </div>
 </div>
