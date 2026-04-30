@@ -1,4 +1,10 @@
 /* ===== Navigation (left sidebar) ===== */
+/* Hide left sidebar entirely — navigation is in top tabs */
+.md-sidebar--primary {
+  display: none !important;
+}
+
+
 /* Hide site name in header on large screens */
 .md-header__title {
   display: none;
