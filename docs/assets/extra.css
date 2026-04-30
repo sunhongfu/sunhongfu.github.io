@@ -1,29 +1,3 @@
-/* ===== Always-visible left sidebar ===== */
-/* Material hides the nav sidebar below 76.25em and uses a hamburger drawer.
-   Override that so it stays pinned at all widths. */
-@media screen and (max-width: 76.24em) {
-  /* Keep sidebar visible instead of off-screen */
-  .md-sidebar--primary {
-    transform: translateX(0) !important;
-    visibility: visible !important;
-  }
-
-  /* Push content right so it doesn't sit under the fixed sidebar */
-  .md-main {
-    margin-left: 12.1rem;
-  }
-
-  /* Hamburger toggle is no longer needed */
-  label[for="__drawer"] {
-    display: none !important;
-  }
-
-  /* Suppress the dark overlay that appears when the drawer opens */
-  .md-overlay {
-    display: none !important;
-  }
-}
-
 /* ===== Navigation (left sidebar) ===== */
 /* Hide site name in header on large screens */
 .md-header__title {
