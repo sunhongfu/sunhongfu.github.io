@@ -1,7 +1,10 @@
 /* ===== Navigation (left sidebar) ===== */
-/* Hide left sidebar entirely — navigation is in top tabs */
-.md-sidebar--primary {
-  display: none !important;
+/* Hide left sidebar on wide screens — top tabs handle navigation there.
+   On narrow screens the hamburger+drawer still works for navigation. */
+@media screen and (min-width: 60em) {
+  .md-sidebar--primary {
+    display: none !important;
+  }
 }
 
 
