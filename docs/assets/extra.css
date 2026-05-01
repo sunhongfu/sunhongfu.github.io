@@ -1,12 +1,11 @@
 /* ===== Navigation (left sidebar) ===== */
 /* Navigation layout:
-   ≥ 960px (60em): top tabs are visible — hide sidebar and hamburger button
-   < 960px: tabs collapse — hamburger + drawer handles navigation */
-@media screen and (min-width: 60em) {
+   ≥ 1220px (76.25em): Material shows top tabs — hide sidebar and hamburger
+   < 1220px: tabs collapse — hamburger + drawer handles navigation */
+@media screen and (min-width: 76.25em) {
   .md-sidebar--primary {
     display: none !important;
   }
-  /* Also hide the hamburger toggle so it's not a dead button while tabs are visible */
   label.md-header__button[for="__drawer"] {
     display: none !important;
   }
