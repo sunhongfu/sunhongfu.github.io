@@ -14,6 +14,11 @@
   }
 }
 
+/* Hide the default logo/bookmark icon in the header */
+.md-header__button.md-logo {
+  display: none !important;
+}
+
 /* ===== Navigation tab styling ===== */
 /* Larger, slightly bolder labels for all tabs */
 .md-tabs__link {
