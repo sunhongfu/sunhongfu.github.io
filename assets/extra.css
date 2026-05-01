@@ -14,6 +14,12 @@
   }
 }
 
+/* Underline the active tab */
+.md-tabs__link--active {
+  border-bottom: 2px solid var(--md-primary-bg-color);
+  padding-bottom: 2px;
+}
+
 /* Hide site name in the header bar on wide screens */
 @media screen and (min-width: 76.25em) {
   .md-header__title {
