@@ -20,12 +20,6 @@
   padding-bottom: 2px;
 }
 
-/* Hide site name in the header bar on wide screens */
-@media screen and (min-width: 76.25em) {
-  .md-header__title {
-    display: none;
-  }
-}
 
 .md-nav__title {
   font-size: 0.9rem;

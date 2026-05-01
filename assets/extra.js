@@ -1,12 +1,17 @@
 (function () {
   var style = document.createElement('style');
-  document.head.appendChild(style);
+  style.id = '__nav_bp';
 
   function run() {
+    // Re-insert style if Material's instant navigation removed it from <head>
+    if (!style.parentNode) {
+      document.head.appendChild(style);
+    }
+
     var list = document.querySelector('.md-tabs__list');
     if (!list) return;
 
-    // Clone the list off-screen at unconstrained width to measure its natural size
+    // Clone off-screen at unconstrained width to measure natural size
     var ghost = list.cloneNode(true);
     Object.assign(ghost.style, {
       position: 'fixed',
@@ -21,13 +26,11 @@
     document.body.removeChild(ghost);
 
     style.textContent = [
-      // Viewport fits all tabs: show tabs, hide sidebar and hamburger
       '@media screen and (min-width:' + w + 'px){',
         '.md-tabs{display:block!important}',
         '.md-sidebar--primary{display:none!important}',
         'label.md-header__button[for="__drawer"]{display:none!important}',
       '}',
-      // Too narrow to fit: hide tabs, restore hamburger and sidebar drawer
       '@media screen and (max-width:' + (w - 1) + 'px){',
         '.md-tabs{display:none!important}',
         '.md-sidebar--primary{display:block!important}',
@@ -36,12 +39,19 @@
     ].join('');
   }
 
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', run);
-  } else {
+  function init() {
     run();
+    // Re-run on every instant navigation: Material updates <title> each time
+    var title = document.querySelector('title');
+    if (title) new MutationObserver(run).observe(title, { childList: true });
   }
-  // Re-run after fonts load for accurate text measurement
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+  // Re-run after fonts load for more accurate text measurement
   if (document.fonts && document.fonts.ready) {
     document.fonts.ready.then(run);
   }
