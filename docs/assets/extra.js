@@ -28,11 +28,13 @@
         '.md-tabs{display:block!important}',
         '.md-sidebar--primary{display:none!important}',
         'label.md-header__button[for="__drawer"]{display:none!important}',
+        '.md-header__button.md-logo{display:flex!important}',
       '}',
       '@media screen and (max-width:' + (w - 1) + 'px){',
         '.md-tabs{display:none!important}',
         '.md-sidebar--primary{display:block!important}',
         'label.md-header__button[for="__drawer"]{display:flex!important}',
+        '.md-header__button.md-logo{display:none!important}',
       '}'
     ].join('');
   }
