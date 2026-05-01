@@ -1,58 +1,23 @@
-/* ===== Navigation (left sidebar + header/tabs merge) ===== */
-/* ≥ 1220px: top tabs visible — collapse header into tabs bar,
-             hide sidebar and hamburger.
-   < 1220px: hamburger + drawer handles navigation. */
-@media screen and (min-width: 76.25em) {
-  /* Hide left sidebar and hamburger toggle */
+/* ===== Navigation ===== */
+/* Show tabs (and hide sidebar + hamburger) on all screens wider than a phone.
+   Material hides tabs below 60em by default — we force them visible down to
+   30em (480px). Below 480px (phones) the hamburger + drawer takes over. */
+@media screen and (min-width: 30em) {
+  .md-tabs {
+    display: block !important;
+  }
   .md-sidebar--primary {
     display: none !important;
   }
   label.md-header__button[for="__drawer"] {
     display: none !important;
   }
-
-  /* Zero out the header-height variable Material uses to offset the tabs bar
-     and main content — without this the tabs stay 2.4rem below the top */
-  :root {
-    --md-header-height: 0px !important;
-  }
-
-  /* Collapse the header bar so it takes no vertical space */
-  .md-header {
-    height: 0;
-    min-height: 0;
-    overflow: visible;
-    box-shadow: none !important;
-    background: transparent !important;
-  }
-
-  /* Float icons to the right, overlaid on top of the tabs bar */
-  .md-header__inner {
-    height: 2.4rem;
-    justify-content: flex-end;
-    background: transparent;
-    pointer-events: none;
-  }
-
-  /* Keep the icons and search form themselves clickable */
-  .md-header__button,
-  .md-search {
-    pointer-events: auto;
-  }
-
-  /* Tabs pull up to the top (belt-and-suspenders alongside the variable) */
-  .md-tabs {
-    top: 0 !important;
-  }
 }
 
-/* Site name: hide on large screens (handled above), show on small */
-.md-header__title {
-  display: none;
-}
-@media (max-width: 76.24em) {
+/* Hide site name in the header bar on wide screens */
+@media screen and (min-width: 76.25em) {
   .md-header__title {
-    display: block;
+    display: none;
   }
 }
 
