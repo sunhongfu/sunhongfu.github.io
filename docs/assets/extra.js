@@ -4,9 +4,7 @@
 
   function run() {
     // Re-insert style if Material's instant navigation removed it from <head>
-    if (!style.parentNode) {
-      document.head.appendChild(style);
-    }
+    if (!style.parentNode) document.head.appendChild(style);
 
     var list = document.querySelector('.md-tabs__list');
     if (!list) return;
@@ -41,18 +39,20 @@
 
   function init() {
     run();
-    // Re-run on every instant navigation: Material updates <title> each time
-    var title = document.querySelector('title');
-    if (title) new MutationObserver(run).observe(title, { childList: true });
+
+    // Watch <head> for child changes: when Material instant navigation removes
+    // our style element, re-inject it immediately.
+    new MutationObserver(function () {
+      if (!document.getElementById('__nav_bp')) run();
+    }).observe(document.head, { childList: true });
+
+    // Re-measure after fonts load for accurate text width
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(run);
   }
 
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', init);
   } else {
     init();
-  }
-  // Re-run after fonts load for more accurate text measurement
-  if (document.fonts && document.fonts.ready) {
-    document.fonts.ready.then(run);
   }
 })();
