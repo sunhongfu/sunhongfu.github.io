@@ -1,24 +1,50 @@
-/* ===== Navigation (left sidebar) ===== */
-/* Navigation layout:
-   ≥ 960px (60em): top tabs are visible — hide sidebar and hamburger button
-   < 960px: tabs collapse — hamburger + drawer handles navigation */
-@media screen and (min-width: 60em) {
+/* ===== Navigation (left sidebar + header/tabs merge) ===== */
+/* ≥ 1220px: top tabs visible — collapse header into tabs bar,
+             hide sidebar and hamburger.
+   < 1220px: hamburger + drawer handles navigation. */
+@media screen and (min-width: 76.25em) {
+  /* Hide left sidebar and hamburger toggle */
   .md-sidebar--primary {
     display: none !important;
   }
-  /* Also hide the hamburger toggle so it's not a dead button while tabs are visible */
   label.md-header__button[for="__drawer"] {
     display: none !important;
   }
+
+  /* Collapse the header bar so it takes no vertical space */
+  .md-header {
+    height: 0;
+    min-height: 0;
+    overflow: visible;
+    box-shadow: none !important;
+    background: transparent !important;
+  }
+
+  /* Float icons to the right, overlaid on top of the tabs bar */
+  .md-header__inner {
+    height: 2.4rem;
+    justify-content: flex-end;
+    background: transparent;
+    pointer-events: none;   /* allow clicks to pass through to tabs */
+  }
+
+  /* Keep the icons and search form themselves clickable */
+  .md-header__button,
+  .md-search {
+    pointer-events: auto;
+  }
+
+  /* Tabs pull up to fill the top (header is now zero height) */
+  .md-tabs {
+    top: 0 !important;
+  }
 }
 
-
-/* Hide site name in header on large screens */
+/* Site name: hide on large screens (handled above), show on small */
 .md-header__title {
   display: none;
 }
-/* Show site name only on small screens (≤ 768px) */
-@media (max-width: 768px) {
+@media (max-width: 76.24em) {
   .md-header__title {
     display: block;
   }
