@@ -11,6 +11,12 @@
     display: none !important;
   }
 
+  /* Zero out the header-height variable Material uses to offset the tabs bar
+     and main content — without this the tabs stay 2.4rem below the top */
+  :root {
+    --md-header-height: 0px !important;
+  }
+
   /* Collapse the header bar so it takes no vertical space */
   .md-header {
     height: 0;
@@ -25,7 +31,7 @@
     height: 2.4rem;
     justify-content: flex-end;
     background: transparent;
-    pointer-events: none;   /* allow clicks to pass through to tabs */
+    pointer-events: none;
   }
 
   /* Keep the icons and search form themselves clickable */
@@ -34,7 +40,7 @@
     pointer-events: auto;
   }
 
-  /* Tabs pull up to fill the top (header is now zero height) */
+  /* Tabs pull up to the top (belt-and-suspenders alongside the variable) */
   .md-tabs {
     top: 0 !important;
   }
