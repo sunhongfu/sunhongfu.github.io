@@ -65,20 +65,28 @@
     if (!document.querySelector('.pub-list')) return;
 
     document.querySelectorAll('h2, h3').forEach(function (heading) {
-      // Find the immediately following .pub-list sibling
-      var next = heading.nextSibling;
-      while (next && (next.nodeType === 3 || (next.nodeType === 1 && !next.classList.contains('pub-list')))) {
-        next = next.nextSibling;
+      // Walk all siblings until hitting a heading of equal or higher level,
+      // collecting every .pub-list found. This lets an h2 with only h3+pub-list
+      // children (e.g. "Conference Abstracts") accumulate a combined total.
+      var level = parseInt(heading.tagName[1], 10);
+      var count = 0;
+      var node = heading.nextSibling;
+      while (node) {
+        if (node.nodeType === 1) {
+          var tag = node.tagName;
+          if (/^H[1-6]$/.test(tag) && parseInt(tag[1], 10) <= level) break;
+          if (node.classList.contains('pub-list')) {
+            count += node.querySelectorAll('.pub-card').length;
+          }
+        }
+        node = node.nextSibling;
       }
-      if (!next || !next.classList.contains('pub-list')) return;
-
-      var count = next.querySelectorAll('.pub-card').length;
       if (!count) return;
 
       // Update only the first non-empty text node — leaves the ¶ anchor intact
       var textNode = null;
-      heading.childNodes.forEach(function (node) {
-        if (!textNode && node.nodeType === 3 && node.textContent.trim()) textNode = node;
+      heading.childNodes.forEach(function (n) {
+        if (!textNode && n.nodeType === 3 && n.textContent.trim()) textNode = n;
       });
       if (!textNode) return;
       textNode.textContent = textNode.textContent.replace(/\s*\(\d+\)\s*$/, '').trimEnd() + ' (' + count + ') ';
@@ -86,7 +94,7 @@
       // Mirror the count in the matching TOC entry
       var id = heading.id;
       if (id) {
-        var tocLink = document.querySelector('.md-nav--secondary a[href="#' + id + '"]');
+        var tocLink = document.querySelector('.md-nav--secondary a[href="#' + id + '"], .md-nav__link[href="#' + id + '"]');
         if (tocLink) {
           tocLink.textContent = tocLink.textContent.replace(/\s*\(\d+\)\s*$/, '').trim() + ' (' + count + ')';
         }
