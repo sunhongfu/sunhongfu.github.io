@@ -13,6 +13,10 @@
       <div><strong>Email:</strong> <a href="mailto:hongfu.sun@newcastle.edu.au">hongfu.sun@newcastle.edu.au</a></div>
       <div><strong>Phone:</strong> <a href="tel:+61249218637">+61 (02) 4921 8637</a></div>
       <div class="hero-links">
+        <a href="https://www.newcastle.edu.au/profile/hongfu-sun" target="_blank" rel="noopener">UoN Profile</a>
+        <span>|</span>
+        <a href="https://about.uq.edu.au/experts/24057" target="_blank" rel="noopener">UQ Profile</a>
+        <span>|</span>
         <a href="https://scholar.google.com/citations?user=aY5eZ54AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
         <span>|</span>
         <a href="https://github.com/sunhongfu" target="_blank" rel="noopener">GitHub</a>
