@@ -479,8 +479,8 @@
   <div class="pub-num"></div>
   <div class="pub-details">
     <div class="pub-authors">T. Ding, H. Chen, Y. Gao, F. Liu, M.A. Cloos, <span class="me">H. Sun</span>*</div>
-    <div class="pub-title"><a href="https://arxiv.org/abs/2507.03369" target="_blank" rel="noopener"><i>Adaptive Gate-Aware Mamba Networks for Magnetic Resonance Fingerprinting</i></a></div>
-    <div class="pub-venue">2026 IEEE International Symposium on Biomedical Imaging (ISBI), London, UK, April 2026.</div>
+    <div class="pub-title"><a href="https://ieeexplore.ieee.org/document/11515932" target="_blank" rel="noopener"><i>Adaptive Gate-Aware Mamba Networks for Magnetic Resonance Fingerprinting</i></a></div>
+    <div class="pub-venue">2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI), London, United Kingdom, 2026, pp. 1-4, doi: 10.1109/ISBI61048.2026.11515932.</div>
     </div>
 </div>
 <div class="pub-card">
