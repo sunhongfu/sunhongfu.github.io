@@ -62,11 +62,10 @@
 // Dynamically count and display publication totals next to section headings
 (function () {
   function countPubs() {
-    // Only run on the publications page
     if (!document.querySelector('.pub-list')) return;
 
     document.querySelectorAll('h2, h3').forEach(function (heading) {
-      // Find the next sibling .pub-list (skipping whitespace text nodes)
+      // Find the immediately following .pub-list sibling
       var next = heading.nextSibling;
       while (next && (next.nodeType === 3 || (next.nodeType === 1 && !next.classList.contains('pub-list')))) {
         next = next.nextSibling;
@@ -76,36 +75,35 @@
       var count = next.querySelectorAll('.pub-card').length;
       if (!count) return;
 
-      // Update only the first text node so the ¶ anchor element is left intact
+      // Update only the first non-empty text node — leaves the ¶ anchor intact
       var textNode = null;
       heading.childNodes.forEach(function (node) {
         if (!textNode && node.nodeType === 3 && node.textContent.trim()) textNode = node;
       });
       if (!textNode) return;
-      if (!heading.dataset.pubLabel) heading.dataset.pubLabel = textNode.textContent.trim();
-      textNode.textContent = heading.dataset.pubLabel + ' (' + count + ') ';
+      textNode.textContent = textNode.textContent.replace(/\s*\(\d+\)\s*$/, '').trimEnd() + ' (' + count + ') ';
 
-      // Mirror the count in the TOC link for this heading
+      // Mirror the count in the matching TOC entry
       var id = heading.id;
       if (id) {
         var tocLink = document.querySelector('.md-nav--secondary a[href="#' + id + '"]');
         if (tocLink) {
-          if (!tocLink.dataset.pubLabel) tocLink.dataset.pubLabel = tocLink.textContent.trim();
-          tocLink.textContent = tocLink.dataset.pubLabel + ' (' + count + ')';
+          tocLink.textContent = tocLink.textContent.replace(/\s*\(\d+\)\s*$/, '').trim() + ' (' + count + ')';
         }
       }
     });
   }
 
-  function initCount() {
-    countPubs();
-    // Re-run after Material instant navigation swaps the page content
-    document.addEventListener('DOMContentSwapped', countPubs);
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initCount);
+  // document$ is MkDocs Material's Observable; it fires after every page swap
+  // (including instant same-page anchor navigation), making it the correct hook.
+  if (typeof document$ !== 'undefined') {
+    document$.subscribe(countPubs);
   } else {
-    initCount();
+    // Fallback for non-Material or deferred script load
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', countPubs);
+    } else {
+      countPubs();
+    }
   }
 })();
