@@ -76,9 +76,24 @@
       var count = next.querySelectorAll('.pub-card').length;
       if (!count) return;
 
-      // Store original label once; restore it before re-writing
-      if (!heading.dataset.pubLabel) heading.dataset.pubLabel = heading.textContent.trim();
-      heading.textContent = heading.dataset.pubLabel + ' (' + count + ')';
+      // Update only the first text node so the ¶ anchor element is left intact
+      var textNode = null;
+      heading.childNodes.forEach(function (node) {
+        if (!textNode && node.nodeType === 3 && node.textContent.trim()) textNode = node;
+      });
+      if (!textNode) return;
+      if (!heading.dataset.pubLabel) heading.dataset.pubLabel = textNode.textContent.trim();
+      textNode.textContent = heading.dataset.pubLabel + ' (' + count + ') ';
+
+      // Mirror the count in the TOC link for this heading
+      var id = heading.id;
+      if (id) {
+        var tocLink = document.querySelector('.md-nav--secondary a[href="#' + id + '"]');
+        if (tocLink) {
+          if (!tocLink.dataset.pubLabel) tocLink.dataset.pubLabel = tocLink.textContent.trim();
+          tocLink.textContent = tocLink.dataset.pubLabel + ' (' + count + ')';
+        }
+      }
     });
   }
 
