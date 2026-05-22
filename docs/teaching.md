@@ -1,8 +1,4 @@
 # Teaching
-## Teaching Philosophy
-My teaching philosophy
-
-
 ## Current Courses
 <div class="cv-list">
 
@@ -48,6 +44,3 @@ My teaching philosophy
 </div>
 
 
-## Teaching Resources
-
-Recordings etc. PDFs. Tutorials. computer labs (jupyter-notebooks)

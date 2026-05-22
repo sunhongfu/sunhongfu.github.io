@@ -94,16 +94,19 @@
     });
   }
 
-  // document$ is MkDocs Material's Observable; it fires after every page swap
-  // (including instant same-page anchor navigation), making it the correct hook.
-  if (typeof document$ !== 'undefined') {
-    document$.subscribe(countPubs);
-  } else {
-    // Fallback for non-Material or deferred script load
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', countPubs);
-    } else {
-      countPubs();
+  function setup() {
+    countPubs();
+    // Check document$ here (inside DOMContentLoaded), not at script parse time —
+    // Material initializes document$ during page load, so it is only available
+    // after DOMContentLoaded fires.
+    if (typeof document$ !== 'undefined') {
+      document$.subscribe(function () { setTimeout(countPubs, 0); });
     }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', setup);
+  } else {
+    setup();
   }
 })();
