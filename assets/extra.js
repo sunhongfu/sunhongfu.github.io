@@ -58,3 +58,39 @@
     init();
   }
 })();
+
+// Dynamically count and display publication totals next to section headings
+(function () {
+  function countPubs() {
+    // Only run on the publications page
+    if (!document.querySelector('.pub-list')) return;
+
+    document.querySelectorAll('h2, h3').forEach(function (heading) {
+      // Find the next sibling .pub-list (skipping whitespace text nodes)
+      var next = heading.nextSibling;
+      while (next && (next.nodeType === 3 || (next.nodeType === 1 && !next.classList.contains('pub-list')))) {
+        next = next.nextSibling;
+      }
+      if (!next || !next.classList.contains('pub-list')) return;
+
+      var count = next.querySelectorAll('.pub-card').length;
+      if (!count) return;
+
+      // Store original label once; restore it before re-writing
+      if (!heading.dataset.pubLabel) heading.dataset.pubLabel = heading.textContent.trim();
+      heading.textContent = heading.dataset.pubLabel + ' (' + count + ')';
+    });
+  }
+
+  function initCount() {
+    countPubs();
+    // Re-run after Material instant navigation swaps the page content
+    document.addEventListener('DOMContentSwapped', countPubs);
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initCount);
+  } else {
+    initCount();
+  }
+})();
