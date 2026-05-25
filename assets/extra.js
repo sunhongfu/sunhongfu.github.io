@@ -92,11 +92,12 @@
       textNode.textContent = textNode.textContent.replace(/\s*\(\d+\)\s*$/, '').trimEnd() + ' (' + count + ') ';
 
       // Mirror the count in the matching TOC entry.
-      // Material wraps TOC link text in <span class="md-ellipsis">, so target
-      // that span; fall back to the <a> itself if the span is absent.
+      // Use href$= (ends-with) to match both '#id' and '/page/#id' href formats.
+      // Scope to aside.md-sidebar--secondary to avoid hitting left-nav links.
+      // Material wraps the visible text in <span class="md-ellipsis">.
       var id = heading.id;
       if (id) {
-        var tocLink = document.querySelector('[data-md-component="toc"] a[href="#' + id + '"]');
+        var tocLink = document.querySelector('aside.md-sidebar--secondary a[href$="#' + id + '"]');
         if (tocLink) {
           var tocTarget = tocLink.querySelector('.md-ellipsis') || tocLink;
           tocTarget.textContent = tocTarget.textContent.replace(/\s*\(\d+\)\s*$/, '').trim() + ' (' + count + ')';
@@ -106,13 +107,14 @@
   }
 
   function setup() {
-    countPubs();
+    countPubs(); // immediate pass — updates headings
+    // Second pass after a short delay so Material has time to populate the TOC
+    // sidebar (it does so asynchronously after DOMContentLoaded).
+    setTimeout(countPubs, 150);
     // Check document$ inside setup() — Material initialises it during page load
     // so it is not yet defined at script-parse time.
     if (typeof document$ !== 'undefined') {
-      // setTimeout gives Material a tick to finish rendering the TOC after
-      // document$ fires, so the [data-md-component="toc"] links are in the DOM.
-      document$.subscribe(function () { setTimeout(countPubs, 50); });
+      document$.subscribe(function () { setTimeout(countPubs, 150); });
     }
   }
 
