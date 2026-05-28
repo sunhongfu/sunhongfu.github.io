@@ -61,80 +61,48 @@
 
 // Dynamically count and display publication totals next to section headings
 (function () {
-  // Counts computed by countHeadings(); consumed by applyToc().
-  var tocQueue = [];
-  var tocWatcher = null;
-
-  function applyToc() {
-    if (!tocQueue.length) return;
-    var sidebar = document.querySelector('aside.md-sidebar--secondary');
-    if (!sidebar) return;
-    tocQueue.forEach(function (item) {
-      var link = sidebar.querySelector('a[href$="#' + item.id + '"]');
-      if (!link) return;
-      var el = link.querySelector('.md-ellipsis') || link;
-      el.textContent = el.textContent.replace(/\s*\(\d+\)\s*$/, '').trim() + ' (' + item.count + ')';
-    });
-  }
-
-  function countHeadings() {
+  function countPubs() {
     if (!document.querySelector('.pub-list')) return;
-    tocQueue = [];
 
     document.querySelectorAll('h2, h3').forEach(function (heading) {
-      // Walk siblings until a heading of equal/higher level — sums all pub-lists
-      // in scope so that "Conference Abstracts" gets the combined ISMRM + Other count.
-      var level = parseInt(heading.tagName[1], 10);
-      var count = 0;
-      var node = heading.nextSibling;
+      // Sum all pub-lists in scope (until next same/higher-level heading).
+      var level = parseInt(heading.tagName[1], 10), count = 0, node = heading.nextSibling;
       while (node) {
         if (node.nodeType === 1) {
-          var tag = node.tagName;
-          if (/^H[1-6]$/.test(tag) && parseInt(tag[1], 10) <= level) break;
+          if (/^H[1-6]$/.test(node.tagName) && parseInt(node.tagName[1], 10) <= level) break;
           if (node.classList.contains('pub-list')) count += node.querySelectorAll('.pub-card').length;
         }
         node = node.nextSibling;
       }
       if (!count) return;
 
-      // Update only the first non-empty text node — leaves the ¶ anchor intact.
+      // Update the heading's first text node (leaves the ¶ anchor intact).
       var textNode = null;
       heading.childNodes.forEach(function (n) {
         if (!textNode && n.nodeType === 3 && n.textContent.trim()) textNode = n;
       });
       if (!textNode) return;
-      textNode.textContent = textNode.textContent.replace(/\s*\(\d+\)\s*$/, '').trimEnd() + ' (' + count + ') ';
+      var base = textNode.textContent.replace(/\s*\(\d+\)\s*$/, '').trim();
+      textNode.textContent = base + ' (' + count + ') ';
 
-      if (heading.id) tocQueue.push({ id: heading.id, count: count });
+      // Update the matching TOC link by text content — avoids any href-format
+      // or element-type assumptions about Material's sidebar markup.
+      document.querySelectorAll('.md-nav--secondary .md-nav__link').forEach(function (link) {
+        var el = link.querySelector('.md-ellipsis') || link;
+        if (el.textContent.replace(/\s*\(\d+\)\s*$/, '').trim() === base) {
+          el.textContent = base + ' (' + count + ')';
+        }
+      });
     });
-
-    applyToc();
-  }
-
-  // Watch the TOC sidebar for DOM additions — Material populates it
-  // asynchronously, so we apply counts the moment links appear.
-  function watchToc() {
-    if (tocWatcher) { tocWatcher.disconnect(); tocWatcher = null; }
-    var sidebar = document.querySelector('aside.md-sidebar--secondary');
-    if (!sidebar) return;
-    tocWatcher = new MutationObserver(function (mutations) {
-      var hasNewNodes = mutations.some(function (m) { return m.addedNodes.length > 0; });
-      if (hasNewNodes) applyToc();
-    });
-    tocWatcher.observe(sidebar, { childList: true, subtree: true });
-    // Disconnect once TOC is stable (3 s is more than enough).
-    setTimeout(function () { if (tocWatcher) { tocWatcher.disconnect(); tocWatcher = null; } }, 3000);
   }
 
   function setup() {
-    countHeadings();
-    watchToc();
-    // Check document$ inside setup() — Material defines it during page load,
-    // not at script-parse time.
+    countPubs();
+    // Second pass after a short delay: Material may finish populating the TOC
+    // after DOMContentLoaded, so run again once it is settled.
+    setTimeout(countPubs, 300);
     if (typeof document$ !== 'undefined') {
-      document$.subscribe(function () {
-        setTimeout(function () { countHeadings(); watchToc(); }, 50);
-      });
+      document$.subscribe(function () { setTimeout(countPubs, 300); });
     }
   }
 
