@@ -15,15 +15,6 @@
 <div class="pub-card">
   <div class="pub-num"></div>
   <div class="pub-details">
-    <div class="pub-authors">M. Li, C. Chen, Z. Li, Y. Liu, S. Shan, P. Wu, P. Rong, F. Liu, G.B. Pike, <span class="me">H. Sun</span>, Y. Gao</div>
-    <div class="pub-title"><a href="https://arxiv.org/abs/2506.13293" target="_blank" rel="noopener"><i>SUSEP-Net: Simulation-Supervised and Contrastive Learning-based Deep Neural Networks for Susceptibility Source Separation</i></a></div>
-    <div class="pub-venue">arXiv preprint arXiv:2506.13293 (2025).</div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-num"></div>
-  <div class="pub-details">
     <div class="pub-authors">W. Ma, M.B. Lorenzana, W. Dai, <span class="me">H. Sun</span>, S.S. Chandra</div>
     <div class="pub-title"><a href="https://arxiv.org/abs/2310.04705" target="_blank" rel="noopener"><i>Multi-scale MRI reconstruction via dilated ensemble networks</i></a></div>
     <div class="pub-venue">arXiv preprint arXiv:2310.04705 (2023).</div>
@@ -35,6 +26,14 @@
 ## Journal Articles
 
 <div class="pub-list">
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">M. Li, C. Chen, Z. Li, Y. Liu, S. Shan, P. Wu, P. Rong, F. Liu, G.B. Pike, A.H. Wilman, <span class="me">H. Sun</span>, Y. Gao</div>
+    <div class="pub-title"><a href="https://doi.org/10.1016/j.bspc.2026.111273" target="_blank" rel="noopener"><i>SUSEP-Net: Simulation-supervised and contrastive regularization-based deep neural networks for susceptibility source separation</i></a></div>
+    <div class="pub-venue">Biomedical Signal Processing and Control. 2026;128:111273.</div>
+    </div>
+</div>
 <div class="pub-card">
   <div class="pub-num"></div>
   <div class="pub-details">
