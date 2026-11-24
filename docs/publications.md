@@ -6,6 +6,15 @@
 <div class="pub-card">
   <div class="pub-num"></div>
   <div class="pub-details">
+    <div class="pub-authors">T. Ding, Y. Gao, Z. Xiong, F. Liu, M.A. Cloos, J. Jin, <span class="me">H. Sun</span>*</div>
+    <div class="pub-title"><a href="https://arxiv.org/abs/2610.19894" target="_blank" rel="noopener"><i>DeepPV-MRF: End-to-End Partial-Volume Fraction Estimation from MR Fingerprinting Time Series</i></a></div>
+    <div class="pub-venue">arXiv preprint arXiv:2610.19894 (2026).</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
     <div class="pub-authors">Z. Wang, W. Dai, T.T. Dao, S. Bollmann, <span class="me">H. Sun</span>, C. Engstrom, S.S. Chandra</div>
     <div class="pub-title"><a href="https://arxiv.org/abs/2510.26635" target="_blank" rel="noopener"><i>SAMRI: Segment Anything Model for MRI</i></a></div>
     <div class="pub-venue">arXiv preprint arXiv:2510.26635 (2025).</div>
