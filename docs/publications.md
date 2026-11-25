@@ -17,7 +17,7 @@
   <div class="pub-details">
     <div class="pub-authors">Z. Wang, W. Dai, T.T. Dao, S. Bollmann, <span class="me">H. Sun</span>, C. Engstrom, S.S. Chandra</div>
     <div class="pub-title"><a href="https://arxiv.org/abs/2510.26635" target="_blank" rel="noopener"><i>SAMRI: Segment Anything Model for MRI</i></a></div>
-    <div class="pub-venue">arXiv preprint arXiv:2510.26635 (2025).</div>
+    <div class="pub-venue">arXiv preprint arXiv:2510.26635 (2025); also on <a href="https://doi.org/10.2139/ssrn.6352001" target="_blank" rel="noopener">SSRN</a> (2026).</div>
   </div>
 </div>
 
@@ -450,6 +450,15 @@
 ## Editorials
 
 <div class="pub-list">
+
+<div class="pub-card">
+  <div class="pub-num"></div>
+  <div class="pub-details">
+    <div class="pub-authors">D. Shi, K. Zhao, Y. Du, <span class="me">H. Sun</span>, G. Yan</div>
+    <div class="pub-title"><a href="https://doi.org/10.3389/fnhum.2026.1964327" target="_blank" rel="noopener"><i>Editorial: Network neuroscience in neuropsychiatric disorders</i></a></div>
+    <div class="pub-venue">Frontiers in Human Neuroscience. 2026;20:1964327.</div>
+    </div>
+</div>
 
 <div class="pub-card">
   <div class="pub-num"></div>
