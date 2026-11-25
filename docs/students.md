@@ -27,18 +27,6 @@
 
 ---
 
-## Current Masters / Honours
-<div class="cv-list">
-
-<div class="cv-card">
-  <div class="cv-title">Masters / Honours Students</div>
-  <div class="cv-sub">List names, projects.</div>
-</div>
-
-</div>
-
----
-
 ## Alumni & Destinations
 <div class="cv-list">
 

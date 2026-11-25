@@ -105,28 +105,8 @@
 
   <div class="cv-card">
     <div class="cv-title">
-      Key Collaborators
-      <div class="cv-sub">Add individual names (e.g., Wilman, Butcher, Spratt, etc.)</div>
-    </div>
-  </div>
-
-  <div class="cv-card">
-    <div class="cv-title">
       Institutional Partnerships
       <div class="cv-sub">National Imaging Facility, Siemens, GE, Hyperfine, Jiaxing University, etc.</div>
-    </div>
-  </div>
-
-</div>
-
-
-## Selected Results
-<div class="cv-list">
-
-  <div class="cv-card">
-    <div class="cv-title">
-      Research Outputs
-      <div class="cv-sub">Add figures, paper links, GitHub repos here</div>
     </div>
   </div>
 
