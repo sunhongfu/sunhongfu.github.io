@@ -113,6 +113,17 @@
   margin: .15rem 0 .15rem 0;
 }
 
+.md-typeset .hero-meta .hero-tagline {
+  font-size: 0.85rem;
+  font-weight: 500;
+  line-height: 1.4;
+  margin: 0 0 .7rem 0;
+  color: var(--md-primary-fg-color);
+}
+[data-md-color-scheme="slate"] .md-typeset .hero-meta .hero-tagline {
+  color: var(--md-primary-fg-color--light);
+}
+
 .md-typeset .hero-contact {
   margin-top: .6rem;
   font-size: .75rem;
@@ -146,6 +157,7 @@
   }
   .md-typeset .hero-meta h1 { font-size: 1.9rem; }
   .md-typeset .hero-meta .hero-title { font-size: 1.05rem; }
+  .md-typeset .hero-meta .hero-tagline { font-size: 1.15rem; }
 }
 
 /* Extra small: full width image on top */
