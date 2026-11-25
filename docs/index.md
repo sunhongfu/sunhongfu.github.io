@@ -3,6 +3,7 @@
 
   <div class="hero-meta">
     <h1>Hongfu Sun, PhD</h1>
+    <p class="hero-tagline">Faster, quantitative MRI for clinical care — from the research scanner to the bedside.</p>
     <h3 class="hero-title">Senior Lecturer – Medical Engineering</h3>
     <h3 class="hero-title">Medical Imaging &amp; AI Group Leader</h3>
     <h3>School of Engineering</h3>
