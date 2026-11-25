@@ -24,6 +24,8 @@ jobs:
           pip install mkdocs-material mkdocs-minify-plugin mkdocs-rss-plugin
       - name: Build
         run: mkdocs build --strict
+      - name: Check for placeholders and broken internal links
+        run: python .github/scripts/check_site.py site
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:

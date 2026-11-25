@@ -1,10 +1,11 @@
 site_name: Hongfu Sun's Page
-site_description: "Personal website and academic profile of Dr Hongfu Sun, Senior Lecturer in Medical Imaging & AI at the University of Newcastle, Australia"
+site_description: "Personal website and academic profile of Dr Hongfu Sun, Senior Lecturer in Medical Engineering at the University of Newcastle, Australia, leading the Medical Imaging & AI group"
 site_url: https://sunhongfu.github.io
 # repo_url: https://github.com/sunhongfu/sunhongfu.github.io # this will add the GitHub icon in the nav bar
 site_author: "Hongfu Sun"
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.instant
     - navigation.tabs

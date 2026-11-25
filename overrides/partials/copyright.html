@@ -1,0 +1,9 @@
+{#- Overrides Material's copyright partial to add an automatic "last updated" date. -#}
+<div class="md-copyright">
+  {% if config.copyright %}
+    <div class="md-copyright__highlight">
+      {{ config.copyright }}
+    </div>
+  {% endif %}
+  Last updated {{ build_date_utc.strftime('%-d %B %Y') }}
+</div>
